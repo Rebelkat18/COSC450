@@ -125,16 +125,16 @@
         "Question 5": ""
       },
       "results": {
-        "Red": 1,
-        "Orange": 2,
-        "Yellow": 3,
-        "Green": 4,
-        "Blue": 5,
-        "Purple": 6,
-        "Brown": 7,
-        "Black": 8,
-        "White": 9,
-        "Gray": 10
+        "Mewtwo": 1,
+        "Pikachu": 2,
+        "Lucario": 3,
+        "Eevee": 4,
+        "Squirtle": 5,
+        "Jigglypuff": 6,
+        "Snorlax": 7,
+        "Charizard": 8,
+        "Gangar": 9,
+        "Dragonite": 10
       }
     },
     {
@@ -148,16 +148,17 @@
         "Question 5": ""
       },
       "results": {
-        "Red": 1,
-        "Orange": 2,
-        "Yellow": 3,
-        "Green": 4,
-        "Blue": 5,
-        "Purple": 6,
-        "Brown": 7,
-        "Black": 8,
-        "White": 9,
-        "Gray": 10
+        "Cam": 1,
+        "Lola": 2,
+        "Fifi": 3,
+        "Winston": 4,
+        "Avery the Mallard": 5,
+        "Leonard the Rainbow Mane Lion": 6,
+        "Archie Axolotl": 7,
+        "Gordon Shark": 8,
+        "Maui the Pineapple": 9,
+        "Benny the Bigfoot": 10,
+        "Floyd": 11
       }
     }
   ]
