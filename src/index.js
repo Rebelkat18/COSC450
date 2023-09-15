@@ -1,4 +1,4 @@
-import React from 'react';
 import "./App";
 
-
+import data from './data.json';
+console.log(data);
