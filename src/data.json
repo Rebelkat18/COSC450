@@ -1,0 +1,373 @@
+{
+  "Quizzes": [
+    {
+      "title": "What color are you?",
+      "category": "General",
+      "questions": {
+        "Question 1": "",
+        "Question 2": "",
+        "Question 3": "",
+        "Question 4": "",
+        "Question 5": ""
+      },
+      "results": {
+        "Red": 1,
+        "Orange": 2,
+        "Yellow": 3,
+        "Green": 4,
+        "Blue": 5,
+        "Purple": 6,
+        "Brown": 7,
+        "Black": 8,
+        "White": 9,
+        "Gray": 10
+      }
+    },
+    {
+      "title": "What day of the week are you?",
+      "category": "General",
+      "questions": {
+        "Question 1": "",
+        "Question 2": "",
+        "Question 3": "",
+        "Question 4": "",
+        "Question 5": ""
+      },
+      "results": {
+        "Monday": 1,
+        "Tuesday": 2,
+        "Wednesday": 3,
+        "Thursday": 4,
+        "Friday": 5,
+        "Saturday": 6,
+        "Sunday": 7
+      }
+    },
+    {
+      "title": "What month are you?",
+      "category": "General",
+      "questions": {
+        "Question 1": "",
+        "Question 2": "",
+        "Question 3": "",
+        "Question 4": "",
+        "Question 5": ""
+      },
+      "results": {
+        "January": 1,
+        "Feburary": 2,
+        "March": 3,
+        "April": 4,
+        "May": 5,
+        "June": 6,
+        "July": 7,
+        "August": 8,
+        "September": 9,
+        "October": 10,
+        "November": 11,
+        "December": 12
+      }
+    },
+    {
+      "title": "What article of clothing are you?",
+      "category": "General",
+      "questions": {
+        "Question 1": "",
+        "Question 2": "",
+        "Question 3": "",
+        "Question 4": "",
+        "Question 5": ""
+      },
+      "results": {
+        "Shirt": 1,
+        "Pants": 2,
+        "Shorts": 3,
+        "Shoes": 4,
+        "Bra": 5,
+        "Boxers": 6,
+        "Dress": 7,
+        "Sweatshirt": 8,
+        "Jacket": 9,
+        "Hat": 10
+      }
+    },
+    {
+      "title": "What shoe are you?",
+      "category": "General",
+      "questions": {
+        "Question 1": "",
+        "Question 2": "",
+        "Question 3": "",
+        "Question 4": "",
+        "Question 5": ""
+      },
+      "results": {
+        "Converse": 1,
+        "Nike": 2,
+        "Adidas": 3,
+        "Vans": 4,
+        "Flip Flops": 5,
+        "High Heels": 6,
+        "Crocs": 7,
+        "New Balance": 8,
+        "Boots": 9,
+        "Slippers": 10
+      }
+    },
+    {
+      "title": "What Pokemon are you?",
+      "category": "General",
+      "questions": {
+        "Question 1": "",
+        "Question 2": "",
+        "Question 3": "",
+        "Question 4": "",
+        "Question 5": ""
+      },
+      "results": {
+        "Mewtwo": 1,
+        "Pikachu": 2,
+        "Lucario": 3,
+        "Eevee": 4,
+        "Squirtle": 5,
+        "Jigglypuff": 6,
+        "Snorlax": 7,
+        "Charizard": 8,
+        "Gangar": 9,
+        "Dragonite": 10
+      }
+    },
+    {
+      "title": "What Squishmallow are you?",
+      "category": "General",
+      "questions": {
+        "Question 1": "",
+        "Question 2": "",
+        "Question 3": "",
+        "Question 4": "",
+        "Question 5": ""
+      },
+      "results": {
+        "Cam": 1,
+        "Lola": 2,
+        "Fifi": 3,
+        "Winston": 4,
+        "Avery the Mallard": 5,
+        "Leonard the Rainbow Mane Lion": 6,
+        "Archie Axolotl": 7,
+        "Gordon Shark": 8,
+        "Maui the Pineapple": 9,
+        "Benny the Bigfoot": 10,
+        "Floyd": 11
+      }
+    }, 
+    {
+      "title": "Which Disney Princess are you?",
+      "category": "Disney",
+      "questions": {
+        "Question 1": "",
+        "Question 2": "",
+        "Question 3": "",
+        "Question 4": "",
+        "Question 5": ""
+      },
+      "results": {
+        "Ariel": 1,
+        "Tiana": 2,
+        "Jasmine": 3,
+        "Sleeping Beauty": 4,
+        "Rapunzel": 5,
+        "Belle": 6,
+        "Merida": 7,
+        "Mulan": 8,
+        "Cinderella": 9,
+        "Pocahontas": 10,
+        "Snow White": 11,
+        "Raya": 12,
+        "Moana": 13
+      }
+    },
+    {
+      "title": "Which Disney character are you?",
+      "category": "Disney",
+      "questions": {
+        "Question 1": "",
+        "Question 2": "",
+        "Question 3": "",
+        "Question 4": "",
+        "Question 5": ""
+      },
+      "results": {
+        "Tigger": 1,
+        "Baymax": 2,
+        "Olaf": 3,
+        "Stitch": 4,
+        "Tinker Bell": 5,
+        "Cheshire Cat": 6,
+        "Chip": 7,
+        "Minnie Mouse": 8,
+        "Micky Mouse": 9,
+        "Genie": 10
+      }
+    },
+    {
+      "title": "Which Friend are you?",
+      "category": "TV",
+      "questions": {
+        "Question 1": "",
+        "Question 2": "",
+        "Question 3": "",
+        "Question 4": "",
+        "Question 5": ""
+      },
+      "results": {
+        "Ross Geller": 1,
+        "Rachel Green": 2,
+        "Phoebe Buffay": 3,
+        "Monica Geller": 4,
+        "Chandler Bing": 5,
+        "Joey Tribbiani": 6
+      }
+    },
+    {
+      "title": "Which Big Bang Theory character are you?",
+      "category": "TV",
+      "questions": {
+        "Question 1": "",
+        "Question 2": "",
+        "Question 3": "",
+        "Question 4": "",
+        "Question 5": ""
+      },
+      "results": {
+        "Sheldon Cooper": 1,
+        "Penny": 2,
+        "Leonard Hofstadter": 3,
+        "Howard Wolowitz": 4,
+        "Amy Farrah Fowler": 5,
+        "Raj Koothrappali": 6,
+        "Bernadette Rostenkowski": 7,
+        "Stuart Bloom": 8,
+        "Barry Kripke": 9,
+        "Leslie Winkle": 10
+      }
+    },
+    {
+      "title": "Which programming language are you?",
+      "category": "Computer Science",
+      "questions": {
+        "Question 1": "",
+        "Question 2": "",
+        "Question 3": "",
+        "Question 4": "",
+        "Question 5": ""
+      },
+      "results": {
+        "Python": 1,
+        "Java": 2,
+        "C#": 3,
+        "C++": 4,
+        "HTML": 5,
+        "R": 6,
+        "JavaScript": 7,
+        "CSS": 8,
+        "SQL": 9,
+        "Assembly": 10,
+        "MatLab": 11,
+        "PHP": 12,
+        "Ruby": 13,
+        "Rust": 14
+      }
+    },
+    {
+      "title": "Which data structure are you?",
+      "category": "Computer Science",
+      "questions": {
+        "Question 1": "",
+        "Question 2": "",
+        "Question 3": "",
+        "Question 4": "",
+        "Question 5": ""
+      },
+      "results": {
+        "Array": 1,
+        "Stack": 2,
+        "Linked-List": 3,
+        "Queue": 4,
+        "Tree": 5,
+        "Graph": 6,
+        "Hash Map": 7,
+        "Matrix": 8,
+        "Tuple": 9,
+        "Dictionary": 10
+      }
+    },
+    {
+      "title": "Which variable type are you?",
+      "category": "Computer Science",
+      "questions": {
+        "Question 1": "",
+        "Question 2": "",
+        "Question 3": "",
+        "Question 4": "",
+        "Question 5": ""
+      },
+      "results": {
+        "Boolean": 1,
+        "String": 2,
+        "Integer": 3,
+        "Float": 4,
+        "Character": 5,
+        "Double": 6,
+        "Null": 7
+      }
+    },
+    {
+      "title": "Which genre are you?",
+      "category": "General",
+      "questions": {
+        "Question 1": "",
+        "Question 2": "",
+        "Question 3": "",
+        "Question 4": "",
+        "Question 5": ""
+      },
+      "results": {
+        "Action": 1,
+        "Comedy": 2,
+        "Horror": 3,
+        "Fantasy": 4,
+        "Historical": 5,
+        "Romance": 6,
+        "Science Fiction": 7,
+        "Thriller": 8,
+        "Satire": 9,
+        "True Crime": 10,
+        "Adventure": 11
+      }
+    },
+    {
+      "title": "Which video game are you?",
+      "category": "Video Games",
+      "questions": {
+        "Question 1": "",
+        "Question 2": "",
+        "Question 3": "",
+        "Question 4": "",
+        "Question 5": ""
+      },
+      "results": {
+        "Minecraft": 1,
+        "Resident Evil 4": 2,
+        "Red Dead Redemption 2": 3,
+        "Beat Saber": 4,
+        "Tetris": 5,
+        "Elden Ring": 6,
+        "Sims": 7,
+        "Fortnite": 8,
+        "Mario Kart": 9,
+        "Pokemon Go": 10
+      }
+    }
+  ]
+}
