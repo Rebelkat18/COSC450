@@ -4,11 +4,32 @@
       "title": "What color are you?",
       "category": "General",
       "questions": {
-        "Question 1": "",
-        "Question 2": "",
-        "Question 3": "",
-        "Question 4": "",
-        "Question 5": ""
+        "Question 1": {
+          "Question": "How are you feeling?",
+          "Answers": { "Good": 3, "Bad": 5, "Sad": 7, "Mad": 10, "Hungry": 15 }
+        },
+        "Question 2": {
+          "Question": "How likely are you to help out a friend in need?",
+          "Answers": { "25%": 3, "50%": 5, "75%": 7, "100%": 10, "0%": 15 }
+        },
+        "Question 3": {
+          "Question": "When did you get up today?",
+          "Answers": {
+            "5:00AM": 3,
+            "7:00AM": 5,
+            "9:00AM": 7,
+            "10:00AM": 10,
+            "12:00PM": 15
+          }
+        },
+        "Question 4": {
+          "Question": "Positive or Negative?",
+          "Answers": { "Positive": 3, "Negative": 5 }
+        },
+        "Question 5": {
+          "Question": "Is your room clean right now?",
+          "Answers": { "Yes": 3, "No": 5 }
+        }
       },
       "results": {
         "Red": 1,
@@ -27,11 +48,32 @@
       "title": "What day of the week are you?",
       "category": "General",
       "questions": {
-        "Question 1": "",
-        "Question 2": "",
-        "Question 3": "",
-        "Question 4": "",
-        "Question 5": ""
+        "Question 1": {
+          "Question": "How are you feeling?",
+          "Answers": { "Good": 3, "Bad": 5, "Sad": 7, "Mad": 10, "Hungry": 15 }
+        },
+        "Question 2": {
+          "Question": "How likely are you to help out a friend in need?",
+          "Answers": { "25%": 3, "50%": 5, "75%": 7, "100%": 10, "0%": 15 }
+        },
+        "Question 3": {
+          "Question": "When did you get up today?",
+          "Answers": {
+            "5:00AM": 3,
+            "7:00AM": 5,
+            "9:00AM": 7,
+            "10:00AM": 10,
+            "12:00PM": 15
+          }
+        },
+        "Question 4": {
+          "Question": "Positive or Negative?",
+          "Answers": { "Positive": 3, "Negative": 5 }
+        },
+        "Question 5": {
+          "Question": "Is your room clean right now?",
+          "Answers": { "Yes": 3, "No": 5 }
+        }
       },
       "results": {
         "Monday": 1,
@@ -47,11 +89,32 @@
       "title": "What month are you?",
       "category": "General",
       "questions": {
-        "Question 1": "",
-        "Question 2": "",
-        "Question 3": "",
-        "Question 4": "",
-        "Question 5": ""
+        "Question 1": {
+          "Question": "How are you feeling?",
+          "Answers": { "Good": 3, "Bad": 5, "Sad": 7, "Mad": 10, "Hungry": 15 }
+        },
+        "Question 2": {
+          "Question": "How likely are you to help out a friend in need?",
+          "Answers": { "25%": 3, "50%": 5, "75%": 7, "100%": 10, "0%": 15 }
+        },
+        "Question 3": {
+          "Question": "When did you get up today?",
+          "Answers": {
+            "5:00AM": 3,
+            "7:00AM": 5,
+            "9:00AM": 7,
+            "10:00AM": 10,
+            "12:00PM": 15
+          }
+        },
+        "Question 4": {
+          "Question": "Positive or Negative?",
+          "Answers": { "Positive": 3, "Negative": 5 }
+        },
+        "Question 5": {
+          "Question": "Is your room clean right now?",
+          "Answers": { "Yes": 3, "No": 5 }
+        }
       },
       "results": {
         "January": 1,
@@ -72,11 +135,32 @@
       "title": "What article of clothing are you?",
       "category": "General",
       "questions": {
-        "Question 1": "",
-        "Question 2": "",
-        "Question 3": "",
-        "Question 4": "",
-        "Question 5": ""
+        "Question 1": {
+          "Question": "How are you feeling?",
+          "Answers": { "Good": 3, "Bad": 5, "Sad": 7, "Mad": 10, "Hungry": 15 }
+        },
+        "Question 2": {
+          "Question": "How likely are you to help out a friend in need?",
+          "Answers": { "25%": 3, "50%": 5, "75%": 7, "100%": 10, "0%": 15 }
+        },
+        "Question 3": {
+          "Question": "When did you get up today?",
+          "Answers": {
+            "5:00AM": 3,
+            "7:00AM": 5,
+            "9:00AM": 7,
+            "10:00AM": 10,
+            "12:00PM": 15
+          }
+        },
+        "Question 4": {
+          "Question": "Positive or Negative?",
+          "Answers": { "Positive": 3, "Negative": 5 }
+        },
+        "Question 5": {
+          "Question": "Is your room clean right now?",
+          "Answers": { "Yes": 3, "No": 5 }
+        }
       },
       "results": {
         "Shirt": 1,
@@ -95,11 +179,32 @@
       "title": "What shoe are you?",
       "category": "General",
       "questions": {
-        "Question 1": "",
-        "Question 2": "",
-        "Question 3": "",
-        "Question 4": "",
-        "Question 5": ""
+        "Question 1": {
+          "Question": "How are you feeling?",
+          "Answers": { "Good": 3, "Bad": 5, "Sad": 7, "Mad": 10, "Hungry": 15 }
+        },
+        "Question 2": {
+          "Question": "How likely are you to help out a friend in need?",
+          "Answers": { "25%": 3, "50%": 5, "75%": 7, "100%": 10, "0%": 15 }
+        },
+        "Question 3": {
+          "Question": "When did you get up today?",
+          "Answers": {
+            "5:00AM": 3,
+            "7:00AM": 5,
+            "9:00AM": 7,
+            "10:00AM": 10,
+            "12:00PM": 15
+          }
+        },
+        "Question 4": {
+          "Question": "Positive or Negative?",
+          "Answers": { "Positive": 3, "Negative": 5 }
+        },
+        "Question 5": {
+          "Question": "Is your room clean right now?",
+          "Answers": { "Yes": 3, "No": 5 }
+        }
       },
       "results": {
         "Converse": 1,
@@ -118,11 +223,32 @@
       "title": "What Pokemon are you?",
       "category": "General",
       "questions": {
-        "Question 1": "",
-        "Question 2": "",
-        "Question 3": "",
-        "Question 4": "",
-        "Question 5": ""
+        "Question 1": {
+          "Question": "How are you feeling?",
+          "Answers": { "Good": 3, "Bad": 5, "Sad": 7, "Mad": 10, "Hungry": 15 }
+        },
+        "Question 2": {
+          "Question": "How likely are you to help out a friend in need?",
+          "Answers": { "25%": 3, "50%": 5, "75%": 7, "100%": 10, "0%": 15 }
+        },
+        "Question 3": {
+          "Question": "When did you get up today?",
+          "Answers": {
+            "5:00AM": 3,
+            "7:00AM": 5,
+            "9:00AM": 7,
+            "10:00AM": 10,
+            "12:00PM": 15
+          }
+        },
+        "Question 4": {
+          "Question": "Positive or Negative?",
+          "Answers": { "Positive": 3, "Negative": 5 }
+        },
+        "Question 5": {
+          "Question": "Is your room clean right now?",
+          "Answers": { "Yes": 3, "No": 5 }
+        }
       },
       "results": {
         "Mewtwo": 1,
@@ -141,11 +267,32 @@
       "title": "What Squishmallow are you?",
       "category": "General",
       "questions": {
-        "Question 1": "",
-        "Question 2": "",
-        "Question 3": "",
-        "Question 4": "",
-        "Question 5": ""
+        "Question 1": {
+          "Question": "How are you feeling?",
+          "Answers": { "Good": 3, "Bad": 5, "Sad": 7, "Mad": 10, "Hungry": 15 }
+        },
+        "Question 2": {
+          "Question": "How likely are you to help out a friend in need?",
+          "Answers": { "25%": 3, "50%": 5, "75%": 7, "100%": 10, "0%": 15 }
+        },
+        "Question 3": {
+          "Question": "When did you get up today?",
+          "Answers": {
+            "5:00AM": 3,
+            "7:00AM": 5,
+            "9:00AM": 7,
+            "10:00AM": 10,
+            "12:00PM": 15
+          }
+        },
+        "Question 4": {
+          "Question": "Positive or Negative?",
+          "Answers": { "Positive": 3, "Negative": 5 }
+        },
+        "Question 5": {
+          "Question": "Is your room clean right now?",
+          "Answers": { "Yes": 3, "No": 5 }
+        }
       },
       "results": {
         "Cam": 1,
@@ -160,16 +307,37 @@
         "Benny the Bigfoot": 10,
         "Floyd": 11
       }
-    }, 
+    },
     {
       "title": "Which Disney Princess are you?",
       "category": "Disney",
       "questions": {
-        "Question 1": "",
-        "Question 2": "",
-        "Question 3": "",
-        "Question 4": "",
-        "Question 5": ""
+        "Question 1": {
+          "Question": "How are you feeling?",
+          "Answers": { "Good": 3, "Bad": 5, "Sad": 7, "Mad": 10, "Hungry": 15 }
+        },
+        "Question 2": {
+          "Question": "How likely are you to help out a friend in need?",
+          "Answers": { "25%": 3, "50%": 5, "75%": 7, "100%": 10, "0%": 15 }
+        },
+        "Question 3": {
+          "Question": "When did you get up today?",
+          "Answers": {
+            "5:00AM": 3,
+            "7:00AM": 5,
+            "9:00AM": 7,
+            "10:00AM": 10,
+            "12:00PM": 15
+          }
+        },
+        "Question 4": {
+          "Question": "Positive or Negative?",
+          "Answers": { "Positive": 3, "Negative": 5 }
+        },
+        "Question 5": {
+          "Question": "Is your room clean right now?",
+          "Answers": { "Yes": 3, "No": 5 }
+        }
       },
       "results": {
         "Ariel": 1,
@@ -191,11 +359,32 @@
       "title": "Which Disney character are you?",
       "category": "Disney",
       "questions": {
-        "Question 1": "",
-        "Question 2": "",
-        "Question 3": "",
-        "Question 4": "",
-        "Question 5": ""
+        "Question 1": {
+          "Question": "How are you feeling?",
+          "Answers": { "Good": 3, "Bad": 5, "Sad": 7, "Mad": 10, "Hungry": 15 }
+        },
+        "Question 2": {
+          "Question": "How likely are you to help out a friend in need?",
+          "Answers": { "25%": 3, "50%": 5, "75%": 7, "100%": 10, "0%": 15 }
+        },
+        "Question 3": {
+          "Question": "When did you get up today?",
+          "Answers": {
+            "5:00AM": 3,
+            "7:00AM": 5,
+            "9:00AM": 7,
+            "10:00AM": 10,
+            "12:00PM": 15
+          }
+        },
+        "Question 4": {
+          "Question": "Positive or Negative?",
+          "Answers": { "Positive": 3, "Negative": 5 }
+        },
+        "Question 5": {
+          "Question": "Is your room clean right now?",
+          "Answers": { "Yes": 3, "No": 5 }
+        }
       },
       "results": {
         "Tigger": 1,
@@ -214,11 +403,32 @@
       "title": "Which Friend are you?",
       "category": "TV",
       "questions": {
-        "Question 1": "",
-        "Question 2": "",
-        "Question 3": "",
-        "Question 4": "",
-        "Question 5": ""
+        "Question 1": {
+          "Question": "How are you feeling?",
+          "Answers": { "Good": 3, "Bad": 5, "Sad": 7, "Mad": 10, "Hungry": 15 }
+        },
+        "Question 2": {
+          "Question": "How likely are you to help out a friend in need?",
+          "Answers": { "25%": 3, "50%": 5, "75%": 7, "100%": 10, "0%": 15 }
+        },
+        "Question 3": {
+          "Question": "When did you get up today?",
+          "Answers": {
+            "5:00AM": 3,
+            "7:00AM": 5,
+            "9:00AM": 7,
+            "10:00AM": 10,
+            "12:00PM": 15
+          }
+        },
+        "Question 4": {
+          "Question": "Positive or Negative?",
+          "Answers": { "Positive": 3, "Negative": 5 }
+        },
+        "Question 5": {
+          "Question": "Is your room clean right now?",
+          "Answers": { "Yes": 3, "No": 5 }
+        }
       },
       "results": {
         "Ross Geller": 1,
@@ -233,11 +443,32 @@
       "title": "Which Big Bang Theory character are you?",
       "category": "TV",
       "questions": {
-        "Question 1": "",
-        "Question 2": "",
-        "Question 3": "",
-        "Question 4": "",
-        "Question 5": ""
+        "Question 1": {
+          "Question": "How are you feeling?",
+          "Answers": { "Good": 3, "Bad": 5, "Sad": 7, "Mad": 10, "Hungry": 15 }
+        },
+        "Question 2": {
+          "Question": "How likely are you to help out a friend in need?",
+          "Answers": { "25%": 3, "50%": 5, "75%": 7, "100%": 10, "0%": 15 }
+        },
+        "Question 3": {
+          "Question": "When did you get up today?",
+          "Answers": {
+            "5:00AM": 3,
+            "7:00AM": 5,
+            "9:00AM": 7,
+            "10:00AM": 10,
+            "12:00PM": 15
+          }
+        },
+        "Question 4": {
+          "Question": "Positive or Negative?",
+          "Answers": { "Positive": 3, "Negative": 5 }
+        },
+        "Question 5": {
+          "Question": "Is your room clean right now?",
+          "Answers": { "Yes": 3, "No": 5 }
+        }
       },
       "results": {
         "Sheldon Cooper": 1,
@@ -256,11 +487,32 @@
       "title": "Which programming language are you?",
       "category": "Computer Science",
       "questions": {
-        "Question 1": "",
-        "Question 2": "",
-        "Question 3": "",
-        "Question 4": "",
-        "Question 5": ""
+        "Question 1": {
+          "Question": "How are you feeling?",
+          "Answers": { "Good": 3, "Bad": 5, "Sad": 7, "Mad": 10, "Hungry": 15 }
+        },
+        "Question 2": {
+          "Question": "How likely are you to help out a friend in need?",
+          "Answers": { "25%": 3, "50%": 5, "75%": 7, "100%": 10, "0%": 15 }
+        },
+        "Question 3": {
+          "Question": "When did you get up today?",
+          "Answers": {
+            "5:00AM": 3,
+            "7:00AM": 5,
+            "9:00AM": 7,
+            "10:00AM": 10,
+            "12:00PM": 15
+          }
+        },
+        "Question 4": {
+          "Question": "Positive or Negative?",
+          "Answers": { "Positive": 3, "Negative": 5 }
+        },
+        "Question 5": {
+          "Question": "Is your room clean right now?",
+          "Answers": { "Yes": 3, "No": 5 }
+        }
       },
       "results": {
         "Python": 1,
@@ -283,11 +535,32 @@
       "title": "Which data structure are you?",
       "category": "Computer Science",
       "questions": {
-        "Question 1": "",
-        "Question 2": "",
-        "Question 3": "",
-        "Question 4": "",
-        "Question 5": ""
+        "Question 1": {
+          "Question": "How are you feeling?",
+          "Answers": { "Good": 3, "Bad": 5, "Sad": 7, "Mad": 10, "Hungry": 15 }
+        },
+        "Question 2": {
+          "Question": "How likely are you to help out a friend in need?",
+          "Answers": { "25%": 3, "50%": 5, "75%": 7, "100%": 10, "0%": 15 }
+        },
+        "Question 3": {
+          "Question": "When did you get up today?",
+          "Answers": {
+            "5:00AM": 3,
+            "7:00AM": 5,
+            "9:00AM": 7,
+            "10:00AM": 10,
+            "12:00PM": 15
+          }
+        },
+        "Question 4": {
+          "Question": "Positive or Negative?",
+          "Answers": { "Positive": 3, "Negative": 5 }
+        },
+        "Question 5": {
+          "Question": "Is your room clean right now?",
+          "Answers": { "Yes": 3, "No": 5 }
+        }
       },
       "results": {
         "Array": 1,
@@ -306,11 +579,32 @@
       "title": "Which variable type are you?",
       "category": "Computer Science",
       "questions": {
-        "Question 1": "",
-        "Question 2": "",
-        "Question 3": "",
-        "Question 4": "",
-        "Question 5": ""
+        "Question 1": {
+          "Question": "How are you feeling?",
+          "Answers": { "Good": 3, "Bad": 5, "Sad": 7, "Mad": 10, "Hungry": 15 }
+        },
+        "Question 2": {
+          "Question": "How likely are you to help out a friend in need?",
+          "Answers": { "25%": 3, "50%": 5, "75%": 7, "100%": 10, "0%": 15 }
+        },
+        "Question 3": {
+          "Question": "When did you get up today?",
+          "Answers": {
+            "5:00AM": 3,
+            "7:00AM": 5,
+            "9:00AM": 7,
+            "10:00AM": 10,
+            "12:00PM": 15
+          }
+        },
+        "Question 4": {
+          "Question": "Positive or Negative?",
+          "Answers": { "Positive": 3, "Negative": 5 }
+        },
+        "Question 5": {
+          "Question": "Is your room clean right now?",
+          "Answers": { "Yes": 3, "No": 5 }
+        }
       },
       "results": {
         "Boolean": 1,
@@ -326,11 +620,32 @@
       "title": "Which genre are you?",
       "category": "General",
       "questions": {
-        "Question 1": "",
-        "Question 2": "",
-        "Question 3": "",
-        "Question 4": "",
-        "Question 5": ""
+        "Question 1": {
+          "Question": "How are you feeling?",
+          "Answers": { "Good": 3, "Bad": 5, "Sad": 7, "Mad": 10, "Hungry": 15 }
+        },
+        "Question 2": {
+          "Question": "How likely are you to help out a friend in need?",
+          "Answers": { "25%": 3, "50%": 5, "75%": 7, "100%": 10, "0%": 15 }
+        },
+        "Question 3": {
+          "Question": "When did you get up today?",
+          "Answers": {
+            "5:00AM": 3,
+            "7:00AM": 5,
+            "9:00AM": 7,
+            "10:00AM": 10,
+            "12:00PM": 15
+          }
+        },
+        "Question 4": {
+          "Question": "Positive or Negative?",
+          "Answers": { "Positive": 3, "Negative": 5 }
+        },
+        "Question 5": {
+          "Question": "Is your room clean right now?",
+          "Answers": { "Yes": 3, "No": 5 }
+        }
       },
       "results": {
         "Action": 1,
@@ -350,11 +665,32 @@
       "title": "Which video game are you?",
       "category": "Video Games",
       "questions": {
-        "Question 1": "",
-        "Question 2": "",
-        "Question 3": "",
-        "Question 4": "",
-        "Question 5": ""
+        "Question 1": {
+          "Question": "How are you feeling?",
+          "Answers": { "Good": 3, "Bad": 5, "Sad": 7, "Mad": 10, "Hungry": 15 }
+        },
+        "Question 2": {
+          "Question": "How likely are you to help out a friend in need?",
+          "Answers": { "25%": 3, "50%": 5, "75%": 7, "100%": 10, "0%": 15 }
+        },
+        "Question 3": {
+          "Question": "When did you get up today?",
+          "Answers": {
+            "5:00AM": 3,
+            "7:00AM": 5,
+            "9:00AM": 7,
+            "10:00AM": 10,
+            "12:00PM": 15
+          }
+        },
+        "Question 4": {
+          "Question": "Positive or Negative?",
+          "Answers": { "Positive": 3, "Negative": 5 }
+        },
+        "Question 5": {
+          "Question": "Is your room clean right now?",
+          "Answers": { "Yes": 3, "No": 5 }
+        }
       },
       "results": {
         "Minecraft": 1,
