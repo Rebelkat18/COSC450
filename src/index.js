@@ -4,9 +4,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import NoPage from "./pages/NoPage";
-import Quiz from "./Components/Quiz";
-import data from "./data.json";
-console.log(data);
+import Quizzes from "./pages/Quizzes";
 
 export default function App() {
   return (
@@ -14,7 +12,7 @@ export default function App() {
       <Routes>
         <Route path="home" element={<Home />} />
         <Route path="about" element={<About />} />
-        <Route path="quizzes" element={<Quiz />} />
+        <Route path="quizzes" element={<Quizzes />} />
         <Route path="*" element={<NoPage />} />
       </Routes>
     </BrowserRouter>
@@ -22,4 +20,4 @@ export default function App() {
 }
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<Home />);
+root.render(<App />);
