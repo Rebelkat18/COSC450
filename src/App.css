@@ -7,7 +7,6 @@
     font-family: 'Poppins', sans-serif;
 }
 body {
-    overflow: hidden;
     background: linear-gradient(
     180deg,
     rgb(99.52, 14.93, 62.13) 0%,
@@ -17,7 +16,7 @@ body {
     );
     width: 1440px;
     height: 1024px;
-    position: relative;
+    background-attachment:fixed;
     }
 
 header {
@@ -26,34 +25,72 @@ header {
     left: 0;
     width: 100%;
     padding: 25px 100px;
-    /* background: rgb(189, 84, 205) 63.91%; */
     display: flex;
     justify-content: space-between;
     align-items: center;
     z-index: 99;
 }
 
-header .Logo{
-    color:azure;
-    font-weight: 700;
+
+section img{
+    position: fixed;
+    top: 12pc;
+    width: 100%;
+    height: 250%;
+    object-fit: cover;
+    mix-blend-mode: multiply;
+    animation: rotate 1s linear infinite;
+    animation-play-state: paused;
+    animation-delay: calc(var(--scroll) * -1s);
+    animation-iteration-count: 1;
+    animation-fill-mode: both;
+
 }
 
+@keyframes rotate {
+    to{
+        transform: rotate(360deg);
+    }
+}
+
+
+/* General Logo appearance. */
+
+header .Logo{
+    color:azure;
+    font-weight: 900;
+    transition: 0.5s;
+}
+
+header .Logo:hover{
+    color:rgb(255, 240, 251);
+    text-shadow: 
+    0 0 10px #f98aff,
+    0 0 20px #f98aff,
+    0 0 40px #f98aff,
+    0 0 80px #f98aff,
+    0 0 120px #f98aff;
+}
+
+/* General button appearance. */
 .Navpage a{
     color: azure;
     font-weight: 900;
     font-size: 1.1em;
     text-decoration: none;
     margin-left: 20px;
+    transition: 0.2s;
 }
 
+/* The button appearance when hovered over. */
 .Navpage a:hover{
     outline-style: outset;
     background: linear-gradient(
         180deg,
-        rgb(207, 223, 249) 0%,
-        rgb(72, 137, 179) 31.25%,
-        rgb(71, 102, 148) 63.91%,
-        rgb(109, 122, 163) 100%
+        rgb(227, 84, 162) 0%,
+        rgb(190, 49, 180) 31.25%,
+        rgb(201, 72, 221) 63.91%,
+        rgb(225, 103, 244) 100%
         );
     padding:3px 12px;
     color:rgb(26, 29, 104);
