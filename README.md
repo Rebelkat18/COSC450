@@ -10,6 +10,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ```
 npm install -g npm
 ```
+### Install Routes
+```
+npm i react-router-dom
+```
 ### Documentation *Not Important Right Now*
 ```
 npm install --save react-styleguidist
