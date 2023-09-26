@@ -8,7 +8,7 @@ function Home() {
       window.scrollY / (document.body.offsetHeight - window.innerHeight)
     );
   });
-  
+
   return (
     <div>
       <header>
