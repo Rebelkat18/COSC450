@@ -1,17 +1,17 @@
-import './Quiz.css';
+import "./Quiz.css";
 
 function Quiz() {
   return (
     <div>
       <header>
-        <h1 class="Logo">Quiz City</h1>
-        <nav class="Navpage">
+        <h1 className="Logo">Quiz City</h1>
+        <nav className="Navpage">
           <a href="home">Home</a>
           <a href="about">About</a>
           <a href="quizzes">Quizzes</a>
         </nav>
       </header>
-      <div class="Main">
+      <div className="Main">
         <p>Testing Quizzes...</p>
       </div>
     </div>

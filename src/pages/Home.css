@@ -1,98 +1,91 @@
-  @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,900;1,700&family=Poppins:wght@200&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,900;1,700&family=Poppins:wght@200&display=swap");
 
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
 }
 body {
-    background: linear-gradient(
+  background: linear-gradient(
     180deg,
     rgb(99.52, 14.93, 62.13) 0%,
     rgb(128.36, 11.15, 120.26) 31.25%,
     rgb(158.5, 7.2, 181) 63.91%,
     rgb(195.64, 2.84, 227.02) 100%
-    );
-    width: 1440px;
-    height: 1024px;
-    background-attachment:fixed;
-    }
-
-header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    padding: 25px 100px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    z-index: 99;
+  );
+  width: 1440px;
+  height: 1024px;
+  background-attachment: fixed;
 }
 
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 25px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 99;
+}
 
-section img{
-    position: fixed;
-    top: 12pc;
-    width: 100%;
-    height: 250%;
-    object-fit: cover;
-    mix-blend-mode: multiply;
-    animation: rotate 1s linear infinite;
-    animation-play-state: paused;
-    animation-delay: calc(var(--scroll) * -1s);
-    animation-iteration-count: 1;
-    animation-fill-mode: both;
-
+section img {
+  position: fixed;
+  top: 12pc;
+  width: 100%;
+  height: 250%;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+  animation: rotate 1s linear infinite;
+  animation-play-state: paused;
+  animation-delay: calc(var(--scroll) * -1s);
+  animation-iteration-count: 1;
+  animation-fill-mode: both;
 }
 
 @keyframes rotate {
-    to{
-        transform: rotate(360deg);
-    }
+  to {
+    transform: rotate(360deg);
+  }
 }
-
 
 /* General Logo appearance. */
 
-header .Logo{
-    color:azure;
-    font-weight: 900;
-    transition: 0.5s;
+header .Logo {
+  color: azure;
+  font-weight: 900;
+  transition: 0.5s;
 }
 
-header .Logo:hover{
-    color:rgb(255, 240, 251);
-    text-shadow: 
-    0 0 10px #f98aff,
-    0 0 20px #f98aff,
-    0 0 40px #f98aff,
-    0 0 80px #f98aff,
-    0 0 120px #f98aff;
+header .Logo:hover {
+  color: rgb(255, 240, 251);
+  text-shadow: 0 0 10px #f98aff, 0 0 20px #f98aff, 0 0 40px #f98aff,
+    0 0 80px #f98aff, 0 0 120px #f98aff;
 }
 
 /* General button appearance. */
-.Navpage a{
-    color: azure;
-    font-weight: 900;
-    font-size: 1.1em;
-    text-decoration: none;
-    margin-left: 20px;
-    transition: 0.2s;
+.Navpage a {
+  color: azure;
+  font-weight: 900;
+  font-size: 1.1em;
+  text-decoration: none;
+  margin-left: 20px;
+  transition: 0.2s;
 }
 
 /* The button appearance when hovered over. */
-.Navpage a:hover{
-    outline-style: outset;
-    background: linear-gradient(
-        180deg,
-        rgb(227, 84, 162) 0%,
-        rgb(190, 49, 180) 31.25%,
-        rgb(201, 72, 221) 63.91%,
-        rgb(225, 103, 244) 100%
-        );
-    padding:3px 12px;
-    color:rgb(26, 29, 104);
-    border-radius: 20px;
+.Navpage a:hover {
+  outline-style: outset;
+  background: linear-gradient(
+    180deg,
+    rgb(227, 84, 162) 0%,
+    rgb(190, 49, 180) 31.25%,
+    rgb(201, 72, 221) 63.91%,
+    rgb(225, 103, 244) 100%
+  );
+  padding: 3px 12px;
+  color: rgb(26, 29, 104);
+  border-radius: 20px;
 }
