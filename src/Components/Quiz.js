@@ -11,7 +11,9 @@ function Quiz() {
           <a href="quizzes">Quizzes</a>
         </nav>
       </header>
-      <p>Testing Quizzes...</p>
+      <div class="Main">
+        <p>Testing Quizzes...</p>
+      </div>
     </div>
   );
 }

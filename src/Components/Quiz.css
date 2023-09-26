@@ -1,4 +1,5 @@
-.Quiz {
+.Main {
     text-align: center;
-    background-color: rgb(19, 1, 10);
+    position: relative;
+    top: 300px;
   }
