@@ -11,6 +11,11 @@ function About() {
           <a href="quizzes">Quizzes</a>
         </nav>
       </header>
+      <div className="container">
+        <h1 id="Who">About Us</h1>
+        <div id="Window"></div>
+        <div id ="TpW"></div>
+      </div>
     </div>
   );
 }
