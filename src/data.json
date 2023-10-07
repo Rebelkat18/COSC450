@@ -3,34 +3,67 @@
     {
       "title": "What color are you?",
       "category": "General",
-      "questions": {
-        "Question 1": {
-          "Question": "How are you feeling?",
-          "Answers": { "Good": 3, "Bad": 5, "Sad": 7, "Mad": 10, "Hungry": 15 }
+      "questions": [
+        {
+          "question": "How are you feeling?",
+          "answers": [
+            { "answer": "Good", "score": 3 },
+            { "answer": "Bad", "score": 5 },
+            { "answer": "Sad", "score": 7 },
+            { "answer": "Mad", "score": 10 },
+            { "answer": "Hungry", "score": 15 }
+          ]
         },
-        "Question 2": {
-          "Question": "How likely are you to help out a friend in need?",
-          "Answers": { "25%": 3, "50%": 5, "75%": 7, "100%": 10, "0%": 15 }
+        {
+          "question": "How likely are you to help out a friend in need?",
+          "answers": [
+            { "answer": "25%", "score": 3 },
+            { "answer": "50%", "score": 5 },
+            { "answer": "75%", "score": 7 },
+            { "answer": "100%", "score": 10 },
+            { "answer": "0%", "score": 15 }
+          ]
         },
-        "Question 3": {
-          "Question": "When did you get up today?",
-          "Answers": {
-            "5:00AM": 3,
-            "7:00AM": 5,
-            "9:00AM": 7,
-            "10:00AM": 10,
-            "12:00PM": 15
-          }
+        {
+          "question": "When did you get up today?",
+          "answers": [
+            {
+              "answer": "5:00AM",
+              "score": 3
+            },
+            {
+              "answer": "7:00AM",
+              "score": 5
+            },
+            {
+              "answer": "9:00AM",
+              "score": 7
+            },
+            {
+              "answer": "10:00AM",
+              "score": 10
+            },
+            {
+              "answer": "12:00PM",
+              "score": 15
+            }
+          ]
         },
-        "Question 4": {
-          "Question": "Positive or Negative?",
-          "Answers": { "Positive": 3, "Negative": 5 }
+        {
+          "question": "Positive or Negative?",
+          "answers": [
+            { "answer": "Positive", "score": 3 },
+            { "answer": "Negative", "score": 5 }
+          ]
         },
-        "Question 5": {
-          "Question": "Is your room clean right now?",
-          "Answers": { "Yes": 3, "No": 5 }
+        {
+          "question": "Is your room clean right now?",
+          "answers": [
+            { "answer": "Yes", "score": 3 },
+            { "answer": "No", "score": 5 }
+          ]
         }
-      },
+      ],
       "results": {
         "Red": 1,
         "Orange": 2,
