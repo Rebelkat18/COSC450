@@ -1,18 +1,27 @@
 import "./Quiz.css";
 import React from "react";
 import Question from "./Question";
-import { useState } from "react";
 
 function Quiz(props) {
-  const [total, setTotal] = useState(0);
-  console.log(total);
+  console.log(props);
   return (
     <div>
       <div className="Main">
-        <h1> {props.title} </h1>
-        <Question {...props.questions[0]} total={total} setTotal={setTotal}/>
+        <h1 className="title"> {props.title} </h1>
+        <Question
+          {...props.questions[props.step]}
+          step={props.step}
+          setStep={props.setStep}
+          total={props.total}
+          setTotal={props.setTotal}
+          selections={props.selections}
+          setSelections={props.setSelections}
+        />
         <div>
-          <button onClick= {() => console.log("submitted")}> Submit </button>
+          <button onClick={() => props.setStep(props.step + 1)}>
+            {" "}
+            Submit{" "}
+          </button>
         </div>
       </div>
     </div>

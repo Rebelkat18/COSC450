@@ -9,13 +9,7 @@ button {
   height: 50px;
   margin: 1%;
 }
-.container {
-  display: grid;
-  grid-template-columns: 10rem 10rem 10rem;
-  grid-gap: 1rem;
-  grid-auto-flow: row;
-  padding: 1% 32%;
-}
-.container button{
-  width:100%;
+.title {
+  margin-bottom: 5%;
+  text-decoration: underline;
 }

@@ -7,11 +7,11 @@
         {
           "question": "How are you feeling?",
           "answers": [
-            { "answer": "Good", "Good": 3 },
-            { "answer": "Bad", "Bad": 5 },
-            { "answer": "Sad", "Sad": 7 },
-            { "answer": "Mad", "Mad": 10 },
-            { "answer": "Hungry", "Hungry": 15 }
+            { "answer": "Good", "score": 3 },
+            { "answer": "Bad", "score": 5 },
+            { "answer": "Sad", "score": 7 },
+            { "answer": "Mad", "score": 10 },
+            { "answer": "Hungry", "score": 15 }
           ]
         },
         {

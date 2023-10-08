@@ -3,8 +3,9 @@ import React from "react";
 import data from "../data.json";
 import Quiz from "../Components/Quiz";
 
-function Quizzes() {
-  console.log(data);
+function Quizzes(props) {
+  //to see everything...
+  // console.log(data);
   return (
     <div>
       <header>
@@ -15,7 +16,15 @@ function Quizzes() {
           <a href="quizzes">Quizzes</a>
         </nav>
       </header>
-        <Quiz {...data.Quizzes[0]}/>
+      <Quiz
+        {...data.Quizzes[0]}
+        step={props.step}
+        setStep={props.setStep}
+        total={props.total}
+        setTotal={props.setTotal}
+        selections={props.selections}
+        setSelections={props.setSelections}
+      />
     </div>
   );
 }
