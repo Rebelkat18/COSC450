@@ -5,6 +5,7 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import NoPage from "./pages/NoPage";
 import Quizzes from "./pages/Quizzes";
+import Results from "./pages/Results";
 import { useState } from "react";
 
 export default function App() {
@@ -15,7 +16,7 @@ export default function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="home" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="about" element={<About />} />
         <Route
           path="quizzes"
@@ -30,6 +31,7 @@ export default function App() {
             />
           }
         />
+        <Route path="results" element={<Results />} />
         <Route path="*" element={<NoPage />} />
       </Routes>
     </BrowserRouter>

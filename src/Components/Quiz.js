@@ -1,9 +1,25 @@
 import "./Quiz.css";
 import React from "react";
 import Question from "./Question";
+import  {useNavigate}  from "react-router-dom"; 
 
 function Quiz(props) {
   console.log(props);
+  const nav = useNavigate();
+
+  const end = () => {
+    let e = props.questions.length-1;
+    console.log(e + " " + props.step);
+    if (e === props.step) {
+      console.log("here");
+      nav("/results"); 
+    }
+  };
+
+  const both = () => {
+    end();
+    props.setStep(props.step + 1)
+  }
   return (
     <div>
       <div className="Main">
@@ -18,7 +34,7 @@ function Quiz(props) {
           setSelections={props.setSelections}
         />
         <div>
-          <button onClick={() => props.setStep(props.step + 1)}>
+          <button onClick={() => both()}>
             {" "}
             Submit{" "}
           </button>
