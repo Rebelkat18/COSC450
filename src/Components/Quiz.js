@@ -11,7 +11,7 @@ function Quiz(props) {
     let e = props.questions.length-1;
     console.log(e + " " + props.step);
     if (e === props.step) {
-      console.log("here");
+      console.log("end");
       nav("/results"); 
     }
   };

@@ -1,7 +1,17 @@
 import React from "react";
 import "./Results.css";
+import data from "../data.json";
+// import {total} from "../index";
 
 function Results() {
+    //gonna need to use states for Quizzes[]
+    // console.log(data.Quizzes[0].results[0]);
+    let result = data.Quizzes[0].results[0];
+    
+    // if(total > 10){
+    //     result = data.Quizzes[0].results[1];
+    // }
+    
   return (
     <div>
       <header>
@@ -14,6 +24,7 @@ function Results() {
       </header>
       <div className="Main">
         <h1> Your Results... </h1>
+        <p> {result} </p>
       </div>
     </div>
   );

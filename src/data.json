@@ -7,9 +7,9 @@
         {
           "question": "How are you feeling?",
           "answers": [
-            { "answer": "Good", "score": 3 },
-            { "answer": "Bad", "score": 5 },
-            { "answer": "Sad", "score": 7 },
+            { "answer": "Good", "score": 1 },
+            { "answer": "Bad", "score": 2 },
+            { "answer": "Sad", "score": 5 },
             { "answer": "Mad", "score": 10 },
             { "answer": "Hungry", "score": 15 }
           ]
@@ -17,9 +17,9 @@
         {
           "question": "How likely are you to help out a friend in need?",
           "answers": [
-            { "answer": "25%", "score": 3 },
-            { "answer": "50%", "score": 5 },
-            { "answer": "75%", "score": 7 },
+            { "answer": "25%", "score": 1 },
+            { "answer": "50%", "score": 2 },
+            { "answer": "75%", "score": 5 },
             { "answer": "100%", "score": 10 },
             { "answer": "0%", "score": 15 }
           ]
@@ -29,15 +29,15 @@
           "answers": [
             {
               "answer": "5:00AM",
-              "score": 3
+              "score": 1
             },
             {
               "answer": "7:00AM",
-              "score": 5
+              "score": 2
             },
             {
               "answer": "9:00AM",
-              "score": 7
+              "score": 5
             },
             {
               "answer": "10:00AM",
@@ -52,30 +52,30 @@
         {
           "question": "Positive or Negative?",
           "answers": [
-            { "answer": "Positive", "score": 3 },
-            { "answer": "Negative", "score": 5 }
+            { "answer": "Positive", "score": 5 },
+            { "answer": "Negative", "score": 2 }
           ]
         },
         {
           "question": "Is your room clean right now?",
           "answers": [
-            { "answer": "Yes", "score": 3 },
-            { "answer": "No", "score": 5 }
+            { "answer": "Yes", "score": 5 },
+            { "answer": "No", "score": 2 }
           ]
         }
       ],
-      "results": {
-        "Red": 1,
-        "Orange": 2,
-        "Yellow": 3,
-        "Green": 4,
-        "Blue": 5,
-        "Purple": 6,
-        "Brown": 7,
-        "Black": 8,
-        "White": 9,
-        "Gray": 10
-      }
+      "results": [
+        "Red",
+        "Orange",
+        "Yellow",
+        "Green",
+        "Blue",
+        "Purple",
+        "Brown",
+        "Black",
+        "White",
+        "Gray"
+      ]
     },
     {
       "title": "What day of the week are you?",
