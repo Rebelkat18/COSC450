@@ -1,42 +1,104 @@
-.container{
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+section #Who{
+  margin-top: 20vh;
+  font-size: 100px;
+  margin-bottom: 20vh;
   display: flex;
-  flex-direction: column;
-  position: relative;
-  align-items: center;
+  justify-content: center;
+}
+
+body{ 
+  height: 100%;
+  width: 100%;
+  display: inline-block;
 
 }
 
-#Who{
-  margin-top: 20vh;
-  font-size: 100px;
+.wrapper{
+  height: 450px;
+  width: 350px;
+  position: relative;
+  border: 10px solid black;
+  float: left;
+  transform: translate(15pc);
 }
 
 #Window{
   background-color: rgb(156, 222, 222);
+  height: 100%;
+  width: 100%;
+
+}
+
+.win{
+  background-color: rgb(216, 133, 235, .8);
+  height: 100%;
+  width: 50%;
+  border: 10px solid rgb(49, 48, 48);
+  position: absolute;
+}
+
+#leftwin{
+    top: 0;
+    left: 0;
+    transition: 0.5s;
+    transform-origin: left;
+}
+
+#rightwin{
+  top: 0;
+  left: 50%;
+  transition: 0.5s;
+  transform-origin: right;
+}
+
+.wrapper:hover #leftwin{
+  transform: rotateY(-180deg);
+}
+
+.wrapper:hover #rightwin{
+  transform: rotateY(-180deg);
+}
+
+.wrapper2{
   height: 450px;
-  width: 300px;
-  border-style: solid;
-  border-width: 20px;
-  border-color: black;
+  width: 350px;
+  position: relative;
+  border: 10px solid black;
+  float: right;
+  transform: translate(-15pc);
+}
+
+#Window2{
+  background-color: rgb(156, 222, 222);
+  height: 100%;
+  width: 100%;
+}
+
+#leftwin2{
+  top: 0;
+  left: 0;
   transition: 0.5s;
+  transform-origin: left;
 }
 
-#TpW{
-  background-color: black;
-  transform: translateY(-40vh);
-  width: 300px;
-  height: 20px;
-
-}
-
-#BpW{
-  background-color: black;
-  transform: translateY(-5vh);
-  width: 300px;
-  height: 20px;
+#rightwin2{
+  top: 0;
+  left: 50%;
   transition: 0.5s;
+  transform-origin: right;
 }
 
-#Window:hover ~ #BpW{
-  transform: translateY(-33vh);
+.wrapper2:hover #leftwin2{
+  transform: rotateY(-180deg);
+}
+
+.wrapper2:hover #rightwin2{
+  transform: rotateY(-180deg);
 }

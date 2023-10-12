@@ -11,12 +11,26 @@ function About() {
           <a href="quizzes">Quizzes</a>
         </nav>
       </header>
-      <div className="container">
-        <h1 id="Who">About Us</h1>
+    
+    <section>
+      <h1 id="Who">About Us</h1>
+      </section>
+
+      <body>
+      <div class="wrapper">
         <div id="Window"></div>
-        <div id ="BpW"></div>
-        <div id ="TpW"></div>
+        <div id="leftwin" class="win"></div>
+        <div id="rightwin" class="win"></div>
       </div>
+
+      <div class="wrapper2">
+          <div id="Window2"></div>
+          <div id="leftwin2" class="win"></div>
+          <div id= "rightwin2" class="win"></div>
+        </div>
+      </body>
+
+      
     </div>
   );
 }
