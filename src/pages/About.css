@@ -1,23 +1,14 @@
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-
-section #Who{
-  margin-top: 20vh;
-  font-size: 100px;
-  margin-bottom: 20vh;
-  display: flex;
-  justify-content: center;
-}
-
-body{ 
+.All{
   height: 100%;
   width: 100%;
-  display: inline-block;
+  display: inline-block
+}
 
+#Who{
+  text-align: center;
+  margin-top: 20vh;
+  font-size: 120px;
+  margin-bottom: 20vh;
 }
 
 .wrapper{
@@ -27,6 +18,8 @@ body{
   border: 10px solid black;
   float: left;
   transform: translate(15pc);
+  
+  
 }
 
 #Window{
@@ -72,7 +65,9 @@ body{
   position: relative;
   border: 10px solid black;
   float: right;
-  transform: translate(-15pc);
+  transform: translate(-50%);
+  
+  
 }
 
 #Window2{

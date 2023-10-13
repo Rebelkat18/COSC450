@@ -31,7 +31,7 @@ header {
   z-index: 99;
 }
 
-section img {
+#city{
   position: fixed;
   top: 12pc;
   width: 100%;
@@ -53,13 +53,13 @@ section img {
 
 /* General Logo appearance. */
 
-header .Logo {
+.Logo {
   color: azure;
   font-weight: 900;
   transition: 0.5s;
 }
 
-header .Logo:hover {
+.Logo:hover {
   color: rgb(255, 240, 251);
   text-shadow: 0 0 10px #f98aff, 0 0 20px #f98aff, 0 0 40px #f98aff,
     0 0 80px #f98aff, 0 0 120px #f98aff;

@@ -12,24 +12,21 @@ function About() {
         </nav>
       </header>
     
-    <section>
       <h1 id="Who">About Us</h1>
-      </section>
-
-      <body>
-      <div class="wrapper">
+    
+    <section className="All">
+      <section className="wrapper">
         <div id="Window"></div>
         <div id="leftwin" class="win"></div>
         <div id="rightwin" class="win"></div>
-      </div>
+      </section>
 
-      <div class="wrapper2">
+      <section className="wrapper2">
           <div id="Window2"></div>
           <div id="leftwin2" class="win"></div>
           <div id= "rightwin2" class="win"></div>
-        </div>
-      </body>
-
+        </section>
+        </section>
       
     </div>
   );
