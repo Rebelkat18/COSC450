@@ -14,6 +14,10 @@ npm install -g npm
 ```
 npm i react-router-dom
 ```
+### Install Bootstrap
+```
+npm install react-bootstrap bootstrap
+```
 ### Documentation *Not Important Right Now*
 ```
 npm install --save react-styleguidist
