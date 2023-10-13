@@ -1,24 +1,40 @@
-import React from "react";
-import Answer from "./Answer";
+import React, { useState } from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
+import ButtonGroup from "react-bootstrap/ButtonGroup";
+import ToggleButton from "react-bootstrap/ToggleButton";
+import "./Question.css";
 
 function Question(props) {
-  console.log(props);
-  console.log(props.total);
+  //Making list of answers to display
   let q = [];
   for (let x in props.answers) {
     q[x] = props.answers[x].answer;
   }
-  // Bad Practice to use index as key but it removed a warning, so I did it anyway. :)
-  const qq = q.map((answer, index) => (
-    <button key={index} onClick={() => Answer(props)}>
-      {answer}
-    </button>
-  ));
+  const [active, setActive] = useState(q[0]);
+
+  //Showing score...
+  console.log(props.total);
+
+  const select = (answer, index) => {
+    console.log("clicked " + index);
+    props.setTotal(props.total + props.answers[index].score);
+    setActive(answer);
+  };
 
   return (
     <div>
       <h2> {props.question} </h2>
-      <div className="container">{qq}</div>
+      <ButtonGroup className="btn">
+        {q.map((answer, index) => (
+          <ToggleButton
+            key={index}
+            active={active === answer}
+            onClick={() => select(answer, index)}
+          >
+            {answer}
+          </ToggleButton>
+        ))}
+      </ButtonGroup>
     </div>
   );
 }

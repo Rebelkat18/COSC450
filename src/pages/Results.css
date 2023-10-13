@@ -1,0 +1,11 @@
+.Main {
+    text-align: center;
+    position: relative;
+    top: 300px;
+  }
+  button {
+    background: purple;
+    width: 10%;
+    height: 50px;
+    margin: 1%;
+  }
