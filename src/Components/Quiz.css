@@ -1,6 +1,21 @@
 .Main {
-    text-align: center;
-    position: relative;
-    top: 300px;
-  }
-  
+  text-align: center;
+  position: relative;
+  top: 300px;
+}
+button {
+  background: purple;
+  width: 10%;
+  height: 50px;
+  margin: 1%;
+}
+.container {
+  display: grid;
+  grid-template-columns: 10rem 10rem 10rem;
+  grid-gap: 1rem;
+  grid-auto-flow: row;
+  padding: 1% 32%;
+}
+.container button{
+  width:100%;
+}
