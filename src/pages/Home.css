@@ -19,7 +19,7 @@ body {
   background-attachment: fixed;
 }
 
-header {
+.head {
   position: fixed;
   top: 0;
   left: 0;

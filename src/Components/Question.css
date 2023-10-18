@@ -1,3 +1,15 @@
+.quizHead{
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 25px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 99;
+}
+
 .btn {
   --bs-btn-bg: purple;
   --bs-btn-border-color: transparent;

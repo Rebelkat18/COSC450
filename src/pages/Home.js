@@ -11,7 +11,7 @@ function Home() {
 
   return (
     <div>
-      <header>
+      <header className="head">
         <h1 className="Logo">Quiz City</h1>
         <nav className="Navpage">
           <a href="/">Home</a>

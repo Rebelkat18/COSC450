@@ -3,7 +3,7 @@ import "./About.css";
 function About() {
   return (
     <div>
-      <header>
+      <header className="aboutHead">
         <h1 className="Logo">Quiz City</h1>
         <nav className="Navpage">
           <a href="/">Home</a>
