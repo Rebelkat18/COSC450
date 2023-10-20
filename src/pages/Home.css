@@ -6,7 +6,8 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
-body {
+
+body{
   background: linear-gradient(
     180deg,
     rgb(99.52, 14.93, 62.13) 0%,
@@ -14,9 +15,14 @@ body {
     rgb(158.5, 7.2, 181) 63.91%,
     rgb(195.64, 2.84, 227.02) 100%
   );
+  width: 100%;
+  height: 100%;
+  background-attachment: fixed;
+}
+
+.home-Container {
   width: 1440px;
   height: 1024px;
-  background-attachment: fixed;
 }
 
 .head {

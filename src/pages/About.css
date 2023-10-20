@@ -1,20 +1,14 @@
-/* About Text */
-#Who{
-  text-align: center;
-  margin-top: 20vh;
-  font-size: 120px;
-  margin-bottom: 20vh;
-}
-
-/* Structure for Windows */
-.All{
-  height: 100%;
+.about-Container{
+  height: 100vh;
   width: 100%;
-  display: inline-block
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-.aboutHead{
-  position: relative;
+header{
+  z-index: 100;
+  position: absolute;
   top: 0;
   left: 0;
   width: 100%;
@@ -22,29 +16,69 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+/* About Text */
+#Who{
   z-index: 99;
+  text-align: center;
+  margin-top: 20vh;
+  font-size: 120px;
+  margin-bottom: 20vh;
+  position: relative;
+  color: aliceblue;
+}
+
+/* Structure for Windows */
+.All{
+  height: 100%;
+  width: 100%;
+  /* display: inline-block; */
+}
+
+#lightFall{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 250px 100px;
+  background: linear-gradient(to bottom, rgba(255, 117, 145, 0.738), transparent);
+  mix-blend-mode: overlay;
+  z-index: -1;
+}
+
+#nightFall{
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  padding: 20% 100%;
+  background: linear-gradient(to top, rgba(15, 5, 17, 0.738), transparent);
+  mix-blend-mode: multiply;
+}
+
+#wall{
+  position: absolute;
+  object-fit: fill;
+  width: 100%;
+  height: 150%;
 }
 
 .wrapper{
   height: 450px;
   width: 350px;
   position: relative;
-  border: 10px solid black;
+  border: 20px solid rgb(36, 17, 43);
   float: left;
+  outline: azure solid 2.5px;
   transform: translate(15pc);  
-}
-
-#Window{
-  /* background-color: rgb(119, 134, 134); */
-  height: 100%;
-  width: 100%;
 }
 
 .win{
   overflow: hidden;
   height: 100%;
   width: 50%;
-  border: 10px solid rgb(49, 48, 48);
+  border: 10px solid rgb(91, 50, 83);
+  outline: azure solid 1.8px;
   position: absolute;
   display: flex;
   flex-direction: column;
@@ -74,6 +108,26 @@
     transform-origin: left;
 }
 
+.sill{
+  position: absolute;
+  bottom: -12%;
+  width: 130%;
+  height: 35px;
+  left: -15%;
+  background-color: rgb(86, 43, 102);
+  outline: azure solid 2.5px;
+}
+
+.wrapper2{
+  height: 450px;
+  width: 350px;
+  position: relative;
+  border: 20px solid rgb(36, 17, 43);
+  outline: azure solid 2.5px;
+  float: right;
+  transform: translate(-50%);
+}
+
 #rightwin{
   background: linear-gradient(
     180deg,
@@ -86,29 +140,6 @@
   left: 50%;
   transition: 0.5s;
   transform-origin: right;
-}
-
-.wrapper:hover #leftwin{
-  transform: rotateY(-180deg);
-}
-
-.wrapper:hover #rightwin{
-  transform: rotateY(-180deg);
-}
-
-.wrapper2{
-  height: 450px;
-  width: 350px;
-  position: relative;
-  border: 10px solid black;
-  float: right;
-  transform: translate(-50%);
-}
-
-#Window2{
-  /* background-color: rgb(156, 222, 222); */
-  height: 100%;
-  width: 100%;
 }
 
 #leftwin2{
@@ -139,8 +170,24 @@
   transform-origin: right;
 }
 
+.sill2{
+  position: absolute;
+  bottom: -12%;
+  width: 130%;
+  height: 35px;
+  left: -15%;
+  background-color: rgb(86, 43, 102);
+  outline: azure solid 2.5px;
+}
+
 /* Open windows animation. */
 
+.wrapper:hover #rightwin{
+  transform: rotateY(-180deg);
+}
+.wrapper:hover #leftwin{
+  transform: rotateY(-180deg);
+}
 .wrapper2:hover #leftwin2{
   transform: rotateY(-180deg);
 }

@@ -10,7 +10,7 @@ function Home() {
   });
 
   return (
-    <div>
+    <div className="home-Container">
       <header className="head">
         <h1 className="Logo">Quiz City</h1>
         <nav className="Navpage">
