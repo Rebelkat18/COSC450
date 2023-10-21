@@ -9,9 +9,9 @@ import Results from "./pages/Results";
 import { useState } from "react";
 
 export default function App() {
-  const [total, setTotal] = useState(0);
+  const [total, setTotal] = useState([]);
   const [step, setStep] = useState(0);
-  const [selections, setSelections] = useState([0]);
+  const [selection, setSelection] = useState([]);
 
   return (
     <BrowserRouter>
@@ -26,8 +26,8 @@ export default function App() {
               setTotal={setTotal}
               step={step}
               setStep={setStep}
-              selections={selections}
-              setSelections={setSelections}
+              selection={selection}
+              setSelection={setSelection}
             />
           }
         />

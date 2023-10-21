@@ -7,59 +7,313 @@
         {
           "question": "How are you feeling?",
           "answers": [
-            { "answer": "Good", "score": 1 },
-            { "answer": "Bad", "score": 2 },
-            { "answer": "Sad", "score": 5 },
-            { "answer": "Mad", "score": 10 },
-            { "answer": "Hungry", "score": 15 }
+            {
+              "answer": "Good",
+              "score": [
+                { "result": "Red", "score": 0 },
+                { "result": "Orange", "score": 1 },
+                { "result": "Yellow", "score": 2 },
+                { "result": "Green", "score": 3 },
+                { "result": "Blue", "score": 4 },
+                { "result": "Purple", "score": 5 },
+                { "result": "Brown", "score": 6 },
+                { "result": "Black", "score": 7 },
+                { "result": "White", "score": 8 },
+                { "result": "Gray", "score": 9 }
+              ]
+            },
+            {
+              "answer": "Bad",
+              "score": [
+                { "result": "Red", "score": 0 },
+                { "result": "Orange", "score": 1 },
+                { "result": "Yellow", "score": 2 },
+                { "result": "Green", "score": 3 },
+                { "result": "Blue", "score": 4 },
+                { "result": "Purple", "score": 5 },
+                { "result": "Brown", "score": 6 },
+                { "result": "Black", "score": 7 },
+                { "result": "White", "score": 8 },
+                { "result": "Gray", "score": 9 }
+              ]
+            },
+            {
+              "answer": "Sad",
+              "score": [
+                { "result": "Red", "score": 0 },
+                { "result": "Orange", "score": 1 },
+                { "result": "Yellow", "score": 2 },
+                { "result": "Green", "score": 3 },
+                { "result": "Blue", "score": 4 },
+                { "result": "Purple", "score": 5 },
+                { "result": "Brown", "score": 6 },
+                { "result": "Black", "score": 7 },
+                { "result": "White", "score": 8 },
+                { "result": "Gray", "score": 9 }
+              ]
+            },
+            {
+              "answer": "Mad",
+              "score": [
+                { "result": "Red", "score": 0 },
+                { "result": "Orange", "score": 1 },
+                { "result": "Yellow", "score": 2 },
+                { "result": "Green", "score": 3 },
+                { "result": "Blue", "score": 4 },
+                { "result": "Purple", "score": 5 },
+                { "result": "Brown", "score": 6 },
+                { "result": "Black", "score": 7 },
+                { "result": "White", "score": 8 },
+                { "result": "Gray", "score": 9 }
+              ]
+            },
+            {
+              "answer": "Hungry",
+              "score": [
+                { "result": "Red", "score": 0 },
+                { "result": "Orange", "score": 1 },
+                { "result": "Yellow", "score": 2 },
+                { "result": "Green", "score": 3 },
+                { "result": "Blue", "score": 4 },
+                { "result": "Purple", "score": 5 },
+                { "result": "Brown", "score": 6 },
+                { "result": "Black", "score": 7 },
+                { "result": "White", "score": 8 },
+                { "result": "Gray", "score": 9 }
+              ]
+            }
           ]
         },
         {
           "question": "How likely are you to help out a friend in need?",
           "answers": [
-            { "answer": "25%", "score": 1 },
-            { "answer": "50%", "score": 2 },
-            { "answer": "75%", "score": 5 },
-            { "answer": "100%", "score": 10 },
-            { "answer": "0%", "score": 15 }
+            {
+              "answer": "25%",
+              "score": [
+                { "result": "Red", "score": 0 },
+                { "result": "Orange", "score": 1 },
+                { "result": "Yellow", "score": 2 },
+                { "result": "Green", "score": 3 },
+                { "result": "Blue", "score": 4 },
+                { "result": "Purple", "score": 5 },
+                { "result": "Brown", "score": 6 },
+                { "result": "Black", "score": 7 },
+                { "result": "White", "score": 8 },
+                { "result": "Gray", "score": 9 }
+              ]
+            },
+            {
+              "answer": "50%",
+              "score": [
+                { "result": "Red", "score": 0 },
+                { "result": "Orange", "score": 1 },
+                { "result": "Yellow", "score": 2 },
+                { "result": "Green", "score": 3 },
+                { "result": "Blue", "score": 4 },
+                { "result": "Purple", "score": 5 },
+                { "result": "Brown", "score": 6 },
+                { "result": "Black", "score": 7 },
+                { "result": "White", "score": 8 },
+                { "result": "Gray", "score": 9 }
+              ]
+            },
+            {
+              "answer": "75%",
+              "score": [
+                { "result": "Red", "score": 0 },
+                { "result": "Orange", "score": 1 },
+                { "result": "Yellow", "score": 2 },
+                { "result": "Green", "score": 3 },
+                { "result": "Blue", "score": 4 },
+                { "result": "Purple", "score": 5 },
+                { "result": "Brown", "score": 6 },
+                { "result": "Black", "score": 7 },
+                { "result": "White", "score": 8 },
+                { "result": "Gray", "score": 9 }
+              ]
+            },
+            {
+              "answer": "100%",
+              "score": [
+                { "result": "Red", "score": 0 },
+                { "result": "Orange", "score": 1 },
+                { "result": "Yellow", "score": 2 },
+                { "result": "Green", "score": 3 },
+                { "result": "Blue", "score": 4 },
+                { "result": "Purple", "score": 5 },
+                { "result": "Brown", "score": 6 },
+                { "result": "Black", "score": 7 },
+                { "result": "White", "score": 8 },
+                { "result": "Gray", "score": 9 }
+              ]
+            },
+            {
+              "answer": "0%",
+              "score": [
+                { "result": "Red", "score": 0 },
+                { "result": "Orange", "score": 1 },
+                { "result": "Yellow", "score": 2 },
+                { "result": "Green", "score": 3 },
+                { "result": "Blue", "score": 4 },
+                { "result": "Purple", "score": 5 },
+                { "result": "Brown", "score": 6 },
+                { "result": "Black", "score": 7 },
+                { "result": "White", "score": 8 },
+                { "result": "Gray", "score": 9 }
+              ]
+            }
           ]
         },
         {
           "question": "When did you get up today?",
           "answers": [
-            { "answer": "5:00AM", "score": 1 },
-            { "answer": "7:00AM", "score": 2 },
-            { "answer": "9:00AM", "score": 5 },
-            { "answer": "10:00AM", "score": 10 },
-            { "answer": "12:00PM", "score": 15 }
+            {
+              "answer": "5:00AM",
+              "score": [
+                { "result": "Red", "score": 0 },
+                { "result": "Orange", "score": 1 },
+                { "result": "Yellow", "score": 2 },
+                { "result": "Green", "score": 3 },
+                { "result": "Blue", "score": 4 },
+                { "result": "Purple", "score": 5 },
+                { "result": "Brown", "score": 6 },
+                { "result": "Black", "score": 7 },
+                { "result": "White", "score": 8 },
+                { "result": "Gray", "score": 9 }
+              ]
+            },
+            {
+              "answer": "7:00AM",
+              "score": [
+                { "result": "Red", "score": 0 },
+                { "result": "Orange", "score": 1 },
+                { "result": "Yellow", "score": 2 },
+                { "result": "Green", "score": 3 },
+                { "result": "Blue", "score": 4 },
+                { "result": "Purple", "score": 5 },
+                { "result": "Brown", "score": 6 },
+                { "result": "Black", "score": 7 },
+                { "result": "White", "score": 8 },
+                { "result": "Gray", "score": 9 }
+              ]
+            },
+            {
+              "answer": "9:00AM",
+              "score": [
+                { "result": "Red", "score": 0 },
+                { "result": "Orange", "score": 1 },
+                { "result": "Yellow", "score": 2 },
+                { "result": "Green", "score": 3 },
+                { "result": "Blue", "score": 4 },
+                { "result": "Purple", "score": 5 },
+                { "result": "Brown", "score": 6 },
+                { "result": "Black", "score": 7 },
+                { "result": "White", "score": 8 },
+                { "result": "Gray", "score": 9 }
+              ]
+            },
+            {
+              "answer": "10:00AM",
+              "score": [
+                { "result": "Red", "score": 0 },
+                { "result": "Orange", "score": 1 },
+                { "result": "Yellow", "score": 2 },
+                { "result": "Green", "score": 3 },
+                { "result": "Blue", "score": 4 },
+                { "result": "Purple", "score": 5 },
+                { "result": "Brown", "score": 6 },
+                { "result": "Black", "score": 7 },
+                { "result": "White", "score": 8 },
+                { "result": "Gray", "score": 9 }
+              ]
+            },
+            {
+              "answer": "12:00PM",
+              "score": [
+                { "result": "Red", "score": 0 },
+                { "result": "Orange", "score": 1 },
+                { "result": "Yellow", "score": 2 },
+                { "result": "Green", "score": 3 },
+                { "result": "Blue", "score": 4 },
+                { "result": "Purple", "score": 5 },
+                { "result": "Brown", "score": 6 },
+                { "result": "Black", "score": 7 },
+                { "result": "White", "score": 8 },
+                { "result": "Gray", "score": 9 }
+              ]
+            }
           ]
         },
         {
           "question": "Positive or Negative?",
           "answers": [
-            { "answer": "Positive", "score": 5 },
-            { "answer": "Negative", "score": 2 }
+            {
+              "answer": "Positive",
+              "score": [
+                { "result": "Red", "score": 0 },
+                { "result": "Orange", "score": 1 },
+                { "result": "Yellow", "score": 2 },
+                { "result": "Green", "score": 3 },
+                { "result": "Blue", "score": 4 },
+                { "result": "Purple", "score": 5 },
+                { "result": "Brown", "score": 6 },
+                { "result": "Black", "score": 7 },
+                { "result": "White", "score": 8 },
+                { "result": "Gray", "score": 9 }
+              ]
+            },
+            {
+              "answer": "Negative",
+              "score": [
+                { "result": "Red", "score": 0 },
+                { "result": "Orange", "score": 1 },
+                { "result": "Yellow", "score": 2 },
+                { "result": "Green", "score": 3 },
+                { "result": "Blue", "score": 4 },
+                { "result": "Purple", "score": 5 },
+                { "result": "Brown", "score": 6 },
+                { "result": "Black", "score": 7 },
+                { "result": "White", "score": 8 },
+                { "result": "Gray", "score": 9 }
+              ]
+            }
           ]
         },
         {
           "question": "Is your room clean right now?",
           "answers": [
-            { "answer": "Yes", "score": 5 },
-            { "answer": "No", "score": 2 }
+            {
+              "answer": "Yes",
+              "score": [
+                { "result": "Red", "score": 0 },
+                { "result": "Orange", "score": 1 },
+                { "result": "Yellow", "score": 2 },
+                { "result": "Green", "score": 3 },
+                { "result": "Blue", "score": 4 },
+                { "result": "Purple", "score": 5 },
+                { "result": "Brown", "score": 6 },
+                { "result": "Black", "score": 7 },
+                { "result": "White", "score": 8 },
+                { "result": "Gray", "score": 9 }
+              ]
+            },
+            {
+              "answer": "No",
+              "score": [
+                { "result": "Red", "score": 0 },
+                { "result": "Orange", "score": 1 },
+                { "result": "Yellow", "score": 2 },
+                { "result": "Green", "score": 3 },
+                { "result": "Blue", "score": 4 },
+                { "result": "Purple", "score": 5 },
+                { "result": "Brown", "score": 6 },
+                { "result": "Black", "score": 7 },
+                { "result": "White", "score": 8 },
+                { "result": "Gray", "score": 9 }
+              ]
+            }
           ]
         }
-      ],
-      "results": [
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Blue",
-        "Purple",
-        "Brown",
-        "Black",
-        "White",
-        "Gray"
       ]
     },
     {

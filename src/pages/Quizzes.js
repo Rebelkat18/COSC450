@@ -6,6 +6,9 @@ import Quiz from "../Components/Quiz";
 function Quizzes(props) {
   //to see everything...
   // console.log(data);
+
+  
+
   return (
     <div>
       <header>
@@ -22,8 +25,8 @@ function Quizzes(props) {
         setStep={props.setStep}
         total={props.total}
         setTotal={props.setTotal}
-        selections={props.selections}
-        setSelections={props.setSelections}
+        selection={props.selection}
+        setSelection={props.setSelection}
       />
     </div>
   );

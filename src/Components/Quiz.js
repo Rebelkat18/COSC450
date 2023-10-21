@@ -2,22 +2,25 @@ import "./Quiz.css";
 import React from "react";
 import Question from "./Question";
 import  {useNavigate}  from "react-router-dom"; 
+import score from "./score";
 
 function Quiz(props) {
-  console.log(props);
   const nav = useNavigate();
 
-  const end = () => {
-    let e = props.questions.length-1;
-    console.log(e + " " + props.step);
-    if (e === props.step) {
-      console.log("end");
-      nav("/results"); 
-    }
-  };
+  // let total = [0];
+  // for (let index in data.Quizzes[0].questions[0].answers[0].score) {
+  //   total[index] = data.Quizzes[0].questions[0].answers[0].score[index];
+  //   total[index].score = 0;
+  // }
+  // props.setTotal(total);
 
-  const both = () => {
-    end();
+  const stepChange = () => {
+    //Check if last question
+    score(props);
+    if (props.questions.length-1 === props.step) {
+      console.log(props.total);
+      nav("/results", {state: props.total}); 
+    }
     props.setStep(props.step + 1)
   }
   return (
@@ -30,11 +33,11 @@ function Quiz(props) {
           setStep={props.setStep}
           total={props.total}
           setTotal={props.setTotal}
-          selections={props.selections}
-          setSelections={props.setSelections}
+          selection={props.selection}
+          setSelection={props.setSelection}
         />
         <div>
-          <button onClick={() => both()}>
+          <button onClick={() => stepChange()}>
             {" "}
             Submit{" "}
           </button>
