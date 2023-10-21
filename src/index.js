@@ -9,7 +9,7 @@ import Results from "./pages/Results";
 import { useState } from "react";
 
 export default function App() {
-  const [total, setTotal] = useState([]);
+  const [total, setTotal] = useState(undefined);
   const [step, setStep] = useState(0);
   const [selection, setSelection] = useState([]);
 

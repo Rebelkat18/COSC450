@@ -3,7 +3,6 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import ButtonGroup from "react-bootstrap/ButtonGroup";
 import ToggleButton from "react-bootstrap/ToggleButton";
 import "./Question.css";
-// import score from "./score";
 
 function Question(props) {
   //Making list of answers to display
@@ -16,7 +15,6 @@ function Question(props) {
   const select = (answer, index) => {
     console.log("clicked " + index);
     props.setSelection(props.answers[index].score);
-    props.setTotal(props.selection);
     setActive(answer);
   };
 

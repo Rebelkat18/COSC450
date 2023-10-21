@@ -6,9 +6,7 @@ import Quiz from "../Components/Quiz";
 function Quizzes(props) {
   //to see everything...
   // console.log(data);
-
   
-
   return (
     <div>
       <header>
@@ -20,7 +18,7 @@ function Quizzes(props) {
         </nav>
       </header>
       <Quiz
-        {...data.Quizzes[0]}
+        {...data.Quizzes[0]} //To change quiz, change index
         step={props.step}
         setStep={props.setStep}
         total={props.total}

@@ -1,15 +1,35 @@
-// import React from "react";
-
 function score(props) {
-    console.log(props);
+  const clearSelection = () => {
+    let clear = [];
+    for (let index in props.selection) {
+      clear[index] = props.selection[index];
+      clear[index].score = 0;
+    }
+    return clear;
+  }
 
-    props.setTotal(props.selection);
-    // for (let index in props.selection) {
-    //     console.log(props.total[index].score);
-    //     console.log(props.selection[index].score);
-    //     // props.setTotal(props.total[index].score + props.selection[index].score);
-    // }
-  console.log(props.total);
+  if (props.total === undefined) {
+    let total = [];
+    //Make empty array of scores
+    for (let index in props.questions[0].answers[0].score) {
+      total[index] = props.questions[0].answers[0].score[index];
+      total[index].score = 0;
+    }
+    props.setTotal(total);
+    //Add first score
+    for (let index in props.selection) {
+      total[index].score += props.selection[index].score;
+    }
+    props.setTotal(total);
+  } else {
+    let total = props.total;
+    for (let index in props.selection) {
+      total[index].score += props.selection[index].score;
+    }
+    props.setTotal(total);
+    props.setSelection(clearSelection());
+
+  }
   return;
 }
 
