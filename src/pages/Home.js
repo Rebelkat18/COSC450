@@ -12,16 +12,17 @@ function Home() {
   return (
     <div className="home-Container">
       <header className="head">
-        <h1 className="Logo">Quiz City</h1>
+        <h1>Quiz City</h1>
         <nav className="Navpage">
           <a href="/">Home</a>
           <a href="about">About</a>
           <a href="quizzes">Quizzes</a>
         </nav>
       </header>
-      <section>
+      
+      <div>
         <img src="204.jpg" id="city" alt="Background of cities."></img>
-      </section>
+      </div>
     </div>
   );
 }

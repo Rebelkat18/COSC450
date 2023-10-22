@@ -4,8 +4,17 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins";
 }
+/* Global styling for all header h1 elements. */
+
+header > h1 {
+  color: azure;
+  font-weight: 900;
+  transition: 0.5s;
+}
+
+/* Global styling for body. */
 
 body{
   background: linear-gradient(
@@ -20,12 +29,9 @@ body{
   background-attachment: fixed;
 }
 
-.home-Container {
-  width: 1440px;
-  height: 1024px;
-}
+/* Global header alignment and style. */
 
-.head {
+header {
   position: fixed;
   top: 0;
   left: 0;
@@ -35,6 +41,12 @@ body{
   justify-content: space-between;
   align-items: center;
   z-index: 99;
+}
+
+
+.home-Container {
+  width: 1440px;
+  height: 1024px;
 }
 
 #city{
@@ -59,20 +71,14 @@ body{
 
 /* General Logo appearance. */
 
-.Logo {
-  color: azure;
-  font-weight: 900;
-  transition: 0.5s;
-}
-
-.Logo:hover {
+header > h1:hover {
   color: rgb(255, 240, 251);
   text-shadow: 0 0 10px #f98aff, 0 0 20px #f98aff, 0 0 40px #f98aff,
     0 0 80px #f98aff, 0 0 120px #f98aff;
 }
 
 /* General button appearance. */
-.Navpage a {
+nav > a {
   color: azure;
   font-weight: 900;
   font-size: 1.1em;
@@ -82,7 +88,7 @@ body{
 }
 
 /* The button appearance when hovered over. */
-.Navpage a:hover {
+nav > a:hover {
   outline-style: outset;
   background: linear-gradient(
     180deg,
