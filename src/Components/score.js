@@ -28,7 +28,6 @@ function score(props) {
     }
     props.setTotal(total);
     props.setSelection(clearSelection());
-
   }
   return;
 }

@@ -14,6 +14,8 @@ function Quiz(props) {
       nav("/results", {state: props.total}); 
     }
     props.setStep(props.step + 1);
+    console.log(props.total);
+
   }
   return (
     <div>

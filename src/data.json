@@ -2925,15 +2925,15 @@
       "category": "TV",
       "questions": [
         {
-          "question": "How are you feeling?",
+          "question": "How you doin'?",
           "answers": [
             {
               "answer": "Good",
               "score": [
-                { "result": "Ross Geller", "score": 1 },
-                { "result": "Rachel Green", "score": 2 },
-                { "result": "Phoebe Buffay", "score": 3 },
-                { "result": "Monica Geller", "score": 4 },
+                { "result": "Ross Geller", "score": 2 },
+                { "result": "Rachel Green", "score": 8 },
+                { "result": "Phoebe Buffay", "score": 10 },
+                { "result": "Monica Geller", "score": 7 },
                 { "result": "Chandler Bing", "score": 5 },
                 { "result": "Joey Tribbiani", "score": 6 }
               ]
@@ -2941,45 +2941,45 @@
             {
               "answer": "Bad",
               "score": [
-                { "result": "Ross Geller", "score": 1 },
-                { "result": "Rachel Green", "score": 2 },
-                { "result": "Phoebe Buffay", "score": 3 },
+                { "result": "Ross Geller", "score": 7 },
+                { "result": "Rachel Green", "score": 5 },
+                { "result": "Phoebe Buffay", "score": 1 },
                 { "result": "Monica Geller", "score": 4 },
-                { "result": "Chandler Bing", "score": 5 },
-                { "result": "Joey Tribbiani", "score": 6 }
+                { "result": "Chandler Bing", "score": 9 },
+                { "result": "Joey Tribbiani", "score": 2 }
               ]
             },
             {
               "answer": "Sad",
               "score": [
-                { "result": "Ross Geller", "score": 1 },
-                { "result": "Rachel Green", "score": 2 },
-                { "result": "Phoebe Buffay", "score": 3 },
+                { "result": "Ross Geller", "score": 5 },
+                { "result": "Rachel Green", "score": 10 },
+                { "result": "Phoebe Buffay", "score": 1 },
                 { "result": "Monica Geller", "score": 4 },
-                { "result": "Chandler Bing", "score": 5 },
+                { "result": "Chandler Bing", "score": 7 },
                 { "result": "Joey Tribbiani", "score": 6 }
               ]
             },
             {
               "answer": "Mad",
               "score": [
-                { "result": "Ross Geller", "score": 1 },
-                { "result": "Rachel Green", "score": 2 },
-                { "result": "Phoebe Buffay", "score": 3 },
-                { "result": "Monica Geller", "score": 4 },
+                { "result": "Ross Geller", "score": 10 },
+                { "result": "Rachel Green", "score": 3 },
+                { "result": "Phoebe Buffay", "score": 8 },
+                { "result": "Monica Geller", "score": 7 },
                 { "result": "Chandler Bing", "score": 5 },
-                { "result": "Joey Tribbiani", "score": 6 }
+                { "result": "Joey Tribbiani", "score": 1 }
               ]
             },
             {
               "answer": "Hungry",
               "score": [
-                { "result": "Ross Geller", "score": 1 },
-                { "result": "Rachel Green", "score": 2 },
-                { "result": "Phoebe Buffay", "score": 3 },
-                { "result": "Monica Geller", "score": 4 },
+                { "result": "Ross Geller", "score": 3 },
+                { "result": "Rachel Green", "score": 1 },
+                { "result": "Phoebe Buffay", "score": 1 },
+                { "result": "Monica Geller", "score": 8 },
                 { "result": "Chandler Bing", "score": 5 },
-                { "result": "Joey Tribbiani", "score": 6 }
+                { "result": "Joey Tribbiani", "score": 12 }
               ]
             }
           ]
@@ -2990,56 +2990,56 @@
             {
               "answer": "25%",
               "score": [
-                { "result": "Ross Geller", "score": 1 },
-                { "result": "Rachel Green", "score": 2 },
-                { "result": "Phoebe Buffay", "score": 3 },
-                { "result": "Monica Geller", "score": 4 },
+                { "result": "Ross Geller", "score": 4 },
+                { "result": "Rachel Green", "score": 10 },
+                { "result": "Phoebe Buffay", "score": 2 },
+                { "result": "Monica Geller", "score": 7 },
                 { "result": "Chandler Bing", "score": 5 },
-                { "result": "Joey Tribbiani", "score": 6 }
+                { "result": "Joey Tribbiani", "score": 5 }
               ]
             },
             {
               "answer": "50%",
               "score": [
-                { "result": "Ross Geller", "score": 1 },
-                { "result": "Rachel Green", "score": 2 },
-                { "result": "Phoebe Buffay", "score": 3 },
-                { "result": "Monica Geller", "score": 4 },
+                { "result": "Ross Geller", "score": 6 },
+                { "result": "Rachel Green", "score": 10 },
+                { "result": "Phoebe Buffay", "score": 4 },
+                { "result": "Monica Geller", "score": 7 },
                 { "result": "Chandler Bing", "score": 5 },
-                { "result": "Joey Tribbiani", "score": 6 }
+                { "result": "Joey Tribbiani", "score": 3 }
               ]
             },
             {
               "answer": "75%",
               "score": [
-                { "result": "Ross Geller", "score": 1 },
-                { "result": "Rachel Green", "score": 2 },
-                { "result": "Phoebe Buffay", "score": 3 },
-                { "result": "Monica Geller", "score": 4 },
+                { "result": "Ross Geller", "score": 6 },
+                { "result": "Rachel Green", "score": 5 },
+                { "result": "Phoebe Buffay", "score": 8 },
+                { "result": "Monica Geller", "score": 9 },
                 { "result": "Chandler Bing", "score": 5 },
-                { "result": "Joey Tribbiani", "score": 6 }
+                { "result": "Joey Tribbiani", "score": 7 }
               ]
             },
             {
               "answer": "100%",
               "score": [
-                { "result": "Ross Geller", "score": 1 },
+                { "result": "Ross Geller", "score": 3 },
                 { "result": "Rachel Green", "score": 2 },
-                { "result": "Phoebe Buffay", "score": 3 },
-                { "result": "Monica Geller", "score": 4 },
+                { "result": "Phoebe Buffay", "score": 10 },
+                { "result": "Monica Geller", "score": 7 },
                 { "result": "Chandler Bing", "score": 5 },
-                { "result": "Joey Tribbiani", "score": 6 }
+                { "result": "Joey Tribbiani", "score": 8 }
               ]
             },
             {
               "answer": "0%",
               "score": [
-                { "result": "Ross Geller", "score": 1 },
-                { "result": "Rachel Green", "score": 2 },
-                { "result": "Phoebe Buffay", "score": 3 },
+                { "result": "Ross Geller", "score": 6 },
+                { "result": "Rachel Green", "score": 9 },
+                { "result": "Phoebe Buffay", "score": 1 },
                 { "result": "Monica Geller", "score": 4 },
-                { "result": "Chandler Bing", "score": 5 },
-                { "result": "Joey Tribbiani", "score": 6 }
+                { "result": "Chandler Bing", "score": 7 },
+                { "result": "Joey Tribbiani", "score": 3 }
               ]
             }
           ]
@@ -3050,56 +3050,56 @@
             {
               "answer": "5:00AM",
               "score": [
-                { "result": "Ross Geller", "score": 1 },
-                { "result": "Rachel Green", "score": 2 },
-                { "result": "Phoebe Buffay", "score": 3 },
-                { "result": "Monica Geller", "score": 4 },
-                { "result": "Chandler Bing", "score": 5 },
-                { "result": "Joey Tribbiani", "score": 6 }
+                { "result": "Ross Geller", "score": 8 },
+                { "result": "Rachel Green", "score": 3 },
+                { "result": "Phoebe Buffay", "score": 5 },
+                { "result": "Monica Geller", "score": 10 },
+                { "result": "Chandler Bing", "score": 7 },
+                { "result": "Joey Tribbiani", "score": 1 }
               ]
             },
             {
               "answer": "7:00AM",
               "score": [
-                { "result": "Ross Geller", "score": 1 },
-                { "result": "Rachel Green", "score": 2 },
-                { "result": "Phoebe Buffay", "score": 3 },
-                { "result": "Monica Geller", "score": 4 },
-                { "result": "Chandler Bing", "score": 5 },
-                { "result": "Joey Tribbiani", "score": 6 }
+                { "result": "Ross Geller", "score": 10 },
+                { "result": "Rachel Green", "score": 3 },
+                { "result": "Phoebe Buffay", "score": 5 },
+                { "result": "Monica Geller", "score": 7 },
+                { "result": "Chandler Bing", "score": 7 },
+                { "result": "Joey Tribbiani", "score": 1 }
               ]
             },
             {
               "answer": "9:00AM",
               "score": [
-                { "result": "Ross Geller", "score": 1 },
-                { "result": "Rachel Green", "score": 2 },
-                { "result": "Phoebe Buffay", "score": 3 },
-                { "result": "Monica Geller", "score": 4 },
-                { "result": "Chandler Bing", "score": 5 },
-                { "result": "Joey Tribbiani", "score": 6 }
+                { "result": "Ross Geller", "score": 7 },
+                { "result": "Rachel Green", "score": 6 },
+                { "result": "Phoebe Buffay", "score": 6 },
+                { "result": "Monica Geller", "score": 8 },
+                { "result": "Chandler Bing", "score": 10 },
+                { "result": "Joey Tribbiani", "score": 1 }
               ]
             },
             {
               "answer": "10:00AM",
               "score": [
-                { "result": "Ross Geller", "score": 1 },
-                { "result": "Rachel Green", "score": 2 },
-                { "result": "Phoebe Buffay", "score": 3 },
+                { "result": "Ross Geller", "score": 5 },
+                { "result": "Rachel Green", "score": 9 },
+                { "result": "Phoebe Buffay", "score": 10 },
                 { "result": "Monica Geller", "score": 4 },
-                { "result": "Chandler Bing", "score": 5 },
-                { "result": "Joey Tribbiani", "score": 6 }
+                { "result": "Chandler Bing", "score": 7 },
+                { "result": "Joey Tribbiani", "score": 4 }
               ]
             },
             {
               "answer": "12:00PM",
               "score": [
-                { "result": "Ross Geller", "score": 1 },
-                { "result": "Rachel Green", "score": 2 },
-                { "result": "Phoebe Buffay", "score": 3 },
-                { "result": "Monica Geller", "score": 4 },
+                { "result": "Ross Geller", "score": 4 },
+                { "result": "Rachel Green", "score": 8 },
+                { "result": "Phoebe Buffay", "score": 6 },
+                { "result": "Monica Geller", "score": 1 },
                 { "result": "Chandler Bing", "score": 5 },
-                { "result": "Joey Tribbiani", "score": 6 }
+                { "result": "Joey Tribbiani", "score": 10 }
               ]
             }
           ]
@@ -3110,23 +3110,23 @@
             {
               "answer": "Positive",
               "score": [
-                { "result": "Ross Geller", "score": 1 },
-                { "result": "Rachel Green", "score": 2 },
-                { "result": "Phoebe Buffay", "score": 3 },
-                { "result": "Monica Geller", "score": 4 },
-                { "result": "Chandler Bing", "score": 5 },
-                { "result": "Joey Tribbiani", "score": 6 }
+                { "result": "Ross Geller", "score": 4 },
+                { "result": "Rachel Green", "score": 6 },
+                { "result": "Phoebe Buffay", "score": 10 },
+                { "result": "Monica Geller", "score": 5 },
+                { "result": "Chandler Bing", "score": 1 },
+                { "result": "Joey Tribbiani", "score": 8 }
               ]
             },
             {
               "answer": "Negative",
               "score": [
-                { "result": "Ross Geller", "score": 1 },
-                { "result": "Rachel Green", "score": 2 },
-                { "result": "Phoebe Buffay", "score": 3 },
-                { "result": "Monica Geller", "score": 4 },
-                { "result": "Chandler Bing", "score": 5 },
-                { "result": "Joey Tribbiani", "score": 6 }
+                { "result": "Ross Geller", "score": 8 },
+                { "result": "Rachel Green", "score": 5 },
+                { "result": "Phoebe Buffay", "score": 1 },
+                { "result": "Monica Geller", "score": 6 },
+                { "result": "Chandler Bing", "score": 10 },
+                { "result": "Joey Tribbiani", "score": 3 }
               ]
             }
           ]
@@ -3137,23 +3137,23 @@
             {
               "answer": "Yes",
               "score": [
-                { "result": "Ross Geller", "score": 1 },
+                { "result": "Ross Geller", "score": 7 },
                 { "result": "Rachel Green", "score": 2 },
-                { "result": "Phoebe Buffay", "score": 3 },
-                { "result": "Monica Geller", "score": 4 },
-                { "result": "Chandler Bing", "score": 5 },
-                { "result": "Joey Tribbiani", "score": 6 }
+                { "result": "Phoebe Buffay", "score": 8 },
+                { "result": "Monica Geller", "score": 15 },
+                { "result": "Chandler Bing", "score": 6 },
+                { "result": "Joey Tribbiani", "score": 5 }
               ]
             },
             {
               "answer": "No",
               "score": [
-                { "result": "Ross Geller", "score": 1 },
-                { "result": "Rachel Green", "score": 2 },
-                { "result": "Phoebe Buffay", "score": 3 },
-                { "result": "Monica Geller", "score": 4 },
-                { "result": "Chandler Bing", "score": 5 },
-                { "result": "Joey Tribbiani", "score": 6 }
+                { "result": "Ross Geller", "score": 6 },
+                { "result": "Rachel Green", "score": 10 },
+                { "result": "Phoebe Buffay", "score": 5 },
+                { "result": "Monica Geller", "score": 1 },
+                { "result": "Chandler Bing", "score": 3 },
+                { "result": "Joey Tribbiani", "score": 8 }
               ]
             }
           ]
