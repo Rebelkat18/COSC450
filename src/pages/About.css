@@ -1,4 +1,5 @@
 .about-Con{
+  background: url(/public/brickwall.jpg);
   height: 100vh;
   width: 100%;
   display: flex;
@@ -17,7 +18,20 @@
   font-family: Impact;
 }
 
+
+#wall{
+  position: absolute;
+  object-fit: fill;
+  width: 100%;
+  height: 150%;
+}
+
 /* Structure for Windows */
+
+.des {
+  display: flex;
+  flex-direction: column;
+}
 
 .light{
   position: absolute;
@@ -26,8 +40,7 @@
   width: 100%;
   padding: 250px 100px;
   background: linear-gradient(to bottom, rgba(255, 117, 145, 0.738), transparent);
-  mix-blend-mode: overlay;
-  z-index: -1;
+  z-index: 99;
 }
 
 .night{
@@ -39,57 +52,101 @@
   mix-blend-mode: multiply;
 }
 
-#wall{
-  position: absolute;
-  object-fit: fill;
-  width: 100%;
-  height: 150%;
-}
+/* General window components. */
 
-
-.wrap{
-  height: 450px;
-  width: 350px;
-  position: relative;
-  border: 20px solid rgb(36, 17, 43);
-  float: left;
-  outline: azure solid 2.5px;
-  transform: translate(15pc);  
-}
-
-.win{
-  overflow: hidden;
-  height: 100%;
-  width: 50%;
-  border: 10px solid rgb(91, 50, 83);
-  outline: azure solid 1.8px;
-  position: absolute;
-  display: flex;
-  flex-direction: column;
-  justify-content:left;
-  align-items: center;
-}
+.window{display: flex; flex-direction: row;}
 
 .shine{
   border: 5px solid white;
-  height: 70%;
+  height: 100%;
   width: 10%;
   transform: rotate(50deg);
   transition: 0.5s;
 }
 
-#leftwin{
-  background: linear-gradient(
-    180deg,
-    rgba(231, 22, 70, 0.738) 0%,
-    rgba(171, 47, 76, 0.738) 31.25%,
-    rgb(194, 91, 107) 63.91%,
-    rgb(216, 144, 163) 100%
+.wrap{
+  background-image: url('/public/Kat.png');
+  display: flex;
+  height: 450px;
+  width: 350px;
+  border: 20px solid rgb(36, 17, 43);
+  outline: rgb(131, 114, 132) solid 2.5px;
+  translate: 50%;
+  z-index: 98;
+}
+
+/* Kat's picture. */
+
+#kat{
+  position: absolute;
+  object-fit: fill;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  filter: blur(5px);
+  transition: 0.3s;
+}
+
+/* Robin's picture. */
+
+#robin{
+  position: absolute;
+  object-fit: fill;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  filter: blur(5px);
+  transition: 0.3s;
+}
+
+/* Left window components */
+
+.lW{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+  height: 100%;
+  width: 50%;
+  background: linear-gradient(180deg, rgba(231, 22, 70, 0.738) 0%,rgba(171, 47, 76, 0.738) 31.25%,
+    rgb(194, 91, 107) 63.91%,rgb(216, 144, 163) 100%
   );
-    top: 0;
-    left: 0;
-    transition: 0.5s;
-    transform-origin: left;
+  border: 10px solid rgb(91, 50, 83);
+  outline: azure solid 1.8px;
+  top: 0;
+  left: 0;
+  transition: 0.5s;
+  transform-origin: left;
+  z-index: 97;
+}
+
+.rW{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+  height: 100%;
+  width: 50%;
+  background: linear-gradient(180deg,rgba(231, 22, 70, 0.738) 0%,rgba(171, 47, 76, 0.738) 31.25%,
+rgb(194, 91, 107) 63.91%,rgb(216, 144, 163) 100%
+  );
+  border: 10px solid rgb(91, 50, 83);
+  outline: azure solid 1.8px;
+  top: 0;
+  left: 50%;
+  transition: 0.5s;
+  transform-origin: right;
+  z-index: 96;
+}
+
+.w2{
+  display: flex;
+  height: 450px;
+  width: 350px;
+  border: 20px solid rgb(36, 17, 43);
+  outline: rgb(136, 132, 135) solid 2.5px;
+  translate: 40pc;
+  
 }
 
 .sill{
@@ -102,31 +159,10 @@
   outline: azure solid 2.5px;
 }
 
-.wrapper2{
-  height: 450px;
-  width: 350px;
-  position: relative;
-  border: 20px solid rgb(36, 17, 43);
-  outline: azure solid 2.5px;
-  float: right;
-  transform: translate(-50%);
-}
+/* Right window components. */
 
-#rightwin{
-  background: linear-gradient(
-    180deg,
-    rgba(231, 22, 70, 0.738) 0%,
-    rgba(171, 47, 76, 0.738) 31.25%,
-    rgb(194, 91, 107) 63.91%,
-    rgb(216, 144, 163) 100%
-  );
-  top: 0;
-  left: 50%;
-  transition: 0.5s;
-  transform-origin: right;
-}
 
-#leftwin2{
+.w2 > .lW{
   background: linear-gradient(
     180deg,
     rgba(48, 185, 248, 0.911) 0%,
@@ -134,13 +170,9 @@
     rgb(135, 207, 243) 63.91%,
     rgb(186, 223, 252) 100%
   );
-  top: 0;
-  left: 0;
-  transition: 0.5s;
-  transform-origin: left;
-}
+} 
 
-#rightwin2{
+.w2 > .rW{
   background: linear-gradient(
     180deg,
     rgba(48, 185, 248, 0.911) 0%,
@@ -148,42 +180,19 @@
     rgb(135, 207, 243) 63.91%,
     rgb(186, 223, 252) 100%
   );
-  top: 0;
-  left: 50%;
-  transition: 0.5s;
-  transform-origin: right;
-}
-
-.sill2{
-  position: absolute;
-  bottom: -12%;
-  width: 130%;
-  height: 35px;
-  left: -15%;
-  background-color: rgb(86, 43, 102);
-  outline: azure solid 2.5px;
 }
 
 /* Open windows animation. */
 
-.wrap:hover #rightwin{
-  transform: rotateY(-180deg);
-}
-.wrap:hover #leftwin{
-  transform: rotateY(-180deg);
-}
-.wrapper2:hover #leftwin2{
-  transform: rotateY(-180deg);
-}
-.wrapper2:hover #rightwin2{
-  transform: rotateY(-180deg);
-}
+.wrap:hover .lW{transform: rotateY(-180deg);}
+.wrap:hover .rW{transform: rotateY(-180deg);}
+.wrap:hover #kat{filter: blur(0px);}
+
+.w2:hover .lW{transform: rotateY(-180deg);}
+.w2:hover .rW{transform: rotateY(-180deg);}
+.w2:hover #robin{filter: blur(0px);}
 
 /* Shine inside windows becomes opaque. */
 
-.wrap:hover .shine{
-  opacity: 25%;
-}
-.wrapper2:hover .shine{
-  opacity: 25%;
-}
+.wrap:hover .shine{opacity: 25%;}
+.w2:hover .shine{opacity: 25%;}

@@ -3,6 +3,13 @@ import "./About.css";
 function About() {
   return (
     <div className="about-Con">
+      <section class="des">
+        <img src="brickwall.jpg" id="wall" alt="brick city wall"></img>
+        <div class="light"></div>
+        <div class="night"></div>
+      </section>
+      
+      <h1>About Us</h1>
       <header>
         <h1>Quiz City</h1>
           <nav className="Navpage">
@@ -10,39 +17,40 @@ function About() {
             <a href="about">About</a>
             <a href="quizzes">Quizzes</a>
           </nav>
-        <div className="light"></div>
       </header>
+      
+      {/* Window on left */}
 
-      <img src="brickwall.jpg" id="wall" alt="brick city wall"></img>
-      
-      <h1>About Us</h1>
-      <div className="night"></div>
-      
-      <section>
-        <section className="wrap">
-          <div id="leftwin" class="win">
+      <section class="window">
+        <section class="wrap">
+          <section class="lW">
             <div class="shine"></div>
             <div class="shine"></div>
-          </div>
-          <div id="rightwin" class="win">
+            </section>
+          <section class="rW">
             <div class="shine"></div>
             <div class="shine"></div>
-          </div>
+          </section>
           <div class="sill"></div>
+          <img src="Kat.png" id="kat" alt="Kat C."></img>
         </section>
 
-        <section className="wrapper2">
-            <div id="leftwin2" class="win">
-              <div class="shine"></div>
-              <div class="shine"></div>
-              <div class="handle"></div>
-            </div>
-            <div id="rightwin2" class="win">
-              <div class="shine"></div>
-              <div class="shine"></div>
-            </div>
-              <div class="sill2"></div>
-          </section>
+   {/* Window on the right. */}
+
+        <section class="window">
+            <section class="w2">
+              <section class="lW">
+                <div class="shine"></div>
+                <div class="shine"></div>
+              </section>
+            <section class="rW">
+                <div class="shine"></div>
+                <div class="shine"></div>
+            </section>
+                <div class="sill"></div>
+                <img src="Robin.jpg" id="robin" alt="Robin A."></img>
+        </section>
+        </section>
         </section>
     </div>
   );
