@@ -18,6 +18,10 @@ npm i react-router-dom
 ```
 npm install react-bootstrap bootstrap
 ```
+### Github Pages
+```
+npm install gh-pages --save-dev
+```
 ### Documentation *Not Important Right Now*
 ```
 npm install --save react-styleguidist
