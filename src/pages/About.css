@@ -1,88 +1,82 @@
-.about-Con{
-  display: flex;
-  flex-direction: column;
-}
-
 
 /* About Text */
-.about-Con > div > h1{
-  z-index: 100;
-  text-align: center;
-  margin-top: 20vh;
-  font-size: 100px;
-  margin-bottom: 20vh;
-  position: relative;
-  color: aliceblue;
-  font-family: Impact;
+  
+.about-Con{
+overflow: hidden;
+ background-image: url(/public/brickwall.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
 }
+
 
 .about-Con > header {
   position: absolute;
+  background: linear-gradient(to bottom, rgba(255, 117, 145, 0.738), transparent);
+  padding-bottom: 250px;
+  z-index: 99;
+}
+
+.about-Con > footer {
+  position: relative;
+  padding-top: 400px;
+  background: linear-gradient(to top, rgba(14, 4, 48, 0.738), transparent);
 }
 
 /* Text descriptions. */
 
 .katDes{
   position: absolute;
-  bottom: -120%;
+  margin-top: 35pc;
+  width: 150%;
   float: left;
   color: aliceblue;
   font-size: 15px;
-  z-index: 91;
+
 }
 
 .robDes{
   position: absolute;
-  bottom: -120%;
+  margin-top: 35pc;
+  width: 150%;
   float: right;
   color: aliceblue;
   font-size: 15px;
-  z-index: 91;
 }
 
-/* Brick wall styling. */
-
-#wall{
-  object-fit: fill;
-  width: 100%;
-  position: absolute;
+.text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-/* Structure for Windows */
-
-.light{
-  top: 0;
-  left: 0;
-  width: 100%;
-  padding: 250px 100px;
-  background: linear-gradient(to bottom, rgba(255, 117, 145, 0.738), transparent);
-  position: absolute;
+.ab{
   z-index: 99;
-  
+  padding: 5pc;
+  font-size: 100px;
+  color: aliceblue;
+  font-family: Impact;
+}
+
+.col{
+  position: relative;
+  margin-bottom: 20px;
+  width: 54%;
+  z-index: 99;
+  clear: both;
 }
 
 .night{
   width: 100%;
   bottom: 0;
-  padding: 20% 100%;
+  padding: 4% 100%;
   background: linear-gradient(to top, rgba(14, 4, 48, 0.738), transparent);
   mix-blend-mode: hard-light;
   position: fixed;
-  z-index: 90;
+  z-index: 98;
 }
 
-.bot{
-  width: 100%;
-  height: 50%;
-  bottom: -90%;
-  background: rgb(83, 26, 104);
-  position: absolute;
- 
-}
 
 /* General window components. */
-
-.window{display: flex; flex-direction: row;}
 
 .shine{
   border: 5px solid white;
@@ -92,44 +86,50 @@
   transition: 0.5s;
 }
 
-.wrap{
-  background-image: url('/public/Kat.png');
+.window{
   display: flex;
-  height: 450px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+.wrap{
+  position: relative;
+  display: flex;
+  justify-content: center;
   width: 350px;
+  height: 450px;
   border: 20px solid rgb(36, 17, 43);
   outline: rgb(131, 114, 132) solid 2.5px;
-  translate: 55%;
   z-index: 98;
+  margin: 10px auto;
+  
 }
 
-/* Kat's picture. */
-
-#kat{
-  position: absolute;
-  object-fit: fill;
-  width: 100%;
-  height: 100%;
-  z-index: 0;
+.bg-img{
+  background-image: url(/public/Kat.png);
+  width: 350px;
+  max-height: 410px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  z-index: 90;
   filter: blur(5px);
   transition: 0.3s;
 }
 
-/* Robin's picture. */
-
-#robin{
-  position: absolute;
-  object-fit: fill;
+.bg-img2{
+  background-image: url(/public/Robin.jpg);
   width: 100%;
   height: 100%;
-  z-index: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  z-index: 90;
   filter: blur(5px);
   transition: 0.3s;
 }
-
-/* Left window components */
 
 .lW{
+  position: absolute;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -150,6 +150,7 @@
 }
 
 .rW{
+  position: absolute;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -170,43 +171,41 @@ rgb(194, 91, 107) 63.91%,rgb(216, 144, 163) 100%
 }
 
 .w2{
+  position: relative;
   display: flex;
+  justify-content: center;
   height: 450px;
   width: 350px;
   border: 20px solid rgb(36, 17, 43);
   outline: rgb(136, 132, 135) solid 2.5px;
-  translate: 170%;
   z-index: 98;
-  
+  margin: 10px auto;
 }
 
 .sill{
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  justify-content: center;
   position: absolute;
-  bottom: -14%;
+  margin-top: 27pc;
   width: 130%;
   height: 35px;
-  left: -15%;
   background: linear-gradient(180deg,rgba(68, 29, 85, 0.738) 0%,rgba(88, 52, 119, 0.738) 31.25%,
   rgb(115, 74, 145) 63.91%,rgb(154, 113, 192) 100%); 
   outline: azure solid 2.5px;
 }
 
 .shad{
-  position: absolute;
+  position: relative;
   width: 90%;
   height: 190%;
-  bottom: -200%;
+  bottom: -110%;
   background: linear-gradient(to bottom, black, transparent);
   filter: opacity(60%);
 }
 
 /* Right window components. */
 
-
-.w2 > .lW{
+.w2 > .lW, .w2 > .rW {
   background: linear-gradient(
     180deg,
     rgba(48, 185, 248, 0.911) 0%,
@@ -216,27 +215,58 @@ rgb(194, 91, 107) 63.91%,rgb(216, 144, 163) 100%
   );
 } 
 
-.w2 > .rW{
-  background: linear-gradient(
-    180deg,
-    rgba(48, 185, 248, 0.911) 0%,
-    rgba(124, 195, 226, 0.964) 31.25%,
-    rgb(135, 207, 243) 63.91%,
-    rgb(186, 223, 252) 100%
-  );
-}
+/* Open windows animation and blur reduction of pictures. */
 
-/* Open windows animation. */
-
-.wrap:hover .lW{transform: rotateY(-180deg);}
-.wrap:hover .rW{transform: rotateY(-180deg);}
-.wrap:hover #kat{filter: blur(0px);}
-
-.w2:hover .lW{transform: rotateY(-180deg);}
-.w2:hover .rW{transform: rotateY(-180deg);}
-.w2:hover #robin{filter: blur(0px);}
+.wrap:hover .lW, .wrap:hover .rW, .w2:hover .lW, .w2:hover .rW
+{transform: rotateY(-180deg);}
+.wrap:hover .bg-img,.w2:hover .bg-img2{filter: blur(0px);}
 
 /* Shine inside windows becomes opaque. */
 
-.wrap:hover .shine{opacity: 25%;}
-.w2:hover .shine{opacity: 25%;}
+.wrap:hover .shine, .w2:hover .shine{opacity: 25%;}
+
+/* For Mobile Devices. */
+
+@media only screen and (max-width: 480px){
+  .about-Con > header{
+    flex-direction: column;
+    position: relative;
+    padding: 40px
+  }
+  .about-Con{
+    overflow: scroll;
+  }
+  .window{
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 1000px;
+
+  }
+  .col{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+ 
+  .ab{font-size: 80px; padding: 0;}
+  
+  .wrap, .w2 {max-width: 220px; max-height: 300px;}
+
+  .sill{margin-top: 20.8pc;}
+  .katDes, .robDes {font-size: 12px; margin-top: 20pc;}
+  
+}
+
+/* Small screens and laptops. */
+
+@media only screen and (max-width: 1024px){
+  .about-Con{max-height: 1400px;}
+  .wrap, .w2 {max-width: 220px; max-height: 300px;}
+  .katDes, .robDes {width: 150%; font-size: 12px; margin-top: 24.5pc;}
+  .night{padding: 5% 100%;}
+  .about-Con > footer{height: 50%;}
+  .sill{margin-top: 17.5pc;}
+  
+}
