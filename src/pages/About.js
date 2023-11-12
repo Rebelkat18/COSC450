@@ -16,8 +16,8 @@ function About() {
       <section class="text">
         <div class="ab">About Us</div>
         <div class={"col"}>
-          <h2 style={{float: "left", color: "aliceblue", fontSize: 40}}>Kat</h2>
-          <h2 style={{float: "right", color: "aliceblue", fontSize: 40}}>Robin</h2>
+          <h2 class = "K" style={{float: "left", color: "aliceblue", fontSize: 40}}>Kat</h2>
+          <h2 class = "Rob" style={{float: "right", color: "aliceblue", fontSize: 40}}>Robin</h2>
         </div>
       
       </section>
