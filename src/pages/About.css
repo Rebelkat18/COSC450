@@ -1,17 +1,19 @@
-
 /* About Text */
-  
-.about-Con{
-overflow: hidden;
- background-image: url(/public/brickwall.jpg);
- background-repeat: no-repeat;
- background-size: cover;
-}
 
+.about-Con {
+  overflow: hidden;
+  background-image: url(/public/brickwall.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 .about-Con > header {
   position: absolute;
-  background: linear-gradient(to bottom, rgba(255, 117, 145, 0.738), transparent);
+  background: linear-gradient(
+    to bottom,
+    rgba(255, 117, 145, 0.738),
+    transparent
+  );
   padding-bottom: 250px;
   z-index: 99;
 }
@@ -24,17 +26,16 @@ overflow: hidden;
 
 /* Text descriptions. */
 
-.katDes{
+.katDes {
   position: absolute;
   margin-top: 35pc;
   width: 150%;
   float: left;
   color: aliceblue;
   font-size: 15px;
-
 }
 
-.robDes{
+.robDes {
   position: absolute;
   margin-top: 35pc;
   width: 150%;
@@ -49,7 +50,7 @@ overflow: hidden;
   align-items: center;
 }
 
-.ab{
+.ab {
   z-index: 99;
   padding: 5pc;
   font-size: 100px;
@@ -57,7 +58,7 @@ overflow: hidden;
   font-family: Impact;
 }
 
-.col{
+.col {
   position: relative;
   margin-bottom: 20px;
   width: 54%;
@@ -65,7 +66,7 @@ overflow: hidden;
   clear: both;
 }
 
-.night{
+.night {
   width: 100%;
   bottom: 0;
   padding: 4% 100%;
@@ -75,10 +76,9 @@ overflow: hidden;
   z-index: 98;
 }
 
-
 /* General window components. */
 
-.shine{
+.shine {
   border: 5px solid white;
   height: 100%;
   width: 10%;
@@ -86,14 +86,14 @@ overflow: hidden;
   transition: 0.5s;
 }
 
-.window{
+.window {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
   position: relative;
 }
 
-.wrap{
+.wrap {
   position: relative;
   display: flex;
   justify-content: center;
@@ -103,10 +103,9 @@ overflow: hidden;
   outline: rgb(131, 114, 132) solid 2.5px;
   z-index: 98;
   margin: 10px auto;
-  
 }
 
-.bg-img{
+.bg-img {
   background-image: url(/public/Kat.png);
   width: 350px;
   max-height: 410px;
@@ -117,7 +116,7 @@ overflow: hidden;
   transition: 0.3s;
 }
 
-.bg-img2{
+.bg-img2 {
   background-image: url(/public/Robin.jpg);
   width: 100%;
   height: 100%;
@@ -128,7 +127,7 @@ overflow: hidden;
   transition: 0.3s;
 }
 
-.lW{
+.lW {
   position: absolute;
   display: flex;
   flex-direction: column;
@@ -136,8 +135,12 @@ overflow: hidden;
   overflow: hidden;
   height: 100%;
   width: 50%;
-  background: linear-gradient(180deg, rgba(231, 22, 70, 0.738) 0%,rgba(171, 47, 76, 0.738) 31.25%,
-    rgb(194, 91, 107) 63.91%,rgb(216, 144, 163) 100%
+  background: linear-gradient(
+    180deg,
+    rgba(231, 22, 70, 0.738) 0%,
+    rgba(171, 47, 76, 0.738) 31.25%,
+    rgb(194, 91, 107) 63.91%,
+    rgb(216, 144, 163) 100%
   );
   border: 10px solid rgb(91, 50, 83);
   outline: azure solid 1.8px;
@@ -149,7 +152,7 @@ overflow: hidden;
   filter: opacity(85%);
 }
 
-.rW{
+.rW {
   position: absolute;
   display: flex;
   flex-direction: column;
@@ -157,8 +160,12 @@ overflow: hidden;
   overflow: hidden;
   height: 100%;
   width: 50%;
-  background: linear-gradient(180deg,rgba(231, 22, 70, 0.738) 0%,rgba(171, 47, 76, 0.738) 31.25%,
-rgb(194, 91, 107) 63.91%,rgb(216, 144, 163) 100%
+  background: linear-gradient(
+    180deg,
+    rgba(231, 22, 70, 0.738) 0%,
+    rgba(171, 47, 76, 0.738) 31.25%,
+    rgb(194, 91, 107) 63.91%,
+    rgb(216, 144, 163) 100%
   );
   border: 10px solid rgb(91, 50, 83);
   outline: azure solid 1.8px;
@@ -170,7 +177,7 @@ rgb(194, 91, 107) 63.91%,rgb(216, 144, 163) 100%
   filter: opacity(85%);
 }
 
-.w2{
+.w2 {
   position: relative;
   display: flex;
   justify-content: center;
@@ -182,19 +189,24 @@ rgb(194, 91, 107) 63.91%,rgb(216, 144, 163) 100%
   margin: 10px auto;
 }
 
-.sill{
+.sill {
   display: flex;
   justify-content: center;
   position: absolute;
   margin-top: 27pc;
   width: 130%;
   height: 35px;
-  background: linear-gradient(180deg,rgba(68, 29, 85, 0.738) 0%,rgba(88, 52, 119, 0.738) 31.25%,
-  rgb(115, 74, 145) 63.91%,rgb(154, 113, 192) 100%); 
+  background: linear-gradient(
+    180deg,
+    rgba(68, 29, 85, 0.738) 0%,
+    rgba(88, 52, 119, 0.738) 31.25%,
+    rgb(115, 74, 145) 63.91%,
+    rgb(154, 113, 192) 100%
+  );
   outline: azure solid 2.5px;
 }
 
-.shad{
+.shad {
   position: relative;
   width: 90%;
   height: 190%;
@@ -205,7 +217,8 @@ rgb(194, 91, 107) 63.91%,rgb(216, 144, 163) 100%
 
 /* Right window components. */
 
-.w2 > .lW, .w2 > .rW {
+.w2 > .lW,
+.w2 > .rW {
   background: linear-gradient(
     180deg,
     rgba(48, 185, 248, 0.911) 0%,
@@ -213,60 +226,96 @@ rgb(194, 91, 107) 63.91%,rgb(216, 144, 163) 100%
     rgb(135, 207, 243) 63.91%,
     rgb(186, 223, 252) 100%
   );
-} 
+}
 
 /* Open windows animation and blur reduction of pictures. */
 
-.wrap:hover .lW, .wrap:hover .rW, .w2:hover .lW, .w2:hover .rW
-{transform: rotateY(-180deg);}
-.wrap:hover .bg-img,.w2:hover .bg-img2{filter: blur(0px);}
+.wrap:hover .lW,
+.wrap:hover .rW,
+.w2:hover .lW,
+.w2:hover .rW {
+  transform: rotateY(-180deg);
+}
+.wrap:hover .bg-img,
+.w2:hover .bg-img2 {
+  filter: blur(0px);
+}
 
 /* Shine inside windows becomes opaque. */
 
-.wrap:hover .shine, .w2:hover .shine{opacity: 25%;}
+.wrap:hover .shine,
+.w2:hover .shine {
+  opacity: 25%;
+}
 
 /* For Mobile Devices. */
 
-@media only screen and (max-width: 480px){
-  .about-Con > header{
+@media only screen and (max-width: 480px) {
+  .about-Con > header {
     flex-direction: column;
     position: relative;
-    padding: 40px
+    padding: 40px;
   }
-  .about-Con{
+  .about-Con {
     overflow: scroll;
   }
-  .window{
+  .window {
     position: relative;
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
     height: 1000px;
-
   }
-  .col{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  .col {
+    display: flex; 
+    column-gap: 20px;
   }
- 
-  .ab{font-size: 80px; padding: 0;}
-  
-  .wrap, .w2 {max-width: 220px; max-height: 300px;}
 
-  .sill{margin-top: 20.8pc;}
-  .katDes, .robDes {font-size: 12px; margin-top: 20pc;}
-  
+  .ab {
+    font-size: 80px;
+    padding: 0;
+  }
+
+  .wrap,
+  .w2 {
+    max-width: 220px;
+    max-height: 300px;
+  }
+
+  .sill {
+    margin-top: 20.8pc;
+  }
+  .katDes,
+  .robDes {
+    font-size: 12px;
+    margin-top: 20pc;
+  }
 }
 
 /* Small screens and laptops. */
 
-@media only screen and (max-width: 1024px){
-  .about-Con{max-height: 1400px;}
-  .wrap, .w2 {max-width: 220px; max-height: 300px;}
-  .katDes, .robDes {width: 150%; font-size: 12px; margin-top: 24.5pc;}
-  .night{padding: 5% 100%;}
-  .about-Con > footer{height: 50%;}
-  .sill{margin-top: 17.5pc;}
-  
+@media only screen and (max-width: 1024px) {
+  .about-Con {
+    max-height: 1400px;
+  }
+  .wrap,
+  .w2 {
+    max-width: 220px;
+    max-height: 300px;
+  }
+  .katDes,
+  .robDes {
+    width: 150%;
+    font-size: 12px;
+    margin-top: 24.5pc;
+  }
+  .night {
+    padding: 5% 100%;
+  }
+  .about-Con > footer {
+    height: 50%;
+  }
+  .sill {
+    margin-top: 17.5pc;
+  }
 }
