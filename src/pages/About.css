@@ -3,7 +3,6 @@
 .about-Con {
   max-width: 100%;
   max-height: 100%;
-  overflow: hidden;
   background-image: url(/public/brickwall.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -139,11 +138,12 @@
   width: 50%;
   background: linear-gradient(
     180deg,
-    rgba(231, 22, 70, 0.738) 0%,
-    rgba(171, 47, 76, 0.738) 31.25%,
+    rgba(231, 22, 70, 0.4) 0%,
+    rgba(171, 47, 76, 0.4) 31.25%,
     rgb(194, 91, 107) 63.91%,
     rgb(216, 144, 163) 100%
   );
+  
   border: 10px solid rgb(91, 50, 83);
   outline: azure solid 1.8px;
   top: 0;
@@ -164,8 +164,8 @@
   width: 50%;
   background: linear-gradient(
     180deg,
-    rgba(231, 22, 70, 0.738) 0%,
-    rgba(171, 47, 76, 0.738) 31.25%,
+    rgba(231, 22, 70, 0.4) 0%,
+    rgba(171, 47, 76, 0.4) 31.25%,
     rgb(194, 91, 107) 63.91%,
     rgb(216, 144, 163) 100%
   );
@@ -223,8 +223,8 @@
 .w2 > .rW {
   background: linear-gradient(
     180deg,
-    rgba(48, 185, 248, 0.911) 0%,
-    rgba(124, 195, 226, 0.964) 31.25%,
+    rgba(48, 185, 248, 0.4) 0%,
+    rgba(124, 195, 226, 0.5) 31.25%,
     rgb(135, 207, 243) 63.91%,
     rgb(186, 223, 252) 100%
   );
