@@ -8,7 +8,7 @@ function Quizzes(props) {
   // console.log(data);
   return (
     <div>
-      <header>
+      <header className="quizHead">
         <h1 className="Logo">Quiz City</h1>
         <nav className="Navpage">
           <a href="/">Home</a>
