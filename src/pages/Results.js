@@ -1,17 +1,16 @@
 import React from "react";
 import "./Results.css";
-import data from "../data.json";
-// import {total} from "../index";
+import { useLocation } from "react-router-dom";
 
 function Results() {
-    //gonna need to use states for Quizzes[]
-    // console.log(data.Quizzes[0].results[0]);
-    let result = data.Quizzes[0].results[0];
-    
-    // if(total > 10){
-    //     result = data.Quizzes[0].results[1];
-    // }
-    
+  const location = useLocation();
+  const total = location.state;
+  
+  //sort total for highest score
+  let sorted = total.sort((a, b) => (a.score < b.score ? 1 : -1));
+  let result = sorted[0].result;
+  console.log(total);
+
   return (
     <div>
       <header>
