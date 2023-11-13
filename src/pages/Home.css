@@ -4,9 +4,19 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins";
 }
-body {
+/* Global styling for all header h1 elements. */
+
+header > h1 {
+  color: azure;
+  font-weight: 900;
+  transition: 0.5s;
+}
+
+/* Global styling for body. */
+
+body{
   background: linear-gradient(
     180deg,
     rgb(99.52, 14.93, 62.13) 0%,
@@ -14,10 +24,12 @@ body {
     rgb(158.5, 7.2, 181) 63.91%,
     rgb(195.64, 2.84, 227.02) 100%
   );
-  width: 1440px;
-  height: 1024px;
+  width: 100%;
+  height: 100%;
   background-attachment: fixed;
 }
+
+/* Global header alignment and style. */
 
 header {
   position: fixed;
@@ -31,7 +43,13 @@ header {
   z-index: 99;
 }
 
-section img {
+
+.home-Container {
+  width: 1440px;
+  height: 1024px;
+}
+
+#city{
   position: fixed;
   top: 12pc;
   width: 100%;
@@ -53,20 +71,14 @@ section img {
 
 /* General Logo appearance. */
 
-header .Logo {
-  color: azure;
-  font-weight: 900;
-  transition: 0.5s;
-}
-
-header .Logo:hover {
+header > h1:hover {
   color: rgb(255, 240, 251);
   text-shadow: 0 0 10px #f98aff, 0 0 20px #f98aff, 0 0 40px #f98aff,
     0 0 80px #f98aff, 0 0 120px #f98aff;
 }
 
 /* General button appearance. */
-.Navpage a {
+nav > a {
   color: azure;
   font-weight: 900;
   font-size: 1.1em;
@@ -76,7 +88,7 @@ header .Logo:hover {
 }
 
 /* The button appearance when hovered over. */
-.Navpage a:hover {
+nav > a:hover {
   outline-style: outset;
   background: linear-gradient(
     180deg,

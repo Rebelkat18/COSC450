@@ -14,7 +14,7 @@ function Results() {
   return (
     <div>
       <header>
-        <h1 className="Logo">Quiz City</h1>
+        <h1>Quiz City</h1>
         <nav className="Navpage">
           <a href="/">Home</a>
           <a href="about">About</a>
