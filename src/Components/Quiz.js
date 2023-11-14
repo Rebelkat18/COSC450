@@ -1,7 +1,7 @@
 import "./Quiz.css";
 import React from "react";
 import Question from "./Question";
-import  {useNavigate}  from "react-router-dom"; 
+import { useNavigate } from "react-router-dom";
 import score from "./score";
 
 function Quiz(props) {
@@ -10,15 +10,15 @@ function Quiz(props) {
   const stepChange = () => {
     score(props);
     //Check if last question
-    if (props.questions.length-1 === props.step) {
-      nav("/results", {state: props.total}); 
+    if (props.questions.length - 1 === props.step) {
+      nav("/results", { state: props.total });
     }
     props.setStep(props.step + 1);
     console.log(props.total);
 
   }
   return (
-    <div>
+    <div className="qq-container">
       <div className="Main">
         <h1 className="title"> {props.title} </h1>
         <Question
@@ -30,12 +30,10 @@ function Quiz(props) {
           selection={props.selection}
           setSelection={props.setSelection}
         />
-        <div>
-          <button onClick={() => stepChange()}>
-            {" "}
-            Submit{" "}
-          </button>
-        </div>
+        <button className="butt1" onClick={() => stepChange()}>
+          {" "}
+          Submit{" "}
+        </button>
       </div>
     </div>
   );

@@ -8,8 +8,8 @@ function Quizzes(props) {
   // console.log(data);
   
   return (
-    <div>
-      <header className="quizHead">
+    <div className="container">
+      <header>
         <h1 className="Logo">Quiz City</h1>
         <nav className="Navpage">
           <a href="/">Home</a>
@@ -18,7 +18,7 @@ function Quizzes(props) {
         </nav>
       </header>
       <Quiz
-        {...data.Quizzes[9]} //To change quiz, change index
+        {...data.Quizzes[props.quiz]} //To change quiz, change index
         step={props.step}
         setStep={props.setStep}
         total={props.total}

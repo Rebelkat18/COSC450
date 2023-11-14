@@ -16,7 +16,7 @@ header > h1 {
 
 /* Global styling for body. */
 
-body{
+body {
   background: linear-gradient(
     180deg,
     rgb(99.52, 14.93, 62.13) 0%,
@@ -43,13 +43,16 @@ header {
   z-index: 99;
 }
 
-
 .home-Container {
-  width: 1440px;
   height: 1024px;
 }
 
-#city{
+/* To fix image background */
+html, body {
+  background-color: #fff;
+}
+
+#city {
   position: fixed;
   top: 12pc;
   width: 100%;
@@ -100,4 +103,22 @@ nav > a:hover {
   padding: 3px 12px;
   color: rgb(26, 29, 104);
   border-radius: 20px;
+}
+
+.btn2 {
+  position: fixed;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.butt {
+  width: 45%;
+  background-color: rgb(178, 9, 167);
+  border: none;
+}
+
+.butt:hover {
+  background-color:rgb(230, 11, 230);
+  border-color: transparent;
 }

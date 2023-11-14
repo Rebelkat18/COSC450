@@ -10,76 +10,75 @@
             {
               "answer": "Good",
               "score": [
-                { "result": "Red", "score": 0 },
-                { "result": "Orange", "score": 1 },
-                { "result": "Yellow", "score": 2 },
+                { "result": "Pink", "score": 8 },
+                { "result": "Red", "score": 5 },
+                { "result": "Orange", "score": 5 },
+                { "result": "Yellow", "score":  10},
                 { "result": "Green", "score": 10 },
-                { "result": "Blue", "score": 4 },
-                { "result": "Purple", "score": 5 },
-                { "result": "Brown", "score": 6 },
-                { "result": "Black", "score": 7 },
-                { "result": "White", "score": 8 },
-                { "result": "Gray", "score": 9 }
+                { "result": "Blue", "score": 6 },
+                { "result": "Purple", "score": 6 },
+                { "result": "Brown", "score": 2 },
+                { "result": "Black", "score": 0 },
+                { "result": "White", "score": 6 }
               ]
             },
             {
               "answer": "Bad",
               "score": [
-                { "result": "Red", "score": 0 },
-                { "result": "Orange", "score": 1 },
-                { "result": "Yellow", "score": 2 },
+                { "result": "Pink", "score": 1 },
+                { "result": "Red", "score": 7 },
+                { "result": "Orange", "score": 5 },
+                { "result": "Yellow", "score": 3 },
                 { "result": "Green", "score": 3 },
                 { "result": "Blue", "score": 4 },
-                { "result": "Purple", "score": 5 },
-                { "result": "Brown", "score": 6 },
-                { "result": "Black", "score": 7 },
-                { "result": "White", "score": 8 },
-                { "result": "Gray", "score": 9 }
-              ]
+                { "result": "Purple", "score": 4 },
+                { "result": "Brown", "score":  2},
+                { "result": "Black", "score": 10 },
+                { "result": "White", "score": 2 }              ]
             },
             {
               "answer": "Sad",
               "score": [
-                { "result": "Red", "score": 0 },
+                { "result": "Pink", "score": 0 },
+                { "result": "Red", "score": 3 },
                 { "result": "Orange", "score": 1 },
                 { "result": "Yellow", "score": 2 },
-                { "result": "Green", "score": 3 },
-                { "result": "Blue", "score": 4 },
-                { "result": "Purple", "score": 5 },
+                { "result": "Green", "score": 1 },
+                { "result": "Blue", "score": 10 },
+                { "result": "Purple", "score": 8 },
                 { "result": "Brown", "score": 6 },
                 { "result": "Black", "score": 7 },
-                { "result": "White", "score": 8 },
-                { "result": "Gray", "score": 9 }
+                { "result": "White", "score": 3 }
               ]
             },
             {
               "answer": "Mad",
               "score": [
-                { "result": "Red", "score": 0 },
-                { "result": "Orange", "score": 1 },
+                { "result": "Pink", "score": 6 },
+                { "result": "Red", "score": 10 },
+                { "result": "Orange", "score": 7 },
                 { "result": "Yellow", "score": 2 },
-                { "result": "Green", "score": 3 },
+                { "result": "Green", "score": 1 },
                 { "result": "Blue", "score": 4 },
-                { "result": "Purple", "score": 5 },
+                { "result": "Purple", "score": 2 },
                 { "result": "Brown", "score": 6 },
                 { "result": "Black", "score": 7 },
-                { "result": "White", "score": 8 },
-                { "result": "Gray", "score": 9 }
+                { "result": "White", "score": 2 }
               ]
             },
             {
               "answer": "Hungry",
               "score": [
-                { "result": "Red", "score": 0 },
-                { "result": "Orange", "score": 1 },
-                { "result": "Yellow", "score": 2 },
-                { "result": "Green", "score": 3 },
-                { "result": "Blue", "score": 4 },
-                { "result": "Purple", "score": 5 },
-                { "result": "Brown", "score": 6 },
-                { "result": "Black", "score": 7 },
-                { "result": "White", "score": 8 },
-                { "result": "Gray", "score": 9 }
+                { "result": "Pink", "score": 2 },
+                { "result": "Red", "score": 5 },
+                { "result": "Orange", "score": 10 },
+                { "result": "Yellow", "score": 5 },
+                { "result": "Green", "score": 5 },
+                { "result": "Blue", "score": 6 },
+                { "result": "Purple", "score": 2 },
+                { "result": "Brown", "score": 5 },
+                { "result": "Black", "score": 3 },
+                { "result": "White", "score": 1 }
               ]
             }
           ]
@@ -90,76 +89,76 @@
             {
               "answer": "25%",
               "score": [
-                { "result": "Red", "score": 0 },
-                { "result": "Orange", "score": 1 },
-                { "result": "Yellow", "score": 2 },
-                { "result": "Green", "score": 3 },
-                { "result": "Blue", "score": 4 },
-                { "result": "Purple", "score": 5 },
-                { "result": "Brown", "score": 6 },
-                { "result": "Black", "score": 7 },
-                { "result": "White", "score": 8 },
-                { "result": "Gray", "score": 9 }
+                { "result": "Pink", "score": 5 },
+                { "result": "Red", "score": 4 },
+                { "result": "Orange", "score": 5 },
+                { "result": "Yellow", "score": 6 },
+                { "result": "Green", "score": 6 },
+                { "result": "Blue", "score": 7 },
+                { "result": "Purple", "score": 10 },
+                { "result": "Brown", "score": 8 },
+                { "result": "Black", "score": 5 },
+                { "result": "White", "score": 9 }
               ]
             },
             {
               "answer": "50%",
               "score": [
-                { "result": "Red", "score": 0 },
-                { "result": "Orange", "score": 1 },
-                { "result": "Yellow", "score": 2 },
-                { "result": "Green", "score": 3 },
-                { "result": "Blue", "score": 4 },
-                { "result": "Purple", "score": 5 },
-                { "result": "Brown", "score": 6 },
-                { "result": "Black", "score": 7 },
-                { "result": "White", "score": 8 },
-                { "result": "Gray", "score": 9 }
+                { "result": "Pink", "score": 5 },
+                { "result": "Red", "score": 3 },
+                { "result": "Orange", "score": 9 },
+                { "result": "Yellow", "score": 8 },
+                { "result": "Green", "score": 7 },
+                { "result": "Blue", "score": 6 },
+                { "result": "Purple", "score": 4 },
+                { "result": "Brown", "score": 9 },
+                { "result": "Black", "score": 3 },
+                { "result": "White", "score": 10 }
               ]
             },
             {
               "answer": "75%",
               "score": [
-                { "result": "Red", "score": 0 },
-                { "result": "Orange", "score": 1 },
-                { "result": "Yellow", "score": 2 },
-                { "result": "Green", "score": 3 },
-                { "result": "Blue", "score": 4 },
+                { "result": "Pink", "score": 7 },
+                { "result": "Red", "score": 2 },
+                { "result": "Orange", "score": 8 },
+                { "result": "Yellow", "score": 8 },
+                { "result": "Green", "score": 10 },
+                { "result": "Blue", "score": 10 },
                 { "result": "Purple", "score": 5 },
                 { "result": "Brown", "score": 6 },
-                { "result": "Black", "score": 7 },
-                { "result": "White", "score": 8 },
-                { "result": "Gray", "score": 9 }
+                { "result": "Black", "score": 3 },
+                { "result": "White", "score": 6 }
               ]
             },
             {
               "answer": "100%",
               "score": [
+                { "result": "Pink", "score": 7 },
                 { "result": "Red", "score": 0 },
-                { "result": "Orange", "score": 1 },
-                { "result": "Yellow", "score": 2 },
-                { "result": "Green", "score": 3 },
-                { "result": "Blue", "score": 4 },
-                { "result": "Purple", "score": 5 },
+                { "result": "Orange", "score": 10 },
+                { "result": "Yellow", "score": 10 },
+                { "result": "Green", "score": 8 },
+                { "result": "Blue", "score": 8 },
+                { "result": "Purple", "score": 4 },
                 { "result": "Brown", "score": 6 },
-                { "result": "Black", "score": 7 },
-                { "result": "White", "score": 8 },
-                { "result": "Gray", "score": 9 }
+                { "result": "Black", "score": 2 },
+                { "result": "White", "score": 5 }
               ]
             },
             {
               "answer": "0%",
               "score": [
-                { "result": "Red", "score": 0 },
+                { "result": "Pink", "score": 4 },
+                { "result": "Red", "score": 10 },
                 { "result": "Orange", "score": 1 },
                 { "result": "Yellow", "score": 2 },
                 { "result": "Green", "score": 3 },
                 { "result": "Blue", "score": 4 },
-                { "result": "Purple", "score": 5 },
-                { "result": "Brown", "score": 6 },
-                { "result": "Black", "score": 7 },
-                { "result": "White", "score": 8 },
-                { "result": "Gray", "score": 9 }
+                { "result": "Purple", "score": 9 },
+                { "result": "Brown", "score": 8 },
+                { "result": "Black", "score": 9 },
+                { "result": "White", "score": 6 }
               ]
             }
           ]
@@ -170,76 +169,76 @@
             {
               "answer": "5:00AM",
               "score": [
-                { "result": "Red", "score": 0 },
-                { "result": "Orange", "score": 1 },
-                { "result": "Yellow", "score": 2 },
-                { "result": "Green", "score": 3 },
-                { "result": "Blue", "score": 4 },
-                { "result": "Purple", "score": 5 },
+                { "result": "Pink", "score": 2 },
+                { "result": "Red", "score": 5 },
+                { "result": "Orange", "score": 4 },
+                { "result": "Yellow", "score": 3 },
+                { "result": "Green", "score": 9 },
+                { "result": "Blue", "score": 10 },
+                { "result": "Purple", "score": 1 },
                 { "result": "Brown", "score": 6 },
                 { "result": "Black", "score": 7 },
-                { "result": "White", "score": 8 },
-                { "result": "Gray", "score": 9 }
+                { "result": "White", "score": 8 }
               ]
             },
             {
               "answer": "7:00AM",
               "score": [
-                { "result": "Red", "score": 0 },
-                { "result": "Orange", "score": 1 },
-                { "result": "Yellow", "score": 2 },
-                { "result": "Green", "score": 3 },
-                { "result": "Blue", "score": 4 },
-                { "result": "Purple", "score": 5 },
+                { "result": "Pink", "score": 2 },
+                { "result": "Red", "score": 5 },
+                { "result": "Orange", "score": 4 },
+                { "result": "Yellow", "score": 3 },
+                { "result": "Green", "score": 7 },
+                { "result": "Blue", "score": 8 },
+                { "result": "Purple", "score": 1 },
                 { "result": "Brown", "score": 6 },
-                { "result": "Black", "score": 7 },
-                { "result": "White", "score": 8 },
-                { "result": "Gray", "score": 9 }
+                { "result": "Black", "score": 9 },
+                { "result": "White", "score": 10 }
               ]
             },
             {
               "answer": "9:00AM",
               "score": [
-                { "result": "Red", "score": 0 },
-                { "result": "Orange", "score": 1 },
-                { "result": "Yellow", "score": 2 },
-                { "result": "Green", "score": 3 },
-                { "result": "Blue", "score": 4 },
-                { "result": "Purple", "score": 5 },
-                { "result": "Brown", "score": 6 },
-                { "result": "Black", "score": 7 },
-                { "result": "White", "score": 8 },
-                { "result": "Gray", "score": 9 }
+                { "result": "Pink", "score": 3 },
+                { "result": "Red", "score": 9 },
+                { "result": "Orange", "score": 7 },
+                { "result": "Yellow", "score": 5 },
+                { "result": "Green", "score": 4 },
+                { "result": "Blue", "score": 1 },
+                { "result": "Purple", "score": 2 },
+                { "result": "Brown", "score": 10 },
+                { "result": "Black", "score": 8 },
+                { "result": "White", "score": 6 }
               ]
             },
             {
               "answer": "10:00AM",
               "score": [
-                { "result": "Red", "score": 0 },
-                { "result": "Orange", "score": 1 },
-                { "result": "Yellow", "score": 2 },
-                { "result": "Green", "score": 3 },
-                { "result": "Blue", "score": 4 },
-                { "result": "Purple", "score": 5 },
-                { "result": "Brown", "score": 6 },
-                { "result": "Black", "score": 7 },
-                { "result": "White", "score": 8 },
-                { "result": "Gray", "score": 9 }
+                { "result": "Pink", "score": 8 },
+                { "result": "Red", "score": 7 },
+                { "result": "Orange", "score": 9 },
+                { "result": "Yellow", "score": 10 },
+                { "result": "Green", "score": 2 },
+                { "result": "Blue", "score": 1 },
+                { "result": "Purple", "score": 6 },
+                { "result": "Brown", "score": 5 },
+                { "result": "Black", "score": 4 },
+                { "result": "White", "score": 3 }
               ]
             },
             {
               "answer": "12:00PM",
               "score": [
-                { "result": "Red", "score": 0 },
-                { "result": "Orange", "score": 1 },
-                { "result": "Yellow", "score": 2 },
-                { "result": "Green", "score": 3 },
-                { "result": "Blue", "score": 4 },
-                { "result": "Purple", "score": 5 },
-                { "result": "Brown", "score": 6 },
-                { "result": "Black", "score": 7 },
-                { "result": "White", "score": 8 },
-                { "result": "Gray", "score": 9 }
+                { "result": "Pink", "score": 10 },
+                { "result": "Red", "score": 6 },
+                { "result": "Orange", "score": 7 },
+                { "result": "Yellow", "score": 8 },
+                { "result": "Green", "score": 2 },
+                { "result": "Blue", "score": 1 },
+                { "result": "Purple", "score": 9 },
+                { "result": "Brown", "score":  5 },
+                { "result": "Black", "score": 4 },
+                { "result": "White", "score": 3 }
               ]
             }
           ]
@@ -250,31 +249,31 @@
             {
               "answer": "Positive",
               "score": [
-                { "result": "Red", "score": 0 },
-                { "result": "Orange", "score": 1 },
-                { "result": "Yellow", "score": 2 },
-                { "result": "Green", "score": 3 },
-                { "result": "Blue", "score": 4 },
-                { "result": "Purple", "score": 5 },
-                { "result": "Brown", "score": 6 },
-                { "result": "Black", "score": 7 },
-                { "result": "White", "score": 8 },
-                { "result": "Gray", "score": 9 }
+                { "result": "Pink", "score": 9 },
+                { "result": "Red", "score": 3 },
+                { "result": "Orange", "score": 5 },
+                { "result": "Yellow", "score": 10 },
+                { "result": "Green", "score": 7 },
+                { "result": "Blue", "score": 8 },
+                { "result": "Purple", "score": 4 },
+                { "result": "Brown", "score": 1 },
+                { "result": "Black", "score": 2 },
+                { "result": "White", "score": 6 }
               ]
             },
             {
               "answer": "Negative",
               "score": [
-                { "result": "Red", "score": 0 },
-                { "result": "Orange", "score": 1 },
-                { "result": "Yellow", "score": 2 },
+                { "result": "Pink", "score": 8 },
+                { "result": "Red", "score": 7 },
+                { "result": "Orange", "score": 5 },
+                { "result": "Yellow", "score": 1 },
                 { "result": "Green", "score": 3 },
-                { "result": "Blue", "score": 4 },
-                { "result": "Purple", "score": 5 },
-                { "result": "Brown", "score": 6 },
-                { "result": "Black", "score": 7 },
-                { "result": "White", "score": 8 },
-                { "result": "Gray", "score": 9 }
+                { "result": "Blue", "score": 2 },
+                { "result": "Purple", "score": 6 },
+                { "result": "Brown", "score": 10 },
+                { "result": "Black", "score": 9 },
+                { "result": "White", "score": 4 }
               ]
             }
           ]
@@ -285,31 +284,31 @@
             {
               "answer": "Yes",
               "score": [
-                { "result": "Red", "score": 0 },
-                { "result": "Orange", "score": 1 },
-                { "result": "Yellow", "score": 2 },
-                { "result": "Green", "score": 3 },
-                { "result": "Blue", "score": 4 },
-                { "result": "Purple", "score": 5 },
-                { "result": "Brown", "score": 6 },
-                { "result": "Black", "score": 7 },
-                { "result": "White", "score": 8 },
-                { "result": "Gray", "score": 9 }
+                { "result": "Pink", "score": 6 },
+                { "result": "Red", "score": 3 },
+                { "result": "Orange", "score": 5 },
+                { "result": "Yellow", "score": 7 },
+                { "result": "Green", "score": 8 },
+                { "result": "Blue", "score": 9 },
+                { "result": "Purple", "score": 4 },
+                { "result": "Brown", "score": 1 },
+                { "result": "Black", "score": 2 },
+                { "result": "White", "score": 10 }
               ]
             },
             {
               "answer": "No",
               "score": [
-                { "result": "Red", "score": 0 },
-                { "result": "Orange", "score": 1 },
-                { "result": "Yellow", "score": 2 },
+                { "result": "Pink", "score": 5 },
+                { "result": "Red", "score": 8 },
+                { "result": "Orange", "score": 6 },
+                { "result": "Yellow", "score": 4 },
                 { "result": "Green", "score": 3 },
-                { "result": "Blue", "score": 4 },
-                { "result": "Purple", "score": 5 },
-                { "result": "Brown", "score": 6 },
-                { "result": "Black", "score": 7 },
-                { "result": "White", "score": 8 },
-                { "result": "Gray", "score": 9 }
+                { "result": "Blue", "score": 2 },
+                { "result": "Purple", "score": 7 },
+                { "result": "Brown", "score": 10 },
+                { "result": "Black", "score": 9 },
+                { "result": "White", "score": 1 }
               ]
             }
           ]
