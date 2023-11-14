@@ -1,13 +1,18 @@
 .Main {
   text-align: center;
-  position: relative;
-  top: 300px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: transparent;
 }
-button {
+
+.qq-container{
+  height: 100vh;
+}
+
+.butt1 {
   background: purple;
-  width: 10%;
-  height: 50px;
-  margin: 1%;
 }
 .title {
   margin-bottom: 5%;
