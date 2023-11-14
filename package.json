@@ -10,7 +10,9 @@
     "react": "^18.2.0",
     "react-bootstrap": "^2.9.0",
     "react-dom": "^18.2.0",
+    "react-loading": "^2.0.3",
     "react-router-dom": "^6.16.0",
+    "react-spinners": "^0.13.8",
     "react-styleguidist": "^13.1.1",
     "web-vitals": "^2.1.4"
   },
