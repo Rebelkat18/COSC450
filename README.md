@@ -18,6 +18,10 @@ npm i react-router-dom
 ```
 npm install react-bootstrap bootstrap
 ```
+### Install Swiper
+```
+npm i swiper
+```
 ### Github Pages
 ```
 npm install gh-pages --save-dev
