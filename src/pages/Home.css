@@ -47,6 +47,11 @@ header {
   height: 1024px;
 }
 
+@media only screen and (min-width: 1400px) {
+  .home-Container {
+    height: 1900px;
+  }
+}
 /* To fix image background */
 html, body {
   background-color: #fff;
@@ -107,10 +112,20 @@ nav > a:hover {
 
 .btn2 {
   position: fixed;
-  top: 60%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+@media only screen and (min-width: 1400px) {
+  .btn2 {
+    position: fixed;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
+
 
 .butt {
   width: 45%;
