@@ -18,7 +18,7 @@ function Quizzes(props) {
         </nav>
       </header>
       <Quiz
-        {...data.Quizzes[9]} //To change quiz, change index
+        {...data.Quizzes[props.quiz]} //To change quiz, change index
         step={props.step}
         setStep={props.setStep}
         total={props.total}

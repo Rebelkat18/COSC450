@@ -43,6 +43,16 @@ header {
   z-index: 99;
 }
 
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+.swiper-slide {
+  /* background-image: url("/public/204.jpg"); */
+  position: fixed;
+  /* top:25%; */
+}
+
 
 .home-Container {
   width: 1440px;
@@ -100,4 +110,10 @@ nav > a:hover {
   padding: 3px 12px;
   color: rgb(26, 29, 104);
   border-radius: 20px;
+}
+
+.butt{
+  position: fixed;
+  top: 150px;
+  left: 650px;
 }
