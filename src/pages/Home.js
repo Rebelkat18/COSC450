@@ -1,10 +1,12 @@
 import React from "react";
 import "./Home.css";
-import { Swiper, SwiperSlide } from 'swiper/react';
-import 'swiper/css';
-import { EffectFade, Mousewheel } from 'swiper/modules';
-import 'swiper/css/effect-fade';
-import  {useNavigate}  from "react-router-dom"; 
+// import { Swiper, SwiperSlide } from 'swiper/react';
+// import 'swiper/css';
+// import { EffectFade, Mousewheel } from 'swiper/modules';
+// import 'swiper/css/effect-fade';
+import { useNavigate } from "react-router-dom";
+import ButtonGroup from "react-bootstrap/ButtonGroup";
+
 
 function Home(props) {
   const nav = useNavigate();
@@ -18,7 +20,7 @@ function Home(props) {
 
   const set = (value) => {
     props.setQuiz(value);
-      nav("/quizzes"); 
+    nav("/quizzes");
   }
 
   return (
@@ -32,14 +34,20 @@ function Home(props) {
         </nav>
       </header>
 
-
-      <div>
-        <img src="204.jpg" id="city" alt="Background of cities."></img>
-        <button className="butt" onClick={() => set(0)}>
+      <ButtonGroup className="btn2">
+          <button className="butt" onClick={() => set(0)}>
             {" "}
             What Color are you? {" "}
           </button>
-      </div>
+          <button className="butt" onClick={() => set(9)}>
+            {" "}
+            What Friend are you? {" "}
+          </button>
+          </ButtonGroup>
+
+      <div>
+        <img src="204.jpg" id="city" alt="Background of cities."></img>
+    </div>
 
       {/* <Swiper
         direction={'horizontal'}
@@ -68,7 +76,7 @@ function Home(props) {
         </button></SwiperSlide>
       </Swiper> */}
 
-    </div>
+    </div >
   );
 }
 

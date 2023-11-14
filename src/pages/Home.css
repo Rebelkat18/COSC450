@@ -16,7 +16,7 @@ header > h1 {
 
 /* Global styling for body. */
 
-body{
+body {
   background: linear-gradient(
     180deg,
     rgb(99.52, 14.93, 62.13) 0%,
@@ -43,23 +43,26 @@ header {
   z-index: 99;
 }
 
-.swiper {
+/* .swiper {
   width: 100%;
   height: 100%;
 }
 .swiper-slide {
   /* background-image: url("/public/204.jpg"); */
-  position: fixed;
+  /* position: fixed; */
   /* top:25%; */
-}
-
+/* } */
 
 .home-Container {
-  width: 1440px;
   height: 1024px;
 }
 
-#city{
+/* To fix image background */
+html, body {
+  background-color: #fff;
+}
+
+#city {
   position: fixed;
   top: 12pc;
   width: 100%;
@@ -112,8 +115,19 @@ nav > a:hover {
   border-radius: 20px;
 }
 
-.butt{
+.butt {
+  width: 45%;
+  background-color: rgb(178, 9, 167);
+  border: none;
+}
+
+.btn2 {
   position: fixed;
-  top: 150px;
-  left: 650px;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.butt:hover {
+  background-color:rgb(230, 11, 230);
+  border-color: transparent;
 }
