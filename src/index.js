@@ -1,6 +1,6 @@
 import React, { StrictMode } from "react";
 import ReactDOM from "react-dom/client";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Switch, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import NoPage from "./pages/NoPage";
@@ -16,15 +16,15 @@ export default function App() {
 
 
   return (
-    <BrowserRouter>
+    <Switch>
       <Routes>
-        <Route path="/COSC450/" element={<Home
+        <Route exact path="/COSC450/" element={<Home
           quiz={quiz}
           setQuiz={setQuiz}
         />} />
-        <Route path="/COSC450/about" element={<About />} />
+        <Route exact path="/COSC450/about" element={<About />} />
         <Route
-          path="/COSC450/quizzes"
+          exact path="/COSC450/quizzes"
           element={
             <Quizzes
               quiz={quiz}
@@ -38,10 +38,10 @@ export default function App() {
             />
           }
         />
-        <Route path="/COSC450/results" element={<Results />} />
-        <Route path="/COSC450/*" element={<NoPage />} />
+        <Route exact path="/COSC450/results" element={<Results />} />
+        <Route exact path="/COSC450/*" element={<NoPage />} />
       </Routes>
-    </BrowserRouter>
+    </Switch>
   );
 }
 
