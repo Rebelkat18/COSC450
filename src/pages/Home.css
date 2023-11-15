@@ -131,9 +131,11 @@ nav > a:hover {
   width: 45%;
   background-color: rgb(178, 9, 167);
   border: none;
+  font-weight: bold;
+  transition: 0.3s;
 }
 
 .butt:hover {
-  background-color:rgb(230, 11, 230);
+  background-color:rgb(235, 68, 235);
   border-color: transparent;
 }

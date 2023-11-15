@@ -11,11 +11,6 @@ function About() {
           <a href="about">About</a>
           <a href="quizzes">Quizzes</a>
         </nav>
-        <nav className="Navpage">
-          <a href="/">Home</a>
-          <a href="about">About</a>
-          <a href="quizzes">Quizzes</a>
-        </nav>
       </header>
 
       {/* Title on page. */}
@@ -80,9 +75,7 @@ function About() {
             2024! A fun fact about me, before I decided to major in computer
             science I planned on becoming an art major; art is one of my
             greatest passions, specifically digital art, alongside coding of
-            course. I also enjoy playing video games, watching anime, video
-            editing, and recently dabbled into making mods for games! Working on
-            this project has been a fun experience, and I've enjoyed the
+            course. Working on this project has been a fun experience, and I've enjoyed the
             challenges that came with it. I've definitely learned a lot.
           </p>
         </section>

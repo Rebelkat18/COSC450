@@ -5,7 +5,6 @@
   height: 100%;
   background-image: url(/public/brickwall.jpg);
   background-size: cover;
-  overflow: auto;
 }
 
 .about-Con > header {
