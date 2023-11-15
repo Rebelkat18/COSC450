@@ -11,7 +11,7 @@ function Quiz(props) {
     score(props);
     //Check if last question
     if (props.questions.length - 1 === props.step) {
-      nav("/results", { state: props.total });
+      nav("/COSC450/results", { state: props.total });
     }
     props.setStep(props.step + 1);
     console.log(props.total);
@@ -30,7 +30,7 @@ function Quiz(props) {
           selection={props.selection}
           setSelection={props.setSelection}
         />
-        <button className="butt1" onClick={() => stepChange()}>
+        <button className="submit" onClick={() => stepChange()}>
           {" "}
           Submit{" "}
         </button>
