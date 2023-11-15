@@ -37,7 +37,7 @@ function Home(props) {
         </button>
         <button className="butt" onClick={() => set(9)}>
           {" "}
-          What Friend are you? {" "}
+          Which Friend are you? {" "}
         </button>
       </ButtonGroup>
 

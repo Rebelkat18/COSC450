@@ -5,14 +5,20 @@
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: transparent;
+  color:white;
 }
 
 .qq-container{
   height: 100vh;
 }
 
-.butt1 {
-  background: purple;
+.submit {
+  color: white;
+  border: none;
+  background: rgb(178, 9, 167);
+}
+.submit:hover {
+  background-color:rgb(95, 2, 95);
 }
 .title {
   margin-bottom: 5%;

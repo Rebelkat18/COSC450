@@ -30,7 +30,7 @@ function Quiz(props) {
           selection={props.selection}
           setSelection={props.setSelection}
         />
-        <button className="butt1" onClick={() => stepChange()}>
+        <button className="submit" onClick={() => stepChange()}>
           {" "}
           Submit{" "}
         </button>
