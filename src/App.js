@@ -37,7 +37,7 @@ export default function App() {
                     }
                 />
                 <Route path="/COSC450/results" element={<Results />} />
-                <Route path="*" element={<NoPage />} />
+                <Route path="/COSC450/404" element={<NoPage />} />
             </Routes>
         </Router>
     );
