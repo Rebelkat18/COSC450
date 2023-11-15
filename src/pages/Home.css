@@ -112,7 +112,7 @@ nav > a:hover {
 
 .btn2 {
   position: fixed;
-  top: 50%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -128,6 +128,7 @@ nav > a:hover {
 
 
 .butt {
+  color: white;
   width: 45%;
   background-color: rgb(178, 9, 167);
   border: none;
