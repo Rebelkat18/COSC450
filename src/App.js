@@ -16,13 +16,13 @@ export default function App() {
     return (
         <Router>
             <Routes>
-                <Route exact path="/COSC450/" element={<Home
+                <Route path="/COSC450/" element={<Home
                     quiz={quiz}
                     setQuiz={setQuiz}
                 />} />
-                <Route exact path="/COSC450/about" element={<About />} />
+                <Route path="/COSC450/about" element={<About />} />
                 <Route
-                    exact path="/COSC450/quizzes"
+                    path="/COSC450/quizzes"
                     element={
                         <Quizzes
                             quiz={quiz}
@@ -36,8 +36,8 @@ export default function App() {
                         />
                     }
                 />
-                <Route exact path="/COSC450/results" element={<Results />} />
-                <Route exact path="/COSC450/*" element={<NoPage />} />
+                <Route path="/COSC450/results" element={<Results />} />
+                <Route path="/COSC450/*" element={<NoPage />} />
             </Routes>
         </Router>
     );
