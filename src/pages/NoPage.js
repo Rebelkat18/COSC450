@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const NoPage = () => {
   return (
-    <div>
+    <div className="container">
       <header>
         <h1>Quiz City</h1>
         <nav className="Navpage">
