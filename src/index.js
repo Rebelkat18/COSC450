@@ -1,6 +1,6 @@
 import React, { StrictMode } from "react";
 import ReactDOM from "react-dom/client";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import NoPage from "./pages/NoPage";
@@ -16,7 +16,7 @@ export default function App() {
 
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/COSC450/" element={<Home
           quiz={quiz}
@@ -41,7 +41,7 @@ export default function App() {
         <Route path="/COSC450/results" element={<Results />} />
         <Route path="/COSC450/*" element={<NoPage />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
