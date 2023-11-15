@@ -62,10 +62,13 @@ html, body {
   color: white;
   width: 45%;
   background-color: rgb(178, 9, 167);
-  border: none;
+  border: 2px solid white;
+  border-radius: 10px;
+  font-weight: bold;
+  transition: 0.3s;
 }
 
 .butt:hover {
-  background-color:rgb(230, 11, 230);
-  border-color: transparent;
+  background-color:rgb(235, 68, 235);
+  border-color: rgb(243, 165, 255);
 }

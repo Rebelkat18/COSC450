@@ -1,6 +1,7 @@
 import "./About.css";
-
 function About() {
+
+
   return (
     <div className="about-Con">
       <header>
@@ -15,11 +16,19 @@ function About() {
       {/* Title on page. */}
       <section class="text">
         <div class="ab">About Us</div>
-        <div class={"col"}>
-          <h2 class="K" style={{ float: "left", color: "aliceblue", fontSize: 40 }}>Kat</h2>
-          <h2 class="Rob" style={{ float: "right", color: "aliceblue", fontSize: 40 }}>Robin</h2>
+        <div class="col">
+          <div class="K">
+            <span>Ka</span>
+            <span>i</span>
+            <span>t</span>
+            <span>lyn</span>
+          </div>
+          <div
+            class="Rob">
+           <span>in</span> 
+           <span>Rob</span>
+          </div>
         </div>
-
       </section>
 
       {/* Window on left */}
@@ -34,7 +43,8 @@ function About() {
             <div class="shine"></div>
             <div class="shine"></div>
           </section>
-          <div class="sill"><div class="shad"></div>
+          <div class="sill">
+            <div class="shad"></div>
           </div>
           <div class="bg-img"></div>
           <p className="katDes">Hi! I'm Kat, a senior at Frostburg State University.
@@ -44,6 +54,7 @@ function About() {
 
         </section>
 
+        {/* Window on the right. */}
         {/* Window on the right. */}
 
         <section class="w2">
@@ -55,14 +66,18 @@ function About() {
             <div class="shine"></div>
             <div class="shine"></div>
           </section>
-          <div class="sill"><div class="shad"></div>
+          <div class="sill">
+            <div class="shad"></div>
           </div>
           <div class="bg-img2"></div>
-          <p className="robDes">Hi! I'm Robin, a senior at Frostburg State University, class of 2024!
-            A fun fact about me, before I decided to major in computer science I planned on becoming an art major;
-            art is one of my greatest passions, specifically digital art, alongside coding of course. I also enjoy playing video games,
-            watching anime, video editing, and recently dabbled into making mods for games! Working on this project has been a fun experience,
-            and I've enjoyed the challenges that came with it. I've definitely learned a lot.</p>
+          <p className="robDes">
+            Hi! I'm Robin, a senior at Frostburg State University, class of
+            2024! A fun fact about me, before I decided to major in computer
+            science I planned on becoming an art major; art is one of my
+            greatest passions, specifically digital art, alongside coding of
+            course. Working on this project has been a fun experience, and I've enjoyed the
+            challenges that came with it. I've definitely learned a lot.
+          </p>
         </section>
       </section>
 

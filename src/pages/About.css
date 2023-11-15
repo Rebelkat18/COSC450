@@ -2,9 +2,8 @@
 
 .about-Con {
   max-width: 100%;
-  max-height: 100%;
+  height: 100%;
   background-image: url(/public/brickwall.jpg);
-  background-repeat: no-repeat;
   background-size: cover;
 }
 
@@ -57,6 +56,46 @@
   font-size: 100px;
   color: aliceblue;
   font-family: Impact;
+  -webkit-animation: fadein 3s; /* Safari and Chrome */
+  -moz-animation: fadein 3s; /* Firefox */
+  -o-animation: fadein 3s; /* Opera */
+}
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 100%;
+  }
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100%, to
+  {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-30px);
+  }
+  70% {
+    transform: translateY(-15px);
+  }
+  90% {
+    transform: translateY(-5px);
+  }
+}
+
+@keyframes fallout {
+  from{
+    transform: translateY(0);
+    opacity: 100%;
+  }
+  to{
+    transform: translateY(55pc);
+    opacity: 0;
+    display: none;
+  }
 }
 
 .col {
@@ -65,6 +104,64 @@
   width: 54%;
   z-index: 99;
   clear: both;
+}
+
+
+.K span{
+  float: left; 
+  color: aliceblue;
+  font-size: 40px;
+  font-weight: bold; 
+}
+
+.Rob span{
+  float: right;
+  color: aliceblue;
+  font-size: 40px;
+  font-weight: bold;
+  
+}
+.Rob span:nth-child(2){
+  animation-name: bounce, fadein;
+  animation-fill-mode: forwards;
+  animation-duration: 1s;
+  animation-delay: 2s, 2s;
+}
+
+.Rob span:nth-child(1){
+  animation-name: bounce, fadein;
+  animation-fill-mode: forwards;
+  animation-duration: 1s;
+  animation-delay: 3s, 3s;
+}
+
+.K span:nth-child(1){
+  animation-name: bounce, fadein;
+  animation-fill-mode: forwards;
+  animation-duration: 1s;
+  animation-delay: 2s, 2s;
+}
+
+.K span:nth-child(2){
+  animation-name: bounce, fadein, fallout;
+  animation-fill-mode: forwards;
+  animation-duration: 1s;
+  animation-delay: 2s, 2s, 7s;
+
+}
+.K span:nth-child(3){
+  animation-name: bounce, fadein;
+  animation-fill-mode: forwards;
+  animation-duration: 1s;
+  animation-delay: 3s, 3s;
+  transition: 0.5s;
+
+}
+.K span:nth-child(4){
+  animation-name: bounce, fadein, fallout;
+  animation-fill-mode: forwards;
+  animation-duration: 1s;
+  animation-delay: 4s, 4s, 6s;
 }
 
 .night {
@@ -143,7 +240,7 @@
     rgb(194, 91, 107) 63.91%,
     rgb(216, 144, 163) 100%
   );
-  
+
   border: 10px solid rgb(91, 50, 83);
   outline: azure solid 1.8px;
   top: 0;
@@ -252,14 +349,11 @@
 
 /* For Mobile Devices. */
 
-@media only screen and (max-width: 480px){
+@media only screen and (max-width: 610px) {
   .about-Con > header {
     flex-direction: column;
     position: relative;
     padding: 40px;
-  }
-  .about-Con {
-    overflow: scroll;
   }
   .window {
     position: relative;
@@ -268,7 +362,7 @@
     justify-content: space-between;
     height: 1050px;
   }
-  
+
   .col {
     margin-top: 20px;
     position: relative;
@@ -279,22 +373,21 @@
     z-index: 99;
   }
 
-  .col > .Rob{
+  .col > .Rob {
     display: none;
   }
 
-  .wrap > .katDes::after{
+  .wrap > .katDes::after {
     margin-top: 3pc;
     content: "Robin";
     position: absolute;
-    transform: translateX(-25%);
-    justify-content: center;
+    transform: translateX(-70%);
     color: aliceblue;
     font-size: 40px;
+    font-weight: bold;
     z-index: 99;
-
   }
-  
+
   .ab {
     font-size: 80px;
     padding: 0;
@@ -315,18 +408,20 @@
 
 /* Small screens and laptops. */
 
-@media only screen and (max-width: 1024px)
-and (max-height: 1180px){
-  
-  .wrap, .w2 {
-    width: 200px;
-    height: 280px;
+@media only screen and (max-width: 1024px) and (max-height: 1180px) {
+  .wrap,
+  .w2 {
+    width: 240px;
+    height: 300px;
   }
   .katDes,
   .robDes {
     width: 150%;
     font-size: 12px;
     margin-top: 24.5pc;
+  }
+  .col > h2 {
+    font-size: 20px;
   }
   .night {
     padding: 5% 100%;
@@ -335,8 +430,6 @@ and (max-height: 1180px){
     height: 50%;
   }
   .sill {
-    margin-top: 16.5pc;
+    margin-top: 17.5pc;
   }
 }
-
-  
