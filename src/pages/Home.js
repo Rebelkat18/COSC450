@@ -33,7 +33,11 @@ function Home(props) {
       <ButtonGroup className="btn2">
         <button className="butt" onClick={() => set(0)}>
           {" "}
-          What color are you? {" "}
+          Which color are you? {" "}
+        </button>
+        <button className="butt" onClick={() => set(1)}>
+          {" "}
+          Which day of the week are you? {" "}
         </button>
         <button className="butt" onClick={() => set(9)}>
           {" "}
