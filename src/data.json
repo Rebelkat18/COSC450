@@ -1,7 +1,7 @@
 {
   "Quizzes": [
     {
-      "title": "What color are you?",
+      "title": "Which color are you?",
       "category": "General",
       "questions": [
         {
@@ -316,7 +316,7 @@
       ]
     },
     {
-      "title": "What day of the week are you?",
+      "title": "Which day of the week are you?",
       "category": "General",
       "questions": [
         {
@@ -327,59 +327,59 @@
               "score": [
                 { "result": "Monday", "score": 0 },
                 { "result": "Tuesday", "score": 1 },
-                { "result": "Wednesday", "score": 2 },
-                { "result": "Thursday", "score": 3 },
-                { "result": "Friday", "score": 4 },
-                { "result": "Saturday", "score": 5 },
-                { "result": "Sunday", "score": 6 }
+                { "result": "Wednesday", "score": 3 },
+                { "result": "Thursday", "score": 2 },
+                { "result": "Friday", "score": 5 },
+                { "result": "Saturday", "score": 6 },
+                { "result": "Sunday", "score": 4 }
               ]
             },
             {
               "answer": "Bad",
               "score": [
-                { "result": "Monday", "score": 0 },
-                { "result": "Tuesday", "score": 1 },
-                { "result": "Wednesday", "score": 2 },
-                { "result": "Thursday", "score": 3 },
-                { "result": "Friday", "score": 4 },
-                { "result": "Saturday", "score": 5 },
-                { "result": "Sunday", "score": 6 }
+                { "result": "Monday", "score": 7 },
+                { "result": "Tuesday", "score": 4 },
+                { "result": "Wednesday", "score": 3 },
+                { "result": "Thursday", "score": 5 },
+                { "result": "Friday", "score": 1 },
+                { "result": "Saturday", "score": 0 },
+                { "result": "Sunday", "score": 2 }
               ]
             },
             {
               "answer": "Sad",
               "score": [
-                { "result": "Monday", "score": 0 },
-                { "result": "Tuesday", "score": 1 },
-                { "result": "Wednesday", "score": 2 },
-                { "result": "Thursday", "score": 3 },
-                { "result": "Friday", "score": 4 },
-                { "result": "Saturday", "score": 5 },
-                { "result": "Sunday", "score": 6 }
+                { "result": "Monday", "score": 4 },
+                { "result": "Tuesday", "score": 7 },
+                { "result": "Wednesday", "score": 5 },
+                { "result": "Thursday", "score": 6 },
+                { "result": "Friday", "score": 2 },
+                { "result": "Saturday", "score": 1 },
+                { "result": "Sunday", "score": 4 }
               ]
             },
             {
               "answer": "Mad",
               "score": [
-                { "result": "Monday", "score": 0 },
-                { "result": "Tuesday", "score": 1 },
+                { "result": "Monday", "score": 6 },
+                { "result": "Tuesday", "score": 7 },
                 { "result": "Wednesday", "score": 2 },
-                { "result": "Thursday", "score": 3 },
-                { "result": "Friday", "score": 4 },
-                { "result": "Saturday", "score": 5 },
-                { "result": "Sunday", "score": 6 }
+                { "result": "Thursday", "score": 6 },
+                { "result": "Friday", "score": 1 },
+                { "result": "Saturday", "score": 0 },
+                { "result": "Sunday", "score": 4 }
               ]
             },
             {
               "answer": "Hungry",
               "score": [
-                { "result": "Monday", "score": 0 },
-                { "result": "Tuesday", "score": 1 },
-                { "result": "Wednesday", "score": 2 },
-                { "result": "Thursday", "score": 3 },
-                { "result": "Friday", "score": 4 },
-                { "result": "Saturday", "score": 5 },
-                { "result": "Sunday", "score": 6 }
+                { "result": "Monday", "score": 6 },
+                { "result": "Tuesday", "score": 3 },
+                { "result": "Wednesday", "score": 7 },
+                { "result": "Thursday", "score": 5 },
+                { "result": "Friday", "score": 2 },
+                { "result": "Saturday", "score": 1 },
+                { "result": "Sunday", "score": 4 }
               ]
             }
           ]
@@ -390,61 +390,61 @@
             {
               "answer": "25%",
               "score": [
-                { "result": "Monday", "score": 0 },
-                { "result": "Tuesday", "score": 1 },
-                { "result": "Wednesday", "score": 2 },
-                { "result": "Thursday", "score": 3 },
-                { "result": "Friday", "score": 4 },
-                { "result": "Saturday", "score": 5 },
-                { "result": "Sunday", "score": 6 }
+                { "result": "Monday", "score": 4 },
+                { "result": "Tuesday", "score": 6 },
+                { "result": "Wednesday", "score": 5 },
+                { "result": "Thursday", "score": 7 },
+                { "result": "Friday", "score": 3 },
+                { "result": "Saturday", "score": 2 },
+                { "result": "Sunday", "score": 1 }
               ]
             },
             {
               "answer": "50%",
               "score": [
-                { "result": "Monday", "score": 0 },
-                { "result": "Tuesday", "score": 1 },
-                { "result": "Wednesday", "score": 2 },
-                { "result": "Thursday", "score": 3 },
+                { "result": "Monday", "score": 3 },
+                { "result": "Tuesday", "score": 6 },
+                { "result": "Wednesday", "score": 5 },
+                { "result": "Thursday", "score": 7 },
                 { "result": "Friday", "score": 4 },
-                { "result": "Saturday", "score": 5 },
-                { "result": "Sunday", "score": 6 }
+                { "result": "Saturday", "score": 2 },
+                { "result": "Sunday", "score": 1 }
               ]
             },
             {
               "answer": "75%",
               "score": [
-                { "result": "Monday", "score": 0 },
-                { "result": "Tuesday", "score": 1 },
-                { "result": "Wednesday", "score": 2 },
-                { "result": "Thursday", "score": 3 },
-                { "result": "Friday", "score": 4 },
-                { "result": "Saturday", "score": 5 },
-                { "result": "Sunday", "score": 6 }
+                { "result": "Monday", "score": 1 },
+                { "result": "Tuesday", "score": 2 },
+                { "result": "Wednesday", "score": 3 },
+                { "result": "Thursday", "score": 4 },
+                { "result": "Friday", "score": 7 },
+                { "result": "Saturday", "score": 6 },
+                { "result": "Sunday", "score": 5 }
               ]
             },
             {
               "answer": "100%",
               "score": [
-                { "result": "Monday", "score": 0 },
-                { "result": "Tuesday", "score": 1 },
-                { "result": "Wednesday", "score": 2 },
-                { "result": "Thursday", "score": 3 },
-                { "result": "Friday", "score": 4 },
-                { "result": "Saturday", "score": 5 },
-                { "result": "Sunday", "score": 6 }
+                { "result": "Monday", "score": 1 },
+                { "result": "Tuesday", "score": 3 },
+                { "result": "Wednesday", "score": 4 },
+                { "result": "Thursday", "score": 2 },
+                { "result": "Friday", "score": 5 },
+                { "result": "Saturday", "score": 6 },
+                { "result": "Sunday", "score": 7 }
               ]
             },
             {
               "answer": "0%",
               "score": [
-                { "result": "Monday", "score": 0 },
-                { "result": "Tuesday", "score": 1 },
-                { "result": "Wednesday", "score": 2 },
-                { "result": "Thursday", "score": 3 },
-                { "result": "Friday", "score": 4 },
-                { "result": "Saturday", "score": 5 },
-                { "result": "Sunday", "score": 6 }
+                { "result": "Monday", "score": 7 },
+                { "result": "Tuesday", "score": 6 },
+                { "result": "Wednesday", "score": 4 },
+                { "result": "Thursday", "score": 5 },
+                { "result": "Friday", "score": 3 },
+                { "result": "Saturday", "score": 2 },
+                { "result": "Sunday", "score": 1 }
               ]
             }
           ]
@@ -455,37 +455,37 @@
             {
               "answer": "5:00AM",
               "score": [
-                { "result": "Monday", "score": 0 },
-                { "result": "Tuesday", "score": 1 },
-                { "result": "Wednesday", "score": 2 },
-                { "result": "Thursday", "score": 3 },
-                { "result": "Friday", "score": 4 },
-                { "result": "Saturday", "score": 5 },
-                { "result": "Sunday", "score": 6 }
+                { "result": "Monday", "score": 8 },
+                { "result": "Tuesday", "score": 6 },
+                { "result": "Wednesday", "score": 4 },
+                { "result": "Thursday", "score": 5 },
+                { "result": "Friday", "score": 3 },
+                { "result": "Saturday", "score": 0 },
+                { "result": "Sunday", "score": 2 }
               ]
             },
             {
               "answer": "7:00AM",
               "score": [
-                { "result": "Monday", "score": 0 },
-                { "result": "Tuesday", "score": 1 },
-                { "result": "Wednesday", "score": 2 },
-                { "result": "Thursday", "score": 3 },
-                { "result": "Friday", "score": 4 },
-                { "result": "Saturday", "score": 5 },
-                { "result": "Sunday", "score": 6 }
+                { "result": "Monday", "score": 6 },
+                { "result": "Tuesday", "score": 5 },
+                { "result": "Wednesday", "score": 4 },
+                { "result": "Thursday", "score": 7 },
+                { "result": "Friday", "score": 3 },
+                { "result": "Saturday", "score": 0 },
+                { "result": "Sunday", "score": 2 }
               ]
             },
             {
               "answer": "9:00AM",
               "score": [
-                { "result": "Monday", "score": 0 },
-                { "result": "Tuesday", "score": 1 },
-                { "result": "Wednesday", "score": 2 },
-                { "result": "Thursday", "score": 3 },
-                { "result": "Friday", "score": 4 },
-                { "result": "Saturday", "score": 5 },
-                { "result": "Sunday", "score": 6 }
+                { "result": "Monday", "score": 5 },
+                { "result": "Tuesday", "score": 6 },
+                { "result": "Wednesday", "score": 1 },
+                { "result": "Thursday", "score": 7 },
+                { "result": "Friday", "score": 3 },
+                { "result": "Saturday", "score": 2 },
+                { "result": "Sunday", "score": 4 }
               ]
             },
             {
@@ -497,7 +497,7 @@
                 { "result": "Thursday", "score": 3 },
                 { "result": "Friday", "score": 4 },
                 { "result": "Saturday", "score": 5 },
-                { "result": "Sunday", "score": 6 }
+                { "result": "Sunday", "score": 7 }
               ]
             },
             {
@@ -505,10 +505,10 @@
               "score": [
                 { "result": "Monday", "score": 0 },
                 { "result": "Tuesday", "score": 1 },
-                { "result": "Wednesday", "score": 2 },
+                { "result": "Wednesday", "score": 4 },
                 { "result": "Thursday", "score": 3 },
-                { "result": "Friday", "score": 4 },
-                { "result": "Saturday", "score": 5 },
+                { "result": "Friday", "score": 5 },
+                { "result": "Saturday", "score": 7 },
                 { "result": "Sunday", "score": 6 }
               ]
             }
@@ -522,23 +522,23 @@
               "score": [
                 { "result": "Monday", "score": 0 },
                 { "result": "Tuesday", "score": 1 },
-                { "result": "Wednesday", "score": 2 },
+                { "result": "Wednesday", "score": 5 },
                 { "result": "Thursday", "score": 3 },
-                { "result": "Friday", "score": 4 },
-                { "result": "Saturday", "score": 5 },
-                { "result": "Sunday", "score": 6 }
+                { "result": "Friday", "score": 8 },
+                { "result": "Saturday", "score": 7 },
+                { "result": "Sunday", "score": 4 }
               ]
             },
             {
               "answer": "Negative",
               "score": [
-                { "result": "Monday", "score": 0 },
-                { "result": "Tuesday", "score": 1 },
+                { "result": "Monday", "score": 7 },
+                { "result": "Tuesday", "score": 8 },
                 { "result": "Wednesday", "score": 2 },
-                { "result": "Thursday", "score": 3 },
-                { "result": "Friday", "score": 4 },
-                { "result": "Saturday", "score": 5 },
-                { "result": "Sunday", "score": 6 }
+                { "result": "Thursday", "score": 5 },
+                { "result": "Friday", "score": 2 },
+                { "result": "Saturday", "score": 1 },
+                { "result": "Sunday", "score": 4 }
               ]
             }
           ]
@@ -549,25 +549,25 @@
             {
               "answer": "Yes",
               "score": [
-                { "result": "Monday", "score": 0 },
-                { "result": "Tuesday", "score": 1 },
-                { "result": "Wednesday", "score": 2 },
+                { "result": "Monday", "score": 7 },
+                { "result": "Tuesday", "score": 5 },
+                { "result": "Wednesday", "score": 4 },
                 { "result": "Thursday", "score": 3 },
-                { "result": "Friday", "score": 4 },
-                { "result": "Saturday", "score": 5 },
+                { "result": "Friday", "score": 2 },
+                { "result": "Saturday", "score": 0 },
                 { "result": "Sunday", "score": 6 }
               ]
             },
             {
               "answer": "No",
               "score": [
-                { "result": "Monday", "score": 0 },
-                { "result": "Tuesday", "score": 1 },
-                { "result": "Wednesday", "score": 2 },
-                { "result": "Thursday", "score": 3 },
+                { "result": "Monday", "score": 1 },
+                { "result": "Tuesday", "score": 5 },
+                { "result": "Wednesday", "score": 3 },
+                { "result": "Thursday", "score": 7 },
                 { "result": "Friday", "score": 4 },
-                { "result": "Saturday", "score": 5 },
-                { "result": "Sunday", "score": 6 }
+                { "result": "Saturday", "score": 6 },
+                { "result": "Sunday", "score": 0 }
               ]
             }
           ]

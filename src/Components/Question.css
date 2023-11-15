@@ -1,7 +1,7 @@
 .btn {
-  --bs-btn-bg: purple;
-  --bs-btn-border-color: transparent;
-  --bs-btn-hover-bg: purple;
+  --bs-btn-bg: rgb(178, 9, 167);
+  --bs-btn-border-color: none;
+  --bs-btn-hover-bg: rgb(178, 9, 167);
   --bs-btn-active-bg: rgb(95, 2, 95);
   --bs-btn-active-border-color: none;
   margin: 1%;

@@ -12,7 +12,7 @@ function Results() {
   console.log(total);
 
   return (
-    <div>
+    <div className="container">
       <header>
         <h1>Quiz City</h1>
         <nav className="Navpage">
