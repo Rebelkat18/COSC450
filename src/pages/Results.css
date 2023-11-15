@@ -9,3 +9,29 @@
     height: 50px;
     margin: 1%;
   }
+
+ .Main p{
+    margin: auto;
+    color: black;
+    font-weight: bold;
+    background-color: rgb(234, 175, 238);
+    width: 15%;
+    padding: 20px;
+    border: 5px solid black;
+    text-align: center;
+    animation: fadein 3s ease;
+  }
+
+  @keyframes fadein {
+    from{
+      opacity: 0;
+    }
+    to{
+      opacity: 100%;
+    }
+  }
+
+  .Main h1 {
+    -webkit-text-fill-color: aliceblue;
+    -webkit-text-stroke: .8px black;
+  }
