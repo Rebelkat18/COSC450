@@ -7,17 +7,18 @@ function Results() {
   const location = useLocation();
   const total = location.state;
   var active = 0;
+  var colors;
   
   
   //sort total for highest score
   let sorted = total.sort((a, b) => (a.score < b.score ? 1 : -1));
   let result = sorted[0].result;
   console.log(total);
-
+  colors = [sorted[0].result];
   
   if({...data.Quizzes[9]}){
   setInterval(() =>
-  {document.querySelector('body').style.background = result[active];
+  {document.querySelector('body').style.background = colors[active];
   active++;});
   }
   
