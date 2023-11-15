@@ -4,7 +4,7 @@
   max-width: 100%;
   height: 100%;
   background-image: url(/public/brickwall.jpg);
-  background-size: 100% 100%;
+  background-size: cover;
   overflow: auto;
 }
 
@@ -385,6 +385,7 @@
     transform: translateX(-70%);
     color: aliceblue;
     font-size: 40px;
+    font-weight: bold;
     z-index: 99;
   }
 
