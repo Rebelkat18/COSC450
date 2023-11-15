@@ -22,6 +22,7 @@ function Home(props) {
     <div className="home-Container">
       <header>
         <h1>Quiz City</h1>
+        <p> (for a school project) </p>
         <nav className="Navpage">
           <a href="/COSC450/">Home</a>
           <a href="/COSC450/about">About</a>
