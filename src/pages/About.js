@@ -11,8 +11,13 @@ function About() {
           <a href="about">About</a>
           <a href="quizzes">Quizzes</a>
         </nav>
+        <nav className="Navpage">
+          <a href="/">Home</a>
+          <a href="about">About</a>
+          <a href="quizzes">Quizzes</a>
+        </nav>
       </header>
-      
+
       {/* Title on page. */}
       <section class="text">
         <div class="ab">About Us</div>
@@ -47,17 +52,14 @@ function About() {
             <div class="shad"></div>
           </div>
           <div class="bg-img"></div>
-          <p className="katDes">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
-          </p>
+          <p className="katDes">Hi! I'm Kat, a senior at Frostburg State University.
+            I major in Computer Science because I love programming just about anything.
+            During my internship over the summer, I discovered that I really enjoy web development.
+            Working on this project has given me some good experience in web developement.</p>
+
         </section>
 
+        {/* Window on the right. */}
         {/* Window on the right. */}
 
         <section class="w2">

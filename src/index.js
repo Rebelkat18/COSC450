@@ -12,16 +12,23 @@ export default function App() {
   const [total, setTotal] = useState(undefined);
   const [step, setStep] = useState(0);
   const [selection, setSelection] = useState([]);
+  const [quiz, setQuiz] = useState(0);
+
 
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/" element={<Home
+          quiz={quiz}
+          setQuiz={setQuiz}
+        />} />
         <Route path="about" element={<About />} />
         <Route
           path="quizzes"
           element={
             <Quizzes
+              quiz={quiz}
+              setQuiz={setQuiz}
               total={total}
               setTotal={setTotal}
               step={step}
@@ -40,7 +47,7 @@ export default function App() {
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-    <StrictMode>
-      <App/>
-    </StrictMode>
+  <StrictMode>
+    <App />
+  </StrictMode>
 );
