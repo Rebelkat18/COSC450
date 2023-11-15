@@ -1,6 +1,5 @@
 /* About Text */
 
-
 .about-Con {
   max-width: 100%;
   height: 100%;
@@ -63,12 +62,40 @@
   -o-animation: fadein 3s; /* Opera */
 }
 
-@keyframes fadein{
-  from{
+@keyframes fadein {
+  from {
     opacity: 0;
   }
-  to{
+  to {
     opacity: 100%;
+  }
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100%, to
+  {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-30px);
+  }
+  70% {
+    transform: translateY(-15px);
+  }
+  90% {
+    transform: translateY(-5px);
+  }
+}
+
+@keyframes fallout {
+  from{
+    transform: translateY(0);
+    opacity: 100%;
+  }
+  to{
+    transform: translateY(55pc);
+    opacity: 0;
+    display: none;
   }
 }
 
@@ -80,13 +107,62 @@
   clear: both;
 }
 
-.col > .Rob{
-  -webkit-animation: backwards fadein 2s;
-  animation-delay: 4.5s;
+
+.K span{
+  float: left; 
+  color: aliceblue;
+  font-size: 40px;
+  font-weight: bold; 
 }
-.col > .K{
-  -webkit-animation: backwards fadein 2s;
-  animation-delay: 3s;
+
+.Rob span{
+  float: right;
+  color: aliceblue;
+  font-size: 40px;
+  font-weight: bold;
+  
+}
+.Rob span:nth-child(2){
+  animation-name: bounce, fadein;
+  animation-fill-mode: forwards;
+  animation-duration: 1s;
+  animation-delay: 2s, 2s;
+}
+
+.Rob span:nth-child(1){
+  animation-name: bounce, fadein;
+  animation-fill-mode: forwards;
+  animation-duration: 1s;
+  animation-delay: 3s, 3s;
+}
+
+.K span:nth-child(1){
+  animation-name: bounce, fadein;
+  animation-fill-mode: forwards;
+  animation-duration: 1s;
+  animation-delay: 2s, 2s;
+}
+
+.K span:nth-child(2){
+  animation-name: bounce, fadein, fallout;
+  animation-fill-mode: forwards;
+  animation-duration: 1s;
+  animation-delay: 2s, 2s, 7s;
+
+}
+.K span:nth-child(3){
+  animation-name: bounce, fadein;
+  animation-fill-mode: forwards;
+  animation-duration: 1s;
+  animation-delay: 3s, 3s;
+  transition: 0.5s;
+
+}
+.K span:nth-child(4){
+  animation-name: bounce, fadein, fallout;
+  animation-fill-mode: forwards;
+  animation-duration: 1s;
+  animation-delay: 4s, 4s, 6s;
 }
 
 .night {
@@ -344,9 +420,8 @@
     font-size: 12px;
     margin-top: 24.5pc;
   }
-  .col > h2{
+  .col > h2 {
     font-size: 20px;
-
   }
   .night {
     padding: 5% 100%;

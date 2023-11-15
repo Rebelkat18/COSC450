@@ -17,20 +17,17 @@ function About() {
       <section class="text">
         <div class="ab">About Us</div>
         <div class="col">
-          <h2
-            class="K"
-            style={{ float: "left", color: "aliceblue", fontSize: 40
-          , fontWeight: "bold" }}
-          >
-            Kat
-          </h2>
-          <h2
-            class="Rob"
-            style={{ float: "right", color: "aliceblue", fontSize: 40 
-          , fontWeight: "bold"}}
-          >
-            Robin
-          </h2>
+          <div class="K">
+            <span>Ka</span>
+            <span>i</span>
+            <span>t</span>
+            <span>lyn</span>
+          </div>
+          <div
+            class="Rob">
+           <span>in</span> 
+           <span>Rob</span>
+          </div>
         </div>
       </section>
 
