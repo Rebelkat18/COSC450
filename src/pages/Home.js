@@ -15,7 +15,7 @@ function Home(props) {
 
   const set = (value) => {
     props.setQuiz(value);
-    nav("/quizzes");
+    nav("/COSC450/quizzes");
   }
 
   return (
