@@ -26,7 +26,9 @@ function Home(props) {
         <nav className="Navpage">
           <Link to="/COSC450/">Home</Link>
           <a href="/COSC450/">Home</a>
+          <Link to="/COSC450/about">About</Link>
           <a href="/COSC450/about">About</a>
+          <Link to="/COSC450/quizzes">Quizzes</Link>
           <a href="/COSC450/quizzes">Quizzes</a>
         </nav>
       </header>
