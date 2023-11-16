@@ -3,6 +3,10 @@ import "./Home.css";
 import { Link, useNavigate } from "react-router-dom";
 import ButtonGroup from "react-bootstrap/ButtonGroup";
 import reset from "../Components/Reset";
+import city from "../Components/204.jpg";
+
+
+console.log(city);
 
 function Home(props) {
   const nav = useNavigate();
@@ -48,7 +52,7 @@ function Home(props) {
       </ButtonGroup>
 
       <div>
-        <img src="204.jpg" id="city" alt="Background of cities."></img>
+        <img src={city} id="city" alt="Background of cities."></img>
       </div>
 
     </div >
