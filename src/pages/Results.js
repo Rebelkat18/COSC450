@@ -2,10 +2,12 @@ import React from "react";
 import "./Results.css";
 import { useLocation } from "react-router-dom";
 import data from "../data.json";
-import { Link } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 function Results() {
   const location = useLocation();
+  const nav = useNavigate();
+
   const total = location.state;
   var active = 0;
   var colors;
@@ -24,21 +26,20 @@ function Results() {
     });
   }
 
-
   return (
     <div className="container">
       <header>
         <h1>Quiz City</h1>
         <nav className="Navpage">
-          <Link to="/COSC450/">Home</Link>
-          <Link to="/COSC450/about">About</Link>
-          <Link to="/COSC450/quizzes">Quizzes</Link>
         </nav>
       </header>
       <div className="Main">
         <h1> Your Results... </h1>
         <p> {result} </p>
-
+        <button className="submit" onClick={() => nav("/COSC450/")}>
+          {" "}
+          Home{" "}
+        </button>
       </div>
     </div>
   );

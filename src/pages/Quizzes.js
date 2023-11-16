@@ -15,7 +15,7 @@ function Quizzes(props) {
         <nav className="Navpage">
           <Link to="/COSC450/">Home</Link>
           <Link to="/COSC450/about">About</Link>
-          <Link to="/COSC450/quizzes">Quizzes</Link>
+          <Link to="/COSC450/">Quizzes</Link>
         </nav>
       </header>
       <Quiz

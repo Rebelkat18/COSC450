@@ -2,6 +2,7 @@ import React from "react";
 import "./Home.css";
 import { Link, useNavigate } from "react-router-dom";
 import ButtonGroup from "react-bootstrap/ButtonGroup";
+import reset from "../Components/Reset";
 
 function Home(props) {
   const nav = useNavigate();
@@ -14,6 +15,7 @@ function Home(props) {
   });
 
   const set = (value) => {
+    reset(props);
     props.setQuiz(value);
     nav("/COSC450/quizzes");
   }
@@ -26,7 +28,7 @@ function Home(props) {
         <nav className="Navpage">
           <Link to="/COSC450/">Home</Link>
           <Link to="/COSC450/about">About</Link>
-          <Link to="/COSC450/quizzes">Quizzes</Link>
+          <Link to="/COSC450/">Quizzes</Link>
         </nav>
       </header>
 
