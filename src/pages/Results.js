@@ -38,14 +38,8 @@ function Results() {
   }
   active++;});
   }
+ 
   
-
-  if ({ ...data.Quizzes[9] }) {
-    setInterval(() => {
-      document.querySelector('body').style.background = colors[active];
-      active++;
-    });
-  }
   return (
     <div className="container">
       <header>
@@ -59,7 +53,7 @@ function Results() {
       <div className="Main">
         <h1> Your Results... </h1>
         <p> {result} </p>
-        <button className="submit" onClick={() => nav("/COSC450/")}>
+        <button className="submit" onClick={() =>{nav("/COSC450/"); document.querySelector('body').style.background = "";}}>
           {" "}
           Home{" "}
         </button>
