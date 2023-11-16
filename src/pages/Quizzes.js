@@ -3,6 +3,7 @@ import React from "react";
 import data from "../data.json";
 import Quiz from "../Components/Quiz";
 import { Link } from "react-router-dom";
+import reset from "../Components/Reset";
 
 function Quizzes(props) {
   //to see everything...
@@ -13,9 +14,9 @@ function Quizzes(props) {
       <header>
         <h1 className="Logo">Quiz City</h1>
         <nav className="Navpage">
-          <Link to="/COSC450/">Home</Link>
-          <Link to="/COSC450/about">About</Link>
-          <Link to="/COSC450/">Quizzes</Link>
+        <Link to="/COSC450/" onClick={() => reset(props)}>Home</Link>
+          <Link to="/COSC450/about" onClick={() => reset(props)}>About</Link>
+          <Link to="/COSC450/quizzes" onClick={() => reset(props)}>Quizzes</Link>
         </nav>
       </header>
       <Quiz
