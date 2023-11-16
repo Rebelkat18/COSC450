@@ -1,17 +1,99 @@
 <!DOCTYPE html>
 <html lang="en">
-<div>
-    <header>
-      <h1>Quiz City</h1>
-      <nav className="Navpage">
-        <a href="/COSC450/">Home</a>
-        <a href="/COSC450/about">About</a>
-        <a href="/COSC450/quizzes">Quizzes</a>
-      </nav>
-    </header>
-    <div className="Main">
-      <h1> Error 404 </h1>
-      <p> Please return to the homepage using the top navigation buttons. </p>
+  <div>
+    <head>
+      <style>
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+          font-family: "Poppins";
+        }
+        /* Global styling for all header h1 elements. */
+        header > h1 {
+          color: azure;
+          font-weight: 900;
+          transition: 0.5s;
+        }
+
+        /* Global styling for body. */
+        body {
+          background: linear-gradient(
+            180deg,
+            rgb(99.52, 14.93, 62.13) 0%,
+            rgb(128.36, 11.15, 120.26) 31.25%,
+            rgb(158.5, 7.2, 181) 63.91%,
+            rgb(195.64, 2.84, 227.02) 100%
+          );
+          width: 100%;
+          height: 100%;
+          background-attachment: fixed;
+        }
+
+        /* Global header alignment and style. */
+        header {
+          position: fixed;
+          top: 0;
+          left: 0;
+          width: 100%;
+          padding: 25px 100px;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          z-index: 99;
+        }
+
+        /* The button appearance when hovered over. */
+        nav > a:hover {
+          outline-style: outset;
+          background: linear-gradient(
+            180deg,
+            rgb(227, 84, 162) 0%,
+            rgb(190, 49, 180) 31.25%,
+            rgb(201, 72, 221) 63.91%,
+            rgb(225, 103, 244) 100%
+          );
+          padding: 3px 12px;
+          color: rgb(26, 29, 104);
+          border-radius: 20px;
+        }
+
+        /* General button appearance. */
+        nav > a {
+          color: azure;
+          font-weight: 900;
+          font-size: 1.1em;
+          text-decoration: none;
+          margin-left: 20px;
+          transition: 0.2s;
+        }
+        /* General Logo appearance. */
+
+        header > h1:hover {
+          color: rgb(255, 240, 251);
+          text-shadow: 0 0 10px #f98aff, 0 0 20px #f98aff, 0 0 40px #f98aff,
+            0 0 80px #f98aff, 0 0 120px #f98aff;
+        }
+        .container {
+          height: 100vh;
+          color: white;
+          text-align: center;
+        }
+      </style>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta charset="utf-8" />
+      <link rel="icon" href="204.jpg" />
+      <meta name="theme-color" content="#000000" />
+      <title>Quiz City</title>
+      <link rel="stylesheet" href="App.css" />
+      <meta
+        http-equiv="refresh"
+        content="3; URL=https://rebelkat18.github.io/COSC450/"
+      />
+    </head>
+    <div className="container">
+        <h1>404 Page Not Found</h1>
+        <h2>You will be redirected to the home page in 3 seconds.</h2>
     </div>
   </div>
 </html>

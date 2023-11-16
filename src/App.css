@@ -1,0 +1,65 @@
+/* Global styling for all header h1 elements. */
+header > h1 {
+  color: azure;
+  font-weight: 900;
+  transition: 0.5s;
+}
+
+/* Global styling for body. */
+body {
+  background: linear-gradient(
+    180deg,
+    rgb(99.52, 14.93, 62.13) 0%,
+    rgb(128.36, 11.15, 120.26) 31.25%,
+    rgb(158.5, 7.2, 181) 63.91%,
+    rgb(195.64, 2.84, 227.02) 100%
+  );
+  width: 100%;
+  height: 100%;
+  background-attachment: fixed;
+}
+
+/* Global header alignment and style. */
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 25px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 99;
+}
+
+/* The button appearance when hovered over. */
+nav > a:hover {
+    outline-style: outset;
+    background: linear-gradient(
+      180deg,
+      rgb(227, 84, 162) 0%,
+      rgb(190, 49, 180) 31.25%,
+      rgb(201, 72, 221) 63.91%,
+      rgb(225, 103, 244) 100%
+    );
+    padding: 3px 12px;
+    color: rgb(26, 29, 104);
+    border-radius: 20px;
+  }
+
+  /* General button appearance. */
+nav > a {
+    color: azure;
+    font-weight: 900;
+    font-size: 1.1em;
+    text-decoration: none;
+    margin-left: 20px;
+    transition: 0.2s;
+  }
+/* General Logo appearance. */
+
+header > h1:hover {
+    color: rgb(255, 240, 251);
+    text-shadow: 0 0 10px #f98aff, 0 0 20px #f98aff, 0 0 40px #f98aff,
+      0 0 80px #f98aff, 0 0 120px #f98aff;
+  }  

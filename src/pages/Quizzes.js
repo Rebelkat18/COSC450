@@ -2,19 +2,20 @@ import "./Quizzes.css";
 import React from "react";
 import data from "../data.json";
 import Quiz from "../Components/Quiz";
+import { Link } from "react-router-dom";
 
 function Quizzes(props) {
   //to see everything...
   // console.log(data);
-  
+
   return (
     <div className="container">
       <header>
         <h1 className="Logo">Quiz City</h1>
         <nav className="Navpage">
-          <a href="/COSC450/">Home</a>
-          <a href="/COSC450/about">About</a>
-          <a href="/COSC450/quizzes">Quizzes</a>
+          <Link to="/COSC450/">Home</Link>
+          <Link to="/COSC450/about">About</Link>
+          <Link to="/COSC450/">Quizzes</Link>
         </nav>
       </header>
       <Quiz
