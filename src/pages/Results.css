@@ -8,6 +8,7 @@
     width: 10%;
     height: 50px;
     margin: 1%;
+    transition: .3s;
   }
 
  .Main p{
