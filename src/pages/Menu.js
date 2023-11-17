@@ -1,7 +1,7 @@
 import "./Menu.css";
 import { Link } from "react-router-dom";
 
-const NoPage = () => {
+const Menu = () => {
   return (
     <div className="container">
       <header>
@@ -20,4 +20,4 @@ const NoPage = () => {
   );
 };
 
-export default NoPage;
+export default Menu;
