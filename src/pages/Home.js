@@ -32,7 +32,7 @@ function Home(props) {
         <nav className="Navpage">
           <Link to="/COSC450/" onClick={() => reset(props)}>Home</Link>
           <Link to="/COSC450/about" onClick={() => reset(props)}>About</Link>
-          <Link to="/COSC450/quizzes" onClick={() => reset(props)}>Quizzes</Link>
+          <Link to="/COSC450/menu" onClick={() => reset(props)}>Quizzes</Link>
         </nav>
       </header>
 

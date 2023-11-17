@@ -32,9 +32,6 @@ function Results() {
       <header>
         <h1>Quiz City</h1>
         <nav className="Navpage">
-          <a href="/COSC450/">Home</a>
-          <a href="/COSC450/about">About</a>
-          <a href="/COSC450/quizzes">Quizzes</a>
         </nav>
       </header>
       <div className="Main">
