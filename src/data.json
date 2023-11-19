@@ -4783,311 +4783,286 @@
       "category": "Video Games",
       "questions": [
         {
-          "question": "How are you feeling?",
+          "question": "Single player or Multiplayer?",
           "answers": [
             {
-              "answer": "Good",
+              "answer": "Single Player",
               "score": [
-                { "result": "Minecraft", "score": 1 },
-                { "result": "Resident Evil 4", "score": 2 },
-                { "result": "Red Dead Redemption 2", "score": 3 },
-                { "result": "Beat Saber", "score": 4 },
-                { "result": "Tetris", "score": 5 },
-                { "result": "Elden Ring", "score": 6 },
-                { "result": "Sims", "score": 7 },
-                { "result": "Fortnite", "score": 8 },
-                { "result": "Mario Kart", "score": 9 },
-                { "result": "Pokemon Go", "score": 10 }
+                { "result": "Minecraft", "score": 3 },
+                { "result": "Resident Evil 4", "score": 5 },
+                { "result": "Red Dead Redemption 2", "score": 9 },
+                { "result": "Beat Saber", "score": 10 },
+                { "result": "Tetris", "score": 8 },
+                { "result": "Elden Ring", "score": 9 },
+                { "result": "Sims", "score": 10 },
+                { "result": "Fortnite", "score": 2 },
+                { "result": "Mario Kart", "score": 4 },
+                { "result": "Pokemon Go", "score": 7 }
               ]
             },
             {
-              "answer": "Bad",
+              "answer": "Multiplayer",
               "score": [
-                { "result": "Minecraft", "score": 1 },
-                { "result": "Resident Evil 4", "score": 2 },
+                { "result": "Minecraft", "score": 10 },
+                { "result": "Resident Evil 4", "score": 3 },
                 { "result": "Red Dead Redemption 2", "score": 3 },
-                { "result": "Beat Saber", "score": 4 },
+                { "result": "Beat Saber", "score": 1 },
                 { "result": "Tetris", "score": 5 },
-                { "result": "Elden Ring", "score": 6 },
-                { "result": "Sims", "score": 7 },
+                { "result": "Elden Ring", "score": 5 },
+                { "result": "Sims", "score": 1 },
                 { "result": "Fortnite", "score": 8 },
-                { "result": "Mario Kart", "score": 9 },
-                { "result": "Pokemon Go", "score": 10 }
-              ]
-            },
-            {
-              "answer": "Sad",
-              "score": [
-                { "result": "Minecraft", "score": 1 },
-                { "result": "Resident Evil 4", "score": 2 },
-                { "result": "Red Dead Redemption 2", "score": 3 },
-                { "result": "Beat Saber", "score": 4 },
-                { "result": "Tetris", "score": 5 },
-                { "result": "Elden Ring", "score": 6 },
-                { "result": "Sims", "score": 7 },
-                { "result": "Fortnite", "score": 8 },
-                { "result": "Mario Kart", "score": 9 },
-                { "result": "Pokemon Go", "score": 10 }
-              ]
-            },
-            {
-              "answer": "Mad",
-              "score": [
-                { "result": "Minecraft", "score": 1 },
-                { "result": "Resident Evil 4", "score": 2 },
-                { "result": "Red Dead Redemption 2", "score": 3 },
-                { "result": "Beat Saber", "score": 4 },
-                { "result": "Tetris", "score": 5 },
-                { "result": "Elden Ring", "score": 6 },
-                { "result": "Sims", "score": 7 },
-                { "result": "Fortnite", "score": 8 },
-                { "result": "Mario Kart", "score": 9 },
-                { "result": "Pokemon Go", "score": 10 }
-              ]
-            },
-            {
-              "answer": "Hungry",
-              "score": [
-                { "result": "Minecraft", "score": 1 },
-                { "result": "Resident Evil 4", "score": 2 },
-                { "result": "Red Dead Redemption 2", "score": 3 },
-                { "result": "Beat Saber", "score": 4 },
-                { "result": "Tetris", "score": 5 },
-                { "result": "Elden Ring", "score": 6 },
-                { "result": "Sims", "score": 7 },
-                { "result": "Fortnite", "score": 8 },
-                { "result": "Mario Kart", "score": 9 },
-                { "result": "Pokemon Go", "score": 10 }
+                { "result": "Mario Kart", "score": 10 },
+                { "result": "Pokemon Go", "score": 3 }
               ]
             }
           ]
         },
         {
-          "question": "How likely are you to help out a friend in need?",
+          "question": "You are faced with two paths, a nice simple path that you know or a path that looks difficult. Which path do you choose?",
           "answers": [
             {
-              "answer": "25%",
+              "answer": "The simple path",
               "score": [
-                { "result": "Minecraft", "score": 1 },
-                { "result": "Resident Evil 4", "score": 2 },
-                { "result": "Red Dead Redemption 2", "score": 3 },
-                { "result": "Beat Saber", "score": 4 },
-                { "result": "Tetris", "score": 5 },
-                { "result": "Elden Ring", "score": 6 },
-                { "result": "Sims", "score": 7 },
-                { "result": "Fortnite", "score": 8 },
+                { "result": "Minecraft", "score": 8 },
+                { "result": "Resident Evil 4", "score": 1 },
+                { "result": "Red Dead Redemption 2", "score": 4 },
+                { "result": "Beat Saber", "score": 9 },
+                { "result": "Tetris", "score": 7 },
+                { "result": "Elden Ring", "score": 1 },
+                { "result": "Sims", "score": 9 },
+                { "result": "Fortnite", "score": 1 },
                 { "result": "Mario Kart", "score": 9 },
+                { "result": "Pokemon Go", "score": 8 }
+              ]
+            },
+            {
+              "answer": "The difficult path",
+              "score": [
+                { "result": "Minecraft", "score": 6 },
+                { "result": "Resident Evil 4", "score": 10 },
+                { "result": "Red Dead Redemption 2", "score": 7 },
+                { "result": "Beat Saber", "score": 4 },
+                { "result": "Tetris", "score": 6 },
+                { "result": "Elden Ring", "score": 10 },
+                { "result": "Sims", "score": 2 },
+                { "result": "Fortnite", "score": 8 },
+                { "result": "Mario Kart", "score": 5 },
+                { "result": "Pokemon Go", "score": 4 }
+              ]
+            },
+            {
+              "answer": "Both",
+              "score": [
+                { "result": "Minecraft", "score": 7 },
+                { "result": "Resident Evil 4", "score": 6 },
+                { "result": "Red Dead Redemption 2", "score": 8 },
+                { "result": "Beat Saber", "score": 9 },
+                { "result": "Tetris", "score": 2 },
+                { "result": "Elden Ring", "score": 7 },
+                { "result": "Sims", "score": 10 },
+                { "result": "Fortnite", "score": 2 },
+                { "result": "Mario Kart", "score": 5 },
                 { "result": "Pokemon Go", "score": 10 }
               ]
             },
             {
-              "answer": "50%",
+              "answer": "Neither",
               "score": [
-                { "result": "Minecraft", "score": 1 },
+                { "result": "Minecraft", "score": 5 },
                 { "result": "Resident Evil 4", "score": 2 },
                 { "result": "Red Dead Redemption 2", "score": 3 },
                 { "result": "Beat Saber", "score": 4 },
                 { "result": "Tetris", "score": 5 },
-                { "result": "Elden Ring", "score": 6 },
-                { "result": "Sims", "score": 7 },
-                { "result": "Fortnite", "score": 8 },
-                { "result": "Mario Kart", "score": 9 },
-                { "result": "Pokemon Go", "score": 10 }
+                { "result": "Elden Ring", "score": 5 },
+                { "result": "Sims", "score": 1 },
+                { "result": "Fortnite", "score": 4 },
+                { "result": "Mario Kart", "score": 2 },
+                { "result": "Pokemon Go", "score": 4 }
               ]
             },
             {
-              "answer": "75%",
+              "answer": "I don't know",
               "score": [
-                { "result": "Minecraft", "score": 1 },
+                { "result": "Minecraft", "score": 7 },
                 { "result": "Resident Evil 4", "score": 2 },
-                { "result": "Red Dead Redemption 2", "score": 3 },
-                { "result": "Beat Saber", "score": 4 },
-                { "result": "Tetris", "score": 5 },
-                { "result": "Elden Ring", "score": 6 },
-                { "result": "Sims", "score": 7 },
+                { "result": "Red Dead Redemption 2", "score": 5 },
+                { "result": "Beat Saber", "score": 5 },
+                { "result": "Tetris", "score": 1 },
+                { "result": "Elden Ring", "score": 1 },
+                { "result": "Sims", "score": 6 },
                 { "result": "Fortnite", "score": 8 },
-                { "result": "Mario Kart", "score": 9 },
-                { "result": "Pokemon Go", "score": 10 }
-              ]
-            },
-            {
-              "answer": "100%",
-              "score": [
-                { "result": "Minecraft", "score": 1 },
-                { "result": "Resident Evil 4", "score": 2 },
-                { "result": "Red Dead Redemption 2", "score": 3 },
-                { "result": "Beat Saber", "score": 4 },
-                { "result": "Tetris", "score": 5 },
-                { "result": "Elden Ring", "score": 6 },
-                { "result": "Sims", "score": 7 },
-                { "result": "Fortnite", "score": 8 },
-                { "result": "Mario Kart", "score": 9 },
-                { "result": "Pokemon Go", "score": 10 }
-              ]
-            },
-            {
-              "answer": "0%",
-              "score": [
-                { "result": "Minecraft", "score": 1 },
-                { "result": "Resident Evil 4", "score": 2 },
-                { "result": "Red Dead Redemption 2", "score": 3 },
-                { "result": "Beat Saber", "score": 4 },
-                { "result": "Tetris", "score": 5 },
-                { "result": "Elden Ring", "score": 6 },
-                { "result": "Sims", "score": 7 },
-                { "result": "Fortnite", "score": 8 },
-                { "result": "Mario Kart", "score": 9 },
-                { "result": "Pokemon Go", "score": 10 }
+                { "result": "Mario Kart", "score": 3 },
+                { "result": "Pokemon Go", "score": 6 }
               ]
             }
           ]
         },
         {
-          "question": "When did you get up today?",
+          "question": "Do you complete ever task to the fullest or do just enough?",
           "answers": [
             {
-              "answer": "5:00AM",
+              "answer": "Every task to the fullest",
               "score": [
-                { "result": "Minecraft", "score": 1 },
-                { "result": "Resident Evil 4", "score": 2 },
-                { "result": "Red Dead Redemption 2", "score": 3 },
+                { "result": "Minecraft", "score": 4 },
+                { "result": "Resident Evil 4", "score": 5 },
+                { "result": "Red Dead Redemption 2", "score": 7 },
                 { "result": "Beat Saber", "score": 4 },
-                { "result": "Tetris", "score": 5 },
+                { "result": "Tetris", "score": 2 },
                 { "result": "Elden Ring", "score": 6 },
-                { "result": "Sims", "score": 7 },
-                { "result": "Fortnite", "score": 8 },
-                { "result": "Mario Kart", "score": 9 },
-                { "result": "Pokemon Go", "score": 10 }
+                { "result": "Sims", "score": 10 },
+                { "result": "Fortnite", "score": 6 },
+                { "result": "Mario Kart", "score": 8 },
+                { "result": "Pokemon Go", "score": 9 }
               ]
             },
             {
-              "answer": "7:00AM",
+              "answer": "In the middle",
               "score": [
-                { "result": "Minecraft", "score": 1 },
+                { "result": "Minecraft", "score": 6 },
                 { "result": "Resident Evil 4", "score": 2 },
-                { "result": "Red Dead Redemption 2", "score": 3 },
-                { "result": "Beat Saber", "score": 4 },
-                { "result": "Tetris", "score": 5 },
-                { "result": "Elden Ring", "score": 6 },
-                { "result": "Sims", "score": 7 },
-                { "result": "Fortnite", "score": 8 },
-                { "result": "Mario Kart", "score": 9 },
-                { "result": "Pokemon Go", "score": 10 }
+                { "result": "Red Dead Redemption 2", "score": 7 },
+                { "result": "Beat Saber", "score": 5 },
+                { "result": "Tetris", "score": 2 },
+                { "result": "Elden Ring", "score": 4 },
+                { "result": "Sims", "score": 6 },
+                { "result": "Fortnite", "score": 7 },
+                { "result": "Mario Kart", "score": 5 },
+                { "result": "Pokemon Go", "score": 6 }
               ]
             },
             {
-              "answer": "9:00AM",
+              "answer": "Just enough",
               "score": [
                 { "result": "Minecraft", "score": 1 },
                 { "result": "Resident Evil 4", "score": 2 },
                 { "result": "Red Dead Redemption 2", "score": 3 },
                 { "result": "Beat Saber", "score": 4 },
-                { "result": "Tetris", "score": 5 },
+                { "result": "Tetris", "score": 8 },
                 { "result": "Elden Ring", "score": 6 },
-                { "result": "Sims", "score": 7 },
+                { "result": "Sims", "score": 2 },
                 { "result": "Fortnite", "score": 8 },
-                { "result": "Mario Kart", "score": 9 },
-                { "result": "Pokemon Go", "score": 10 }
-              ]
-            },
-            {
-              "answer": "10:00AM",
-              "score": [
-                { "result": "Minecraft", "score": 1 },
-                { "result": "Resident Evil 4", "score": 2 },
-                { "result": "Red Dead Redemption 2", "score": 3 },
-                { "result": "Beat Saber", "score": 4 },
-                { "result": "Tetris", "score": 5 },
-                { "result": "Elden Ring", "score": 6 },
-                { "result": "Sims", "score": 7 },
-                { "result": "Fortnite", "score": 8 },
-                { "result": "Mario Kart", "score": 9 },
-                { "result": "Pokemon Go", "score": 10 }
-              ]
-            },
-            {
-              "answer": "12:00PM",
-              "score": [
-                { "result": "Minecraft", "score": 1 },
-                { "result": "Resident Evil 4", "score": 2 },
-                { "result": "Red Dead Redemption 2", "score": 3 },
-                { "result": "Beat Saber", "score": 4 },
-                { "result": "Tetris", "score": 5 },
-                { "result": "Elden Ring", "score": 6 },
-                { "result": "Sims", "score": 7 },
-                { "result": "Fortnite", "score": 8 },
-                { "result": "Mario Kart", "score": 9 },
-                { "result": "Pokemon Go", "score": 10 }
+                { "result": "Mario Kart", "score": 4 },
+                { "result": "Pokemon Go", "score": 3 }
               ]
             }
           ]
         },
         {
-          "question": "Positive or Negative?",
+          "question": "Would you say you are a follower or a leader?",
           "answers": [
             {
-              "answer": "Positive",
+              "answer": "Follower",
               "score": [
-                { "result": "Minecraft", "score": 1 },
+                { "result": "Minecraft", "score": 5 },
                 { "result": "Resident Evil 4", "score": 2 },
-                { "result": "Red Dead Redemption 2", "score": 3 },
-                { "result": "Beat Saber", "score": 4 },
+                { "result": "Red Dead Redemption 2", "score": 2 },
+                { "result": "Beat Saber", "score": 8 },
                 { "result": "Tetris", "score": 5 },
-                { "result": "Elden Ring", "score": 6 },
-                { "result": "Sims", "score": 7 },
-                { "result": "Fortnite", "score": 8 },
-                { "result": "Mario Kart", "score": 9 },
-                { "result": "Pokemon Go", "score": 10 }
+                { "result": "Elden Ring", "score": 3 },
+                { "result": "Sims", "score": 1 },
+                { "result": "Fortnite", "score": 5 },
+                { "result": "Mario Kart", "score": 1 },
+                { "result": "Pokemon Go", "score": 2 }
               ]
             },
             {
-              "answer": "Negative",
+              "answer": "Leader",
               "score": [
-                { "result": "Minecraft", "score": 1 },
-                { "result": "Resident Evil 4", "score": 2 },
-                { "result": "Red Dead Redemption 2", "score": 3 },
-                { "result": "Beat Saber", "score": 4 },
+                { "result": "Minecraft", "score": 5 },
+                { "result": "Resident Evil 4", "score": 8 },
+                { "result": "Red Dead Redemption 2", "score": 7 },
+                { "result": "Beat Saber", "score": 1 },
                 { "result": "Tetris", "score": 5 },
-                { "result": "Elden Ring", "score": 6 },
-                { "result": "Sims", "score": 7 },
-                { "result": "Fortnite", "score": 8 },
-                { "result": "Mario Kart", "score": 9 },
-                { "result": "Pokemon Go", "score": 10 }
+                { "result": "Elden Ring", "score": 9 },
+                { "result": "Sims", "score": 9 },
+                { "result": "Fortnite", "score": 5 },
+                { "result": "Mario Kart", "score": 10 },
+                { "result": "Pokemon Go", "score": 4 }
               ]
             }
           ]
         },
         {
-          "question": "Is your room clean right now?",
+          "question": "Are you an agent of choas?",
           "answers": [
             {
-              "answer": "Yes",
+              "answer": "Yes!",
               "score": [
-                { "result": "Minecraft", "score": 1 },
-                { "result": "Resident Evil 4", "score": 2 },
-                { "result": "Red Dead Redemption 2", "score": 3 },
-                { "result": "Beat Saber", "score": 4 },
-                { "result": "Tetris", "score": 5 },
-                { "result": "Elden Ring", "score": 6 },
+                { "result": "Minecraft", "score": 8 },
+                { "result": "Resident Evil 4", "score": 7 },
+                { "result": "Red Dead Redemption 2", "score": 4 },
+                { "result": "Beat Saber", "score": 1 },
+                { "result": "Tetris", "score": 1 },
+                { "result": "Elden Ring", "score": 9 },
                 { "result": "Sims", "score": 7 },
-                { "result": "Fortnite", "score": 8 },
-                { "result": "Mario Kart", "score": 9 },
-                { "result": "Pokemon Go", "score": 10 }
+                { "result": "Fortnite", "score": 7 },
+                { "result": "Mario Kart", "score": 5 },
+                { "result": "Pokemon Go", "score": 3 }
               ]
             },
             {
-              "answer": "No",
+              "answer": "No...",
               "score": [
-                { "result": "Minecraft", "score": 1 },
+                { "result": "Minecraft", "score": 7 },
                 { "result": "Resident Evil 4", "score": 2 },
-                { "result": "Red Dead Redemption 2", "score": 3 },
+                { "result": "Red Dead Redemption 2", "score": 5 },
                 { "result": "Beat Saber", "score": 4 },
+                { "result": "Tetris", "score": 1 },
+                { "result": "Elden Ring", "score": 9 },
+                { "result": "Sims", "score": 8 },
+                { "result": "Fortnite", "score": 7 },
+                { "result": "Mario Kart", "score": 7 },
+                { "result": "Pokemon Go", "score": 2 }
+              ]
+            },
+            {
+              "answer": "No.",
+              "score": [
+                { "result": "Minecraft", "score": 3 },
+                { "result": "Resident Evil 4", "score": 2 },
+                { "result": "Red Dead Redemption 2", "score": 4 },
+                { "result": "Beat Saber", "score": 8 },
+                { "result": "Tetris", "score": 10 },
+                { "result": "Elden Ring", "score": 5 },
+                { "result": "Sims", "score": 4 },
+                { "result": "Fortnite", "score": 1 },
+                { "result": "Mario Kart", "score": 2 },
+                { "result": "Pokemon Go", "score": 5 }
+              ]
+            }
+          ]
+        }, 
+        {
+          "question": "Would you give up after losing 100 times?",
+          "answers": [
+            {
+              "answer": "Yes.",
+              "score": [
+                { "result": "Minecraft", "score": 7 },
+                { "result": "Resident Evil 4", "score": 5 },
+                { "result": "Red Dead Redemption 2", "score": 4 },
+                { "result": "Beat Saber", "score": 6 },
                 { "result": "Tetris", "score": 5 },
-                { "result": "Elden Ring", "score": 6 },
-                { "result": "Sims", "score": 7 },
+                { "result": "Elden Ring", "score": 1 },
+                { "result": "Sims", "score": 2 },
+                { "result": "Fortnite", "score": 4 },
+                { "result": "Mario Kart", "score": 4 },
+                { "result": "Pokemon Go", "score": 3 }
+              ]
+            },
+            {
+              "answer": "No! I will never give up!",
+              "score": [
+                { "result": "Minecraft", "score": 3 },
+                { "result": "Resident Evil 4", "score": 7 },
+                { "result": "Red Dead Redemption 2", "score": 5 },
+                { "result": "Beat Saber", "score": 5 },
+                { "result": "Tetris", "score": 9 },
+                { "result": "Elden Ring", "score": 10 },
+                { "result": "Sims", "score": 5 },
                 { "result": "Fortnite", "score": 8 },
                 { "result": "Mario Kart", "score": 9 },
-                { "result": "Pokemon Go", "score": 10 }
+                { "result": "Pokemon Go", "score": 6 }
               ]
             }
           ]
