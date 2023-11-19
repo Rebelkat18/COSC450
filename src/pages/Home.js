@@ -49,6 +49,10 @@ function Home(props) {
           {" "}
           Which Friend are you? {" "}
         </button>
+        <button className="butt" onClick={() => set(15)}>
+          {" "}
+          Which video game are you? {" "}
+        </button>
       </ButtonGroup>
 
       <div>
