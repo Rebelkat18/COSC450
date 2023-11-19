@@ -43,7 +43,15 @@ export default function App() {
                     }
                 />
                 <Route path="/COSC450/results" element={<Results />} />
-                <Route path="/COSC450/menu" element={<Menu />} />
+                <Route path="/COSC450/menu" element={<Menu
+                    quiz={quiz}
+                    setQuiz={setQuiz}
+                    total={total}
+                    setTotal={setTotal}
+                    step={step}
+                    setStep={setStep}
+                    selection={selection}
+                    setSelection={setSelection} />} />
             </Routes>
         </Router>
     );

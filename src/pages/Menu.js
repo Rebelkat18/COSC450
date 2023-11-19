@@ -1,7 +1,27 @@
 import "./Menu.css";
 import { Link } from "react-router-dom";
+import data from "../data.json";
+import "bootstrap/dist/css/bootstrap.min.css";
+import ButtonGroup from "react-bootstrap/ButtonGroup";
+import ToggleButton from "react-bootstrap/ToggleButton";
+import reset from "../Components/Reset";
+import { useNavigate } from "react-router-dom";
 
-const Menu = () => {
+const Menu = (props) => {
+  //Making list of answers to display
+  let choice = [];
+  for (let index in data.Quizzes) {
+    choice[index] = data.Quizzes[index].title;
+  }
+
+  const nav = useNavigate();
+
+  const set = (value) => {
+    reset(props);
+    props.setQuiz(value);
+    nav("/COSC450/quizzes");
+  }
+
   return (
     <div className="container">
       <header>
@@ -13,8 +33,18 @@ const Menu = () => {
         </nav>
       </header>
       <div className="Main">
-        <h1> Error 404 </h1>
-        <p> Please return to the homepage using the top navigation buttons. </p>
+      <ButtonGroup className="btn">
+        <div class="btn-group-vertical">
+        {choice.map((answer, index) => (
+          <ToggleButton
+            key={index}
+            onClick={() => set(index)}
+          >
+            {answer}
+          </ToggleButton>
+        ))}
+        </div>
+      </ButtonGroup>
       </div>
     </div>
   );

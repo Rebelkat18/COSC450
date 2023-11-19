@@ -5,9 +5,6 @@ import ButtonGroup from "react-bootstrap/ButtonGroup";
 import reset from "../Components/Reset";
 import city from "../Components/204.jpg";
 
-
-console.log(city);
-
 function Home(props) {
   const nav = useNavigate();
 
