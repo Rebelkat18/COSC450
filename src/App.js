@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";
-import NoPage from "./pages/NoPage";
+import Menu from "./pages/Menu";
 import Quizzes from "./pages/Quizzes";
 import Results from "./pages/Results";
 import "./App.css";
@@ -43,7 +43,7 @@ export default function App() {
                     }
                 />
                 <Route path="/COSC450/results" element={<Results />} />
-                <Route path="*" element={<NoPage />} />
+                <Route path="/COSC450/menu" element={<Menu />} />
             </Routes>
         </Router>
     );

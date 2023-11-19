@@ -11,6 +11,7 @@ function Results() {
   const total = location.state;
   var active = 0;
   var colors;
+  var change = document.querySelector('body');
 
   //sort total for highest score
   let sorted = total.sort((a, b) => (a.score < b.score ? 1 : -1));
@@ -21,45 +22,22 @@ function Results() {
   
   if({...data.Quizzes[0]}){
   setInterval(() =>
-  {document.querySelector('body').style.background = colors[active];
-  if(colors == "Black"){
-    const el = document.querySelectorAll('a');
-    for(let i = 0; i < el.length; i++){
-      el[i].style.color = "red"
-    }
-    document.querySelector('h1').style.color = "red";
-  }
-  else if(colors == "Yellow" || colors == "White"){
-      const el = document.querySelectorAll('a');
-      for(let i = 0; i < el.length; i++){
-        el[i].style.color = "black"
-      }
-      document.querySelector('h1').style.color = "black";
-  }
+  {change.style.background = colors[active];
   active++;});
   }
+ 
   
-
-  if ({ ...data.Quizzes[9] }) {
-    setInterval(() => {
-      document.querySelector('body').style.background = colors[active];
-      active++;
-    });
-  }
   return (
     <div className="container">
       <header>
         <h1>Quiz City</h1>
         <nav className="Navpage">
-          <a href="/COSC450/">Home</a>
-          <a href="/COSC450/about">About</a>
-          <a href="/COSC450/quizzes">Quizzes</a>
         </nav>
       </header>
       <div className="Main">
         <h1> Your Results... </h1>
         <p> {result} </p>
-        <button className="submit" onClick={() => nav("/COSC450/")}>
+        <button className="submit" onClick={() =>{nav("/COSC450/"); document.querySelector('body').style.background = "";}}>
           {" "}
           Home{" "}
         </button>
