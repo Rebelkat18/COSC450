@@ -10,75 +10,76 @@
             {
               "answer": "Good",
               "score": [
-                { "result": "Pink", "score": 8 },
-                { "result": "Red", "score": 5 },
-                { "result": "Orange", "score": 5 },
-                { "result": "Yellow", "score":  10},
+                { "result": "Pink", "score": 7 },
+                { "result": "Red", "score": 2 },
+                { "result": "Orange", "score": 4 },
+                { "result": "Yellow", "score": 9 },
                 { "result": "Green", "score": 10 },
-                { "result": "Blue", "score": 6 },
+                { "result": "Blue", "score": 5 },
                 { "result": "Purple", "score": 6 },
-                { "result": "Brown", "score": 2 },
-                { "result": "Black", "score": 0 },
-                { "result": "White", "score": 6 }
+                { "result": "Brown", "score": 3 },
+                { "result": "Black", "score": 1 },
+                { "result": "White", "score": 8 }
               ]
             },
             {
               "answer": "Bad",
               "score": [
-                { "result": "Pink", "score": 1 },
-                { "result": "Red", "score": 7 },
+                { "result": "Pink", "score": 3 },
+                { "result": "Red", "score": 9 },
                 { "result": "Orange", "score": 5 },
-                { "result": "Yellow", "score": 3 },
-                { "result": "Green", "score": 3 },
-                { "result": "Blue", "score": 4 },
-                { "result": "Purple", "score": 4 },
-                { "result": "Brown", "score":  2},
+                { "result": "Yellow", "score": 4 },
+                { "result": "Green", "score": 2 },
+                { "result": "Blue", "score": 8 },
+                { "result": "Purple", "score": 7 },
+                { "result": "Brown", "score": 6 },
                 { "result": "Black", "score": 10 },
-                { "result": "White", "score": 2 }              ]
+                { "result": "White", "score": 1 }
+              ]
             },
             {
               "answer": "Sad",
               "score": [
-                { "result": "Pink", "score": 0 },
-                { "result": "Red", "score": 3 },
-                { "result": "Orange", "score": 1 },
-                { "result": "Yellow", "score": 2 },
+                { "result": "Pink", "score": 2 },
+                { "result": "Red", "score": 4 },
+                { "result": "Orange", "score": 3 },
+                { "result": "Yellow", "score": 6 },
                 { "result": "Green", "score": 1 },
                 { "result": "Blue", "score": 10 },
                 { "result": "Purple", "score": 8 },
-                { "result": "Brown", "score": 6 },
-                { "result": "Black", "score": 7 },
-                { "result": "White", "score": 3 }
+                { "result": "Brown", "score": 7 },
+                { "result": "Black", "score": 9 },
+                { "result": "White", "score": 5 }
               ]
             },
             {
               "answer": "Mad",
               "score": [
-                { "result": "Pink", "score": 6 },
+                { "result": "Pink", "score": 7 },
                 { "result": "Red", "score": 10 },
-                { "result": "Orange", "score": 7 },
-                { "result": "Yellow", "score": 2 },
-                { "result": "Green", "score": 1 },
-                { "result": "Blue", "score": 4 },
-                { "result": "Purple", "score": 2 },
-                { "result": "Brown", "score": 6 },
-                { "result": "Black", "score": 7 },
-                { "result": "White", "score": 2 }
+                { "result": "Orange", "score": 8 },
+                { "result": "Yellow", "score": 6 },
+                { "result": "Green", "score": 2 },
+                { "result": "Blue", "score": 3 },
+                { "result": "Purple", "score": 4 },
+                { "result": "Brown", "score": 5 },
+                { "result": "Black", "score": 9 },
+                { "result": "White", "score": 1 }
               ]
             },
             {
               "answer": "Hungry",
               "score": [
-                { "result": "Pink", "score": 2 },
-                { "result": "Red", "score": 5 },
+                { "result": "Pink", "score": 4 },
+                { "result": "Red", "score": 3 },
                 { "result": "Orange", "score": 10 },
-                { "result": "Yellow", "score": 5 },
-                { "result": "Green", "score": 5 },
-                { "result": "Blue", "score": 6 },
+                { "result": "Yellow", "score": 9 },
+                { "result": "Green", "score": 8 },
+                { "result": "Blue", "score": 7 },
                 { "result": "Purple", "score": 2 },
-                { "result": "Brown", "score": 5 },
-                { "result": "Black", "score": 3 },
-                { "result": "White", "score": 1 }
+                { "result": "Brown", "score": 6 },
+                { "result": "Black", "score": 1 },
+                { "result": "White", "score": 5 }
               ]
             }
           ]
@@ -87,18 +88,33 @@
           "question": "How likely are you to help out a friend in need?",
           "answers": [
             {
-              "answer": "25%",
+              "answer": "0%",
               "score": [
                 { "result": "Pink", "score": 5 },
-                { "result": "Red", "score": 4 },
-                { "result": "Orange", "score": 5 },
-                { "result": "Yellow", "score": 6 },
-                { "result": "Green", "score": 6 },
-                { "result": "Blue", "score": 7 },
-                { "result": "Purple", "score": 10 },
+                { "result": "Red", "score": 10 },
+                { "result": "Orange", "score": 1 },
+                { "result": "Yellow", "score": 2 },
+                { "result": "Green", "score": 3 },
+                { "result": "Blue", "score": 4 },
+                { "result": "Purple", "score": 7 },
                 { "result": "Brown", "score": 8 },
-                { "result": "Black", "score": 5 },
-                { "result": "White", "score": 9 }
+                { "result": "Black", "score": 9 },
+                { "result": "White", "score": 6 }
+              ]
+            },
+            {
+              "answer": "25%",
+              "score": [
+                { "result": "Pink", "score": 2 },
+                { "result": "Red", "score": 7 },
+                { "result": "Orange", "score": 3 },
+                { "result": "Yellow", "score": 4 },
+                { "result": "Green", "score": 6 },
+                { "result": "Blue", "score": 1 },
+                { "result": "Purple", "score": 10 },
+                { "result": "Brown", "score": 9 },
+                { "result": "Black", "score": 8 },
+                { "result": "White", "score": 5 }
               ]
             },
             {
@@ -106,58 +122,43 @@
               "score": [
                 { "result": "Pink", "score": 5 },
                 { "result": "Red", "score": 3 },
-                { "result": "Orange", "score": 9 },
-                { "result": "Yellow", "score": 8 },
-                { "result": "Green", "score": 7 },
-                { "result": "Blue", "score": 6 },
-                { "result": "Purple", "score": 4 },
-                { "result": "Brown", "score": 9 },
-                { "result": "Black", "score": 3 },
+                { "result": "Orange", "score": 7 },
+                { "result": "Yellow", "score": 4 },
+                { "result": "Green", "score": 6 },
+                { "result": "Blue", "score": 1 },
+                { "result": "Purple", "score": 9 },
+                { "result": "Brown", "score": 8 },
+                { "result": "Black", "score": 2 },
                 { "result": "White", "score": 10 }
               ]
             },
             {
               "answer": "75%",
               "score": [
-                { "result": "Pink", "score": 7 },
+                { "result": "Pink", "score": 5 },
                 { "result": "Red", "score": 2 },
-                { "result": "Orange", "score": 8 },
-                { "result": "Yellow", "score": 8 },
-                { "result": "Green", "score": 10 },
-                { "result": "Blue", "score": 10 },
-                { "result": "Purple", "score": 5 },
-                { "result": "Brown", "score": 6 },
-                { "result": "Black", "score": 3 },
+                { "result": "Orange", "score": 4 },
+                { "result": "Yellow", "score": 10 },
+                { "result": "Green", "score": 7 },
+                { "result": "Blue", "score": 8 },
+                { "result": "Purple", "score": 9 },
+                { "result": "Brown", "score": 3 },
+                { "result": "Black", "score": 1 },
                 { "result": "White", "score": 6 }
               ]
             },
             {
               "answer": "100%",
               "score": [
-                { "result": "Pink", "score": 7 },
-                { "result": "Red", "score": 0 },
-                { "result": "Orange", "score": 10 },
-                { "result": "Yellow", "score": 10 },
+                { "result": "Pink", "score": 5 },
+                { "result": "Red", "score": 1 },
+                { "result": "Orange", "score": 7 },
+                { "result": "Yellow", "score": 9 },
                 { "result": "Green", "score": 8 },
-                { "result": "Blue", "score": 8 },
-                { "result": "Purple", "score": 4 },
-                { "result": "Brown", "score": 6 },
+                { "result": "Blue", "score": 10 },
+                { "result": "Purple", "score": 3 },
+                { "result": "Brown", "score": 4 },
                 { "result": "Black", "score": 2 },
-                { "result": "White", "score": 5 }
-              ]
-            },
-            {
-              "answer": "0%",
-              "score": [
-                { "result": "Pink", "score": 4 },
-                { "result": "Red", "score": 10 },
-                { "result": "Orange", "score": 1 },
-                { "result": "Yellow", "score": 2 },
-                { "result": "Green", "score": 3 },
-                { "result": "Blue", "score": 4 },
-                { "result": "Purple", "score": 9 },
-                { "result": "Brown", "score": 8 },
-                { "result": "Black", "score": 9 },
                 { "result": "White", "score": 6 }
               ]
             }
@@ -236,7 +237,7 @@
                 { "result": "Green", "score": 2 },
                 { "result": "Blue", "score": 1 },
                 { "result": "Purple", "score": 9 },
-                { "result": "Brown", "score":  5 },
+                { "result": "Brown", "score": 5 },
                 { "result": "Black", "score": 4 },
                 { "result": "White", "score": 3 }
               ]
@@ -249,11 +250,11 @@
             {
               "answer": "Positive",
               "score": [
-                { "result": "Pink", "score": 9 },
+                { "result": "Pink", "score": 7 },
                 { "result": "Red", "score": 3 },
                 { "result": "Orange", "score": 5 },
                 { "result": "Yellow", "score": 10 },
-                { "result": "Green", "score": 7 },
+                { "result": "Green", "score": 9 },
                 { "result": "Blue", "score": 8 },
                 { "result": "Purple", "score": 4 },
                 { "result": "Brown", "score": 1 },
@@ -388,6 +389,18 @@
           "question": "How likely are you to help out a friend in need?",
           "answers": [
             {
+              "answer": "0%",
+              "score": [
+                { "result": "Monday", "score": 7 },
+                { "result": "Tuesday", "score": 6 },
+                { "result": "Wednesday", "score": 4 },
+                { "result": "Thursday", "score": 5 },
+                { "result": "Friday", "score": 3 },
+                { "result": "Saturday", "score": 2 },
+                { "result": "Sunday", "score": 1 }
+              ]
+            },
+            {
               "answer": "25%",
               "score": [
                 { "result": "Monday", "score": 4 },
@@ -433,18 +446,6 @@
                 { "result": "Friday", "score": 5 },
                 { "result": "Saturday", "score": 6 },
                 { "result": "Sunday", "score": 7 }
-              ]
-            },
-            {
-              "answer": "0%",
-              "score": [
-                { "result": "Monday", "score": 7 },
-                { "result": "Tuesday", "score": 6 },
-                { "result": "Wednesday", "score": 4 },
-                { "result": "Thursday", "score": 5 },
-                { "result": "Friday", "score": 3 },
-                { "result": "Saturday", "score": 2 },
-                { "result": "Sunday", "score": 1 }
               ]
             }
           ]
@@ -672,6 +673,23 @@
           "question": "How likely are you to help out a friend in need?",
           "answers": [
             {
+              "answer": "0%",
+              "score": [
+                { "result": "January", "score": 0 },
+                { "result": "Feburary", "score": 1 },
+                { "result": "March", "score": 2 },
+                { "result": "april", "score": 3 },
+                { "result": "May", "score": 4 },
+                { "result": "June", "score": 5 },
+                { "result": "July", "score": 6 },
+                { "result": "august", "score": 7 },
+                { "result": "September", "score": 8 },
+                { "result": "October", "score": 9 },
+                { "result": "November", "score": 10 },
+                { "result": "December", "score": 11 }
+              ]
+            },
+            {
               "answer": "25%",
               "score": [
                 { "result": "January", "score": 0 },
@@ -724,23 +742,6 @@
             },
             {
               "answer": "100%",
-              "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "april", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "august", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
-              ]
-            },
-            {
-              "answer": "0%",
               "score": [
                 { "result": "January", "score": 0 },
                 { "result": "Feburary", "score": 1 },
@@ -2987,6 +2988,17 @@
           "question": "How likely are you to help out a friend in need?",
           "answers": [
             {
+              "answer": "0%",
+              "score": [
+                { "result": "Ross Geller", "score": 6 },
+                { "result": "Rachel Green", "score": 9 },
+                { "result": "Phoebe Buffay", "score": 1 },
+                { "result": "Monica Geller", "score": 4 },
+                { "result": "Chandler Bing", "score": 7 },
+                { "result": "Joey Tribbiani", "score": 3 }
+              ]
+            },
+            {
               "answer": "25%",
               "score": [
                 { "result": "Ross Geller", "score": 4 },
@@ -3028,17 +3040,6 @@
                 { "result": "Monica Geller", "score": 7 },
                 { "result": "Chandler Bing", "score": 5 },
                 { "result": "Joey Tribbiani", "score": 8 }
-              ]
-            },
-            {
-              "answer": "0%",
-              "score": [
-                { "result": "Ross Geller", "score": 6 },
-                { "result": "Rachel Green", "score": 9 },
-                { "result": "Phoebe Buffay", "score": 1 },
-                { "result": "Monica Geller", "score": 4 },
-                { "result": "Chandler Bing", "score": 7 },
-                { "result": "Joey Tribbiani", "score": 3 }
               ]
             }
           ]
