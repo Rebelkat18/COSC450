@@ -2,7 +2,6 @@ import "./Menu.css";
 import { Link } from "react-router-dom";
 import data from "../data.json";
 import "bootstrap/dist/css/bootstrap.min.css";
-import ButtonGroup from "react-bootstrap/ButtonGroup";
 import ToggleButton from "react-bootstrap/ToggleButton";
 import reset from "../Components/Reset";
 import { useNavigate } from "react-router-dom";
@@ -33,7 +32,6 @@ const Menu = (props) => {
         </nav>
       </header>
       <div className="Main">
-      <ButtonGroup className="btn">
         <div class="btn-group-vertical">
         {choice.map((answer, index) => (
           <ToggleButton
@@ -44,7 +42,6 @@ const Menu = (props) => {
           </ToggleButton>
         ))}
         </div>
-      </ButtonGroup>
       </div>
     </div>
   );
