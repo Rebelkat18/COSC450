@@ -33,7 +33,7 @@ function Home(props) {
         </nav>
       </header>
 
-      <ButtonGroup className="btn-group">
+      <ButtonGroup className="btn2">
       <div class="btn-group-vertical">
         <button className="butt" onClick={() => set(0)}>
           {" "}

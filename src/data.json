@@ -1490,109 +1490,51 @@
       "category": "Computer Science",
       "questions": [
         {
-          "question": "How are you feeling?",
-          "answers": [
-            {
-              "answer": "Good",
-              "score": [
-                { "result": "Python", "score": 1 },
-                { "result": "Java", "score": 2 },
-                { "result": "C#", "score": 3 },
-                { "result": "C++", "score": 4 },
-                { "result": "HTML", "score": 5 },
-                { "result": "JavaScript", "score": 7 },
-                { "result": "CSS", "score": 8 },
-                { "result": "SQL", "score": 9 },
-                { "result": "Assembly", "score": 10 }
-              ]
-            },
-            {
-              "answer": "Bad",
-              "score": [
-                { "result": "Python", "score": 1 },
-                { "result": "Java", "score": 2 },
-                { "result": "C#", "score": 3 },
-                { "result": "C++", "score": 4 },
-                { "result": "HTML", "score": 5 },
-                { "result": "JavaScript", "score": 7 },
-                { "result": "CSS", "score": 8 },
-                { "result": "SQL", "score": 9 },
-                { "result": "Assembly", "score": 10 }
-              ]
-            },
-            {
-              "answer": "Sad",
-              "score": [
-                { "result": "Python", "score": 1 },
-                { "result": "Java", "score": 2 },
-                { "result": "C#", "score": 3 },
-                { "result": "C++", "score": 4 },
-                { "result": "HTML", "score": 5 },
-                { "result": "JavaScript", "score": 7 },
-                { "result": "CSS", "score": 8 },
-                { "result": "SQL", "score": 9 },
-                { "result": "Assembly", "score": 10 }
-              ]
-            },
-            {
-              "answer": "Mad",
-              "score": [
-                { "result": "Python", "score": 1 },
-                { "result": "Java", "score": 2 },
-                { "result": "C#", "score": 3 },
-                { "result": "C++", "score": 4 },
-                { "result": "HTML", "score": 5 },
-                { "result": "JavaScript", "score": 7 },
-                { "result": "CSS", "score": 8 },
-                { "result": "SQL", "score": 9 },
-                { "result": "Assembly", "score": 10 }
-              ]
-            }
-          ]
-        },
-        {
           "question": "Do you like math?",
           "answers": [
             {
               "answer": "Yes",
               "score": [
-                { "result": "Python", "score": 1 },
-                { "result": "Java", "score": 2 },
-                { "result": "C#", "score": 3 },
-                { "result": "C++", "score": 4 },
-                { "result": "HTML", "score": 5 },
-                { "result": "JavaScript", "score": 7 },
-                { "result": "CSS", "score": 8 },
-                { "result": "SQL", "score": 9 },
-                { "result": "Assembly", "score": 10 }
+                { "result": "Python", "score": 10 },
+                { "result": "Java", "score": 7 },
+                { "result": "C", "score": 8 },
+                { "result": "C#", "score": 6 },
+                { "result": "C++", "score": 8 },
+                { "result": "HTML", "score": 1 },
+                { "result": "JavaScript", "score": 5 },
+                { "result": "CSS", "score": 2 },
+                { "result": "SQL", "score": 3 },
+                { "result": "Assembly", "score": 7 }
               ]
             },
             {
               "answer": "No",
               "score": [
                 { "result": "Python", "score": 1 },
-                { "result": "Java", "score": 2 },
+                { "result": "Java", "score": 3 },
+                { "result": "C", "score": 2 },
                 { "result": "C#", "score": 3 },
                 { "result": "C++", "score": 4 },
-                { "result": "HTML", "score": 5 },
-                { "result": "JavaScript", "score": 7 },
-                { "result": "CSS", "score": 8 },
-                { "result": "SQL", "score": 9 },
-                { "result": "Assembly", "score": 10 }
+                { "result": "HTML", "score": 10 },
+                { "result": "JavaScript", "score": 6 },
+                { "result": "CSS", "score": 9 },
+                { "result": "SQL", "score": 8 },
+                { "result": "Assembly", "score": 6 }
               ]
             },
             {
               "answer": "Sometimes",
               "score": [
                 { "result": "Python", "score": 1 },
-                { "result": "Java", "score": 2 },
-                { "result": "C#", "score": 3 },
+                { "result": "Java", "score": 10 },
+                { "result": "C", "score": 6 },
+                { "result": "C#", "score": 5 },
                 { "result": "C++", "score": 4 },
-                { "result": "HTML", "score": 5 },
-                { "result": "JavaScript", "score": 7 },
-                { "result": "CSS", "score": 8 },
-                { "result": "SQL", "score": 9 },
-                { "result": "Assembly", "score": 10 }
+                { "result": "HTML", "score": 3 },
+                { "result": "JavaScript", "score": 9 },
+                { "result": "CSS", "score": 2 },
+                { "result": "SQL", "score": 8 },
+                { "result": "Assembly", "score": 7 }
               ]
             }
           ]
@@ -1603,43 +1545,46 @@
             {
               "answer": "Yes",
               "score": [
-                { "result": "Python", "score": 1 },
-                { "result": "Java", "score": 2 },
-                { "result": "C#", "score": 3 },
-                { "result": "C++", "score": 4 },
-                { "result": "HTML", "score": 5 },
-                { "result": "JavaScript", "score": 7 },
-                { "result": "CSS", "score": 8 },
-                { "result": "SQL", "score": 9 },
-                { "result": "Assembly", "score": 10 }
+                { "result": "Python", "score": 7 },
+                { "result": "Java", "score": 6 },
+                { "result": "C", "score": 1 },
+                { "result": "C#", "score": 5 },
+                { "result": "C++", "score": 2 },
+                { "result": "HTML", "score": 9 },
+                { "result": "JavaScript", "score": 8 },
+                { "result": "CSS", "score": 10 },
+                { "result": "SQL", "score": 4 },
+                { "result": "Assembly", "score": 3 }
               ]
             },
             {
               "answer": "No",
               "score": [
-                { "result": "Python", "score": 1 },
-                { "result": "Java", "score": 2 },
-                { "result": "C#", "score": 3 },
-                { "result": "C++", "score": 4 },
-                { "result": "HTML", "score": 5 },
-                { "result": "JavaScript", "score": 7 },
-                { "result": "CSS", "score": 8 },
-                { "result": "SQL", "score": 9 },
-                { "result": "Assembly", "score": 10 }
+                { "result": "Python", "score": 4 },
+                { "result": "Java", "score": 5 },
+                { "result": "C", "score": 10 },
+                { "result": "C#", "score": 6 },
+                { "result": "C++", "score": 9 },
+                { "result": "HTML", "score": 2 },
+                { "result": "JavaScript", "score": 3 },
+                { "result": "CSS", "score": 1 },
+                { "result": "SQL", "score": 7 },
+                { "result": "Assembly", "score": 8 }
               ]
             },
             {
               "answer": "Sometimes",
               "score": [
-                { "result": "Python", "score": 1 },
-                { "result": "Java", "score": 2 },
-                { "result": "C#", "score": 3 },
-                { "result": "C++", "score": 4 },
-                { "result": "HTML", "score": 5 },
-                { "result": "JavaScript", "score": 7 },
-                { "result": "CSS", "score": 8 },
-                { "result": "SQL", "score": 9 },
-                { "result": "Assembly", "score": 10 }
+                { "result": "Python", "score": 9 },
+                { "result": "Java", "score": 10 },
+                { "result": "C", "score": 1 },
+                { "result": "C#", "score": 7 },
+                { "result": "C++", "score": 2 },
+                { "result": "HTML", "score": 6 },
+                { "result": "JavaScript", "score": 8 },
+                { "result": "CSS", "score": 5 },
+                { "result": "SQL", "score": 3 },
+                { "result": "Assembly", "score": 4 }
               ]
             }
           ]
@@ -1650,43 +1595,31 @@
             {
               "answer": "Yes, very orgranized",
               "score": [
-                { "result": "Python", "score": 1 },
-                { "result": "Java", "score": 2 },
-                { "result": "C#", "score": 3 },
-                { "result": "C++", "score": 4 },
-                { "result": "HTML", "score": 5 },
-                { "result": "JavaScript", "score": 7 },
-                { "result": "CSS", "score": 8 },
-                { "result": "SQL", "score": 9 },
-                { "result": "Assembly", "score": 10 }
-              ]
-            },
-            {
-              "answer": "For the most part, yes",
-              "score": [
-                { "result": "Python", "score": 1 },
-                { "result": "Java", "score": 2 },
-                { "result": "C#", "score": 3 },
-                { "result": "C++", "score": 4 },
-                { "result": "HTML", "score": 5 },
-                { "result": "JavaScript", "score": 7 },
-                { "result": "CSS", "score": 8 },
-                { "result": "SQL", "score": 9 },
-                { "result": "Assembly", "score": 10 }
+                { "result": "Python", "score": 10 },
+                { "result": "Java", "score": 8 },
+                { "result": "C", "score": 7 },
+                { "result": "C#", "score": 6 },
+                { "result": "C++", "score": 9 },
+                { "result": "HTML", "score": 1 },
+                { "result": "JavaScript", "score": 4 },
+                { "result": "CSS", "score": 2 },
+                { "result": "SQL", "score": 3 },
+                { "result": "Assembly", "score": 5 }
               ]
             },
             {
               "answer": "Nah",
               "score": [
                 { "result": "Python", "score": 1 },
-                { "result": "Java", "score": 2 },
-                { "result": "C#", "score": 3 },
-                { "result": "C++", "score": 4 },
-                { "result": "HTML", "score": 5 },
+                { "result": "Java", "score": 3 },
+                { "result": "C", "score": 4 },
+                { "result": "C#", "score": 5 },
+                { "result": "C++", "score": 2 },
+                { "result": "HTML", "score": 10 },
                 { "result": "JavaScript", "score": 7 },
-                { "result": "CSS", "score": 8 },
-                { "result": "SQL", "score": 9 },
-                { "result": "Assembly", "score": 10 }
+                { "result": "CSS", "score": 9 },
+                { "result": "SQL", "score": 8 },
+                { "result": "Assembly", "score": 6 }
               ]
             }
           ]
@@ -1697,43 +1630,46 @@
             {
               "answer": "Rules? What rules?",
               "score": [
-                { "result": "Python", "score": 1 },
-                { "result": "Java", "score": 2 },
-                { "result": "C#", "score": 3 },
-                { "result": "C++", "score": 4 },
-                { "result": "HTML", "score": 5 },
-                { "result": "JavaScript", "score": 7 },
-                { "result": "CSS", "score": 8 },
-                { "result": "SQL", "score": 9 },
-                { "result": "Assembly", "score": 10 }
-              ]
-            },
-            {
-              "answer": "Depends",
-              "score": [
-                { "result": "Python", "score": 1 },
-                { "result": "Java", "score": 2 },
-                { "result": "C#", "score": 3 },
-                { "result": "C++", "score": 4 },
-                { "result": "HTML", "score": 5 },
-                { "result": "JavaScript", "score": 7 },
-                { "result": "CSS", "score": 8 },
-                { "result": "SQL", "score": 9 },
-                { "result": "Assembly", "score": 10 }
+                { "result": "Python", "score": 5 },
+                { "result": "Java", "score": 6 },
+                { "result": "C", "score": 3 },
+                { "result": "C#", "score": 2 },
+                { "result": "C++", "score": 1 },
+                { "result": "HTML", "score": 9 },
+                { "result": "JavaScript", "score": 8 },
+                { "result": "CSS", "score": 10 },
+                { "result": "SQL", "score": 4 },
+                { "result": "Assembly", "score": 7 }
               ]
             },
             {
               "answer": "Of course!",
               "score": [
-                { "result": "Python", "score": 1 },
-                { "result": "Java", "score": 2 },
-                { "result": "C#", "score": 3 },
-                { "result": "C++", "score": 4 },
-                { "result": "HTML", "score": 5 },
-                { "result": "JavaScript", "score": 7 },
-                { "result": "CSS", "score": 8 },
-                { "result": "SQL", "score": 9 },
-                { "result": "Assembly", "score": 10 }
+                { "result": "Python", "score": 8 },
+                { "result": "Java", "score": 7 },
+                { "result": "C", "score": 5 },
+                { "result": "C#", "score": 6 },
+                { "result": "C++", "score": 10 },
+                { "result": "HTML", "score": 2 },
+                { "result": "JavaScript", "score": 4 },
+                { "result": "CSS", "score": 1 },
+                { "result": "SQL", "score": 3 },
+                { "result": "Assembly", "score": 9 }
+              ]
+            },
+            {
+              "answer": "Sometimes",
+              "score": [
+                { "result": "Python", "score": 7 },
+                { "result": "Java", "score": 6 },
+                { "result": "C", "score": 8 },
+                { "result": "C#", "score": 9 },
+                { "result": "C++", "score": 10 },
+                { "result": "HTML", "score": 1 },
+                { "result": "JavaScript", "score": 2 },
+                { "result": "CSS", "score": 3 },
+                { "result": "SQL", "score": 4 },
+                { "result": "Assembly", "score": 5 }
               ]
             }
           ]
