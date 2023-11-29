@@ -51,6 +51,10 @@ function Home(props) {
           {" "}
           Which programming language are you? {" "}
         </button>
+        <button className="butt" onClick={() => set(7)}>
+          {" "}
+          Which variable are you? {" "}
+        </button>
         <button className="butt" onClick={() => set(8)}>
           {" "}
           Which video game are you? {" "}
