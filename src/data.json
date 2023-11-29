@@ -1997,253 +1997,246 @@
       "category": "Computer Science",
       "questions": [
         {
-          "question": "How are you feeling?",
-          "answers": [
-            {
-              "answer": "Good",
-              "score": [
-                { "result": "Boolean", "score": 1 },
-                { "result": "String", "score": 2 },
-                { "result": "Integer", "score": 3 },
-                { "result": "Float", "score": 4 },
-                { "result": "Character", "score": 5 },
-                { "result": "Double", "score": 6 },
-                { "result": "Null", "score": 7 }
-              ]
-            },
-            {
-              "answer": "Bad",
-              "score": [
-                { "result": "Boolean", "score": 1 },
-                { "result": "String", "score": 2 },
-                { "result": "Integer", "score": 3 },
-                { "result": "Float", "score": 4 },
-                { "result": "Character", "score": 5 },
-                { "result": "Double", "score": 6 },
-                { "result": "Null", "score": 7 }
-              ]
-            },
-            {
-              "answer": "Sad",
-              "score": [
-                { "result": "Boolean", "score": 1 },
-                { "result": "String", "score": 2 },
-                { "result": "Integer", "score": 3 },
-                { "result": "Float", "score": 4 },
-                { "result": "Character", "score": 5 },
-                { "result": "Double", "score": 6 },
-                { "result": "Null", "score": 7 }
-              ]
-            },
-            {
-              "answer": "Mad",
-              "score": [
-                { "result": "Boolean", "score": 1 },
-                { "result": "String", "score": 2 },
-                { "result": "Integer", "score": 3 },
-                { "result": "Float", "score": 4 },
-                { "result": "Character", "score": 5 },
-                { "result": "Double", "score": 6 },
-                { "result": "Null", "score": 7 }
-              ]
-            },
-            {
-              "answer": "Hungry",
-              "score": [
-                { "result": "Boolean", "score": 1 },
-                { "result": "String", "score": 2 },
-                { "result": "Integer", "score": 3 },
-                { "result": "Float", "score": 4 },
-                { "result": "Character", "score": 5 },
-                { "result": "Double", "score": 6 },
-                { "result": "Null", "score": 7 }
-              ]
-            }
-          ]
-        },
-        {
-          "question": "How likely are you to help out a friend in need?",
-          "answers": [
-            {
-              "answer": "25%",
-              "score": [
-                { "result": "Boolean", "score": 1 },
-                { "result": "String", "score": 2 },
-                { "result": "Integer", "score": 3 },
-                { "result": "Float", "score": 4 },
-                { "result": "Character", "score": 5 },
-                { "result": "Double", "score": 6 },
-                { "result": "Null", "score": 7 }
-              ]
-            },
-            {
-              "answer": "50%",
-              "score": [
-                { "result": "Boolean", "score": 1 },
-                { "result": "String", "score": 2 },
-                { "result": "Integer", "score": 3 },
-                { "result": "Float", "score": 4 },
-                { "result": "Character", "score": 5 },
-                { "result": "Double", "score": 6 },
-                { "result": "Null", "score": 7 }
-              ]
-            },
-            {
-              "answer": "75%",
-              "score": [
-                { "result": "Boolean", "score": 1 },
-                { "result": "String", "score": 2 },
-                { "result": "Integer", "score": 3 },
-                { "result": "Float", "score": 4 },
-                { "result": "Character", "score": 5 },
-                { "result": "Double", "score": 6 },
-                { "result": "Null", "score": 7 }
-              ]
-            },
-            {
-              "answer": "100%",
-              "score": [
-                { "result": "Boolean", "score": 1 },
-                { "result": "String", "score": 2 },
-                { "result": "Integer", "score": 3 },
-                { "result": "Float", "score": 4 },
-                { "result": "Character", "score": 5 },
-                { "result": "Double", "score": 6 },
-                { "result": "Null", "score": 7 }
-              ]
-            },
-            {
-              "answer": "0%",
-              "score": [
-                { "result": "Boolean", "score": 1 },
-                { "result": "String", "score": 2 },
-                { "result": "Integer", "score": 3 },
-                { "result": "Float", "score": 4 },
-                { "result": "Character", "score": 5 },
-                { "result": "Double", "score": 6 },
-                { "result": "Null", "score": 7 }
-              ]
-            }
-          ]
-        },
-        {
-          "question": "When did you get up today?",
-          "answers": [
-            {
-              "answer": "5:00AM",
-              "score": [
-                { "result": "Boolean", "score": 1 },
-                { "result": "String", "score": 2 },
-                { "result": "Integer", "score": 3 },
-                { "result": "Float", "score": 4 },
-                { "result": "Character", "score": 5 },
-                { "result": "Double", "score": 6 },
-                { "result": "Null", "score": 7 }
-              ]
-            },
-            {
-              "answer": "7:00AM",
-              "score": [
-                { "result": "Boolean", "score": 1 },
-                { "result": "String", "score": 2 },
-                { "result": "Integer", "score": 3 },
-                { "result": "Float", "score": 4 },
-                { "result": "Character", "score": 5 },
-                { "result": "Double", "score": 6 },
-                { "result": "Null", "score": 7 }
-              ]
-            },
-            {
-              "answer": "9:00AM",
-              "score": [
-                { "result": "Boolean", "score": 1 },
-                { "result": "String", "score": 2 },
-                { "result": "Integer", "score": 3 },
-                { "result": "Float", "score": 4 },
-                { "result": "Character", "score": 5 },
-                { "result": "Double", "score": 6 },
-                { "result": "Null", "score": 7 }
-              ]
-            },
-            {
-              "answer": "10:00AM",
-              "score": [
-                { "result": "Boolean", "score": 1 },
-                { "result": "String", "score": 2 },
-                { "result": "Integer", "score": 3 },
-                { "result": "Float", "score": 4 },
-                { "result": "Character", "score": 5 },
-                { "result": "Double", "score": 6 },
-                { "result": "Null", "score": 7 }
-              ]
-            },
-            {
-              "answer": "12:00PM",
-              "score": [
-                { "result": "Boolean", "score": 1 },
-                { "result": "String", "score": 2 },
-                { "result": "Integer", "score": 3 },
-                { "result": "Float", "score": 4 },
-                { "result": "Character", "score": 5 },
-                { "result": "Double", "score": 6 },
-                { "result": "Null", "score": 7 }
-              ]
-            }
-          ]
-        },
-        {
-          "question": "Positive or Negative?",
-          "answers": [
-            {
-              "answer": "Positive",
-              "score": [
-                { "result": "Boolean", "score": 1 },
-                { "result": "String", "score": 2 },
-                { "result": "Integer", "score": 3 },
-                { "result": "Float", "score": 4 },
-                { "result": "Character", "score": 5 },
-                { "result": "Double", "score": 6 },
-                { "result": "Null", "score": 7 }
-              ]
-            },
-            {
-              "answer": "Negative",
-              "score": [
-                { "result": "Boolean", "score": 1 },
-                { "result": "String", "score": 2 },
-                { "result": "Integer", "score": 3 },
-                { "result": "Float", "score": 4 },
-                { "result": "Character", "score": 5 },
-                { "result": "Double", "score": 6 },
-                { "result": "Null", "score": 7 }
-              ]
-            }
-          ]
-        },
-        {
-          "question": "Is your room clean right now?",
+          "question": "Do you like puzzles?",
           "answers": [
             {
               "answer": "Yes",
               "score": [
-                { "result": "Boolean", "score": 1 },
-                { "result": "String", "score": 2 },
-                { "result": "Integer", "score": 3 },
-                { "result": "Float", "score": 4 },
-                { "result": "Character", "score": 5 },
-                { "result": "Double", "score": 6 },
-                { "result": "Null", "score": 7 }
+                { "result": "Boolean", "score": 4 },
+                { "result": "String", "score": 7 },
+                { "result": "Integer", "score": 6 },
+                { "result": "Float", "score": 3 },
+                { "result": "Character", "score": 2 },
+                { "result": "Double", "score": 5 },
+                { "result": "Null", "score": 0 }
               ]
             },
             {
               "answer": "No",
               "score": [
-                { "result": "Boolean", "score": 1 },
+                { "result": "Boolean", "score": 5 },
                 { "result": "String", "score": 2 },
                 { "result": "Integer", "score": 3 },
-                { "result": "Float", "score": 4 },
-                { "result": "Character", "score": 5 },
+                { "result": "Float", "score": 6 },
+                { "result": "Character", "score": 7 },
+                { "result": "Double", "score": 4 },
+                { "result": "Null", "score": 0 }
+              ]
+            },
+            {
+              "answer": "Maybe",
+              "score": [
+                { "result": "Boolean", "score": 0 },
+                { "result": "String", "score": 4 },
+                { "result": "Integer", "score": 2 },
+                { "result": "Float", "score": 2 },
+                { "result": "Character", "score": 3 },
+                { "result": "Double", "score": 3 },
+                { "result": "Null", "score": 7 }
+              ]
+            }
+          ]
+        },
+        {
+          "question": "True or False: Pineapple goes on pizza.",
+          "answers": [
+            {
+              "answer": "True",
+              "score": [
+                { "result": "Boolean", "score": 4 },
+                { "result": "String", "score": 3 },
+                { "result": "Integer", "score": 2 },
+                { "result": "Float", "score": 6 },
+                { "result": "Character", "score": 7 },
+                { "result": "Double", "score": 5 },
+                { "result": "Null", "score": 0 }
+              ]
+            },
+            {
+              "answer": "False",
+              "score": [
+                { "result": "Boolean", "score": 5 },
+                { "result": "String", "score": 6 },
+                { "result": "Integer", "score": 7 },
+                { "result": "Float", "score": 3 },
+                { "result": "Character", "score": 2 },
+                { "result": "Double", "score": 5 },
+                { "result": "Null", "score": 0 }
+              ]
+            },
+            {
+              "answer": "Maybe",
+              "score": [
+                { "result": "Boolean", "score": 0 },
+                { "result": "String", "score": 2 },
+                { "result": "Integer", "score": 1 },
+                { "result": "Float", "score": 1 },
+                { "result": "Character", "score": 2 },
+                { "result": "Double", "score": 1 },
+                { "result": "Null", "score": 7 }
+              ]
+            }
+          ]
+        },
+        {
+          "question": "Do you like math?",
+          "answers": [
+            {
+              "answer": "Yes",
+              "score": [
+                { "result": "Boolean", "score": 4 },
+                { "result": "String", "score": 3 },
+                { "result": "Integer", "score": 7 },
+                { "result": "Float", "score": 5 },
+                { "result": "Character", "score": 2 },
                 { "result": "Double", "score": 6 },
+                { "result": "Null", "score": 0 }
+              ]
+            },
+            {
+              "answer": "No",
+              "score": [
+                { "result": "Boolean", "score": 5 },
+                { "result": "String", "score": 6 },
+                { "result": "Integer", "score": 2 },
+                { "result": "Float", "score": 4 },
+                { "result": "Character", "score": 7 },
+                { "result": "Double", "score": 3 },
+                { "result": "Null", "score": 0 }
+              ]
+            },
+            {
+              "answer": "Maybe",
+              "score": [
+                { "result": "Boolean", "score": 0 },
+                { "result": "String", "score": 1 },
+                { "result": "Integer", "score": 3 },
+                { "result": "Float", "score": 3 },
+                { "result": "Character", "score": 1 },
+                { "result": "Double", "score": 3 },
+                { "result": "Null", "score": 7 }
+              ]
+            }
+          ]
+        },
+        {
+          "question": "Do you like to write?",
+          "answers": [
+            {
+              "answer": "Yes",
+              "score": [
+                { "result": "Boolean", "score": 4 },
+                { "result": "String", "score": 7 },
+                { "result": "Integer", "score": 5 },
+                { "result": "Float", "score": 2 },
+                { "result": "Character", "score": 6 },
+                { "result": "Double", "score": 3 },
+                { "result": "Null", "score": 0 }
+              ]
+            },
+            {
+              "answer": "No",
+              "score": [
+                { "result": "Boolean", "score": 5 },
+                { "result": "String", "score": 2 },
+                { "result": "Integer", "score": 4 },
+                { "result": "Float", "score": 7 },
+                { "result": "Character", "score": 3 },
+                { "result": "Double", "score": 6 },
+                { "result": "Null", "score": 0 }
+              ]
+            },
+            {
+              "answer": "Maybe",
+              "score": [
+                { "result": "Boolean", "score": 0 },
+                { "result": "String", "score": 3 },
+                { "result": "Integer", "score": 1 },
+                { "result": "Float", "score": 1 },
+                { "result": "Character", "score": 3 },
+                { "result": "Double", "score": 1 },
+                { "result": "Null", "score": 7 }
+              ]
+            }
+          ]
+        },
+        {
+          "question": "Do you like pi?",
+          "answers": [
+            {
+              "answer": "Yes",
+              "score": [
+                { "result": "Boolean", "score": 1 },
+                { "result": "String", "score": 4 },
+                { "result": "Integer", "score": 5 },
+                { "result": "Float", "score": 7 },
+                { "result": "Character", "score": 3 },
+                { "result": "Double", "score": 6 },
+                { "result": "Null", "score": 0 }
+              ]
+            },
+            {
+              "answer": "No",
+              "score": [
+                { "result": "Boolean", "score": 7 },
+                { "result": "String", "score": 5 },
+                { "result": "Integer", "score": 4 },
+                { "result": "Float", "score": 2 },
+                { "result": "Character", "score": 6 },
+                { "result": "Double", "score": 3 },
+                { "result": "Null", "score": 0 }
+              ]
+            },
+            {
+              "answer": "Maybe",
+              "score": [
+                { "result": "Boolean", "score": 0 },
+                { "result": "String", "score": 1 },
+                { "result": "Integer", "score": 2 },
+                { "result": "Float", "score": 4 },
+                { "result": "Character", "score": 1 },
+                { "result": "Double", "score": 3 },
+                { "result": "Null", "score": 7 }
+              ]
+            }
+          ]
+        },
+        {
+          "question": "Is there always a right answer?",
+          "answers": [
+            {
+              "answer": "Yes",
+              "score": [
+                { "result": "Boolean", "score": 7 },
+                { "result": "String", "score": 5 },
+                { "result": "Integer", "score": 6 },
+                { "result": "Float", "score": 4 },
+                { "result": "Character", "score": 2 },
+                { "result": "Double", "score": 3 },
+                { "result": "Null", "score": 0 }
+              ]
+            },
+            {
+              "answer": "No",
+              "score": [
+                { "result": "Boolean", "score": 0 },
+                { "result": "String", "score": 4 },
+                { "result": "Integer", "score": 3 },
+                { "result": "Float", "score": 5 },
+                { "result": "Character", "score": 7 },
+                { "result": "Double", "score": 6 },
+                { "result": "Null", "score": 0 }
+              ]
+            },
+            {
+              "answer": "Maybe",
+              "score": [
+                { "result": "Boolean", "score": 0 },
+                { "result": "String", "score": 2 },
+                { "result": "Integer", "score": 2 },
+                { "result": "Float", "score": 3 },
+                { "result": "Character", "score": 3 },
+                { "result": "Double", "score": 3 },
                 { "result": "Null", "score": 7 }
               ]
             }
