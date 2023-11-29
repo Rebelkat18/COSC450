@@ -1,0 +1,2331 @@
+{
+    "Quizzes": [
+      {
+        "title": "What article of clothing are you?",
+        "category": "General",
+        "questions": [
+          {
+            "question": "How are you feeling?",
+            "answers": [
+              {
+                "answer": "Good",
+                "score": [
+                  { "result": "Shirt", "score": 0 },
+                  { "result": "Pants", "score": 1 },
+                  { "result": "Shorts", "score": 2 },
+                  { "result": "Shoes", "score": 3 },
+                  { "result": "Bra", "score": 4 },
+                  { "result": "Boxers", "score": 5 },
+                  { "result": "Dress", "score": 6 },
+                  { "result": "Sweatshirt", "score": 7 },
+                  { "result": "Jacket", "score": 8 },
+                  { "result": "Hat", "score": 9 }
+                ]
+              },
+              {
+                "answer": "Bad",
+                "score": [
+                  { "result": "Shirt", "score": 0 },
+                  { "result": "Pants", "score": 1 },
+                  { "result": "Shorts", "score": 2 },
+                  { "result": "Shoes", "score": 3 },
+                  { "result": "Bra", "score": 4 },
+                  { "result": "Boxers", "score": 5 },
+                  { "result": "Dress", "score": 6 },
+                  { "result": "Sweatshirt", "score": 7 },
+                  { "result": "Jacket", "score": 8 },
+                  { "result": "Hat", "score": 9 }
+                ]
+              },
+              {
+                "answer": "Sad",
+                "score": [
+                  { "result": "Shirt", "score": 0 },
+                  { "result": "Pants", "score": 1 },
+                  { "result": "Shorts", "score": 2 },
+                  { "result": "Shoes", "score": 3 },
+                  { "result": "Bra", "score": 4 },
+                  { "result": "Boxers", "score": 5 },
+                  { "result": "Dress", "score": 6 },
+                  { "result": "Sweatshirt", "score": 7 },
+                  { "result": "Jacket", "score": 8 },
+                  { "result": "Hat", "score": 9 }
+                ]
+              },
+              {
+                "answer": "Mad",
+                "score": [
+                  { "result": "Shirt", "score": 0 },
+                  { "result": "Pants", "score": 1 },
+                  { "result": "Shorts", "score": 2 },
+                  { "result": "Shoes", "score": 3 },
+                  { "result": "Bra", "score": 4 },
+                  { "result": "Boxers", "score": 5 },
+                  { "result": "Dress", "score": 6 },
+                  { "result": "Sweatshirt", "score": 7 },
+                  { "result": "Jacket", "score": 8 },
+                  { "result": "Hat", "score": 9 }
+                ]
+              },
+              {
+                "answer": "Hungry",
+                "score": [
+                  { "result": "Shirt", "score": 0 },
+                  { "result": "Pants", "score": 1 },
+                  { "result": "Shorts", "score": 2 },
+                  { "result": "Shoes", "score": 3 },
+                  { "result": "Bra", "score": 4 },
+                  { "result": "Boxers", "score": 5 },
+                  { "result": "Dress", "score": 6 },
+                  { "result": "Sweatshirt", "score": 7 },
+                  { "result": "Jacket", "score": 8 },
+                  { "result": "Hat", "score": 9 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "How likely are you to help out a friend in need?",
+            "answers": [
+              {
+                "answer": "25%",
+                "score": [
+                  { "result": "Shirt", "score": 0 },
+                  { "result": "Pants", "score": 1 },
+                  { "result": "Shorts", "score": 2 },
+                  { "result": "Shoes", "score": 3 },
+                  { "result": "Bra", "score": 4 },
+                  { "result": "Boxers", "score": 5 },
+                  { "result": "Dress", "score": 6 },
+                  { "result": "Sweatshirt", "score": 7 },
+                  { "result": "Jacket", "score": 8 },
+                  { "result": "Hat", "score": 9 }
+                ]
+              },
+              {
+                "answer": "50%",
+                "score": [
+                  { "result": "Shirt", "score": 0 },
+                  { "result": "Pants", "score": 1 },
+                  { "result": "Shorts", "score": 2 },
+                  { "result": "Shoes", "score": 3 },
+                  { "result": "Bra", "score": 4 },
+                  { "result": "Boxers", "score": 5 },
+                  { "result": "Dress", "score": 6 },
+                  { "result": "Sweatshirt", "score": 7 },
+                  { "result": "Jacket", "score": 8 },
+                  { "result": "Hat", "score": 9 }
+                ]
+              },
+              {
+                "answer": "75%",
+                "score": [
+                  { "result": "Shirt", "score": 0 },
+                  { "result": "Pants", "score": 1 },
+                  { "result": "Shorts", "score": 2 },
+                  { "result": "Shoes", "score": 3 },
+                  { "result": "Bra", "score": 4 },
+                  { "result": "Boxers", "score": 5 },
+                  { "result": "Dress", "score": 6 },
+                  { "result": "Sweatshirt", "score": 7 },
+                  { "result": "Jacket", "score": 8 },
+                  { "result": "Hat", "score": 9 }
+                ]
+              },
+              {
+                "answer": "100%",
+                "score": [
+                  { "result": "Shirt", "score": 0 },
+                  { "result": "Pants", "score": 1 },
+                  { "result": "Shorts", "score": 2 },
+                  { "result": "Shoes", "score": 3 },
+                  { "result": "Bra", "score": 4 },
+                  { "result": "Boxers", "score": 5 },
+                  { "result": "Dress", "score": 6 },
+                  { "result": "Sweatshirt", "score": 7 },
+                  { "result": "Jacket", "score": 8 },
+                  { "result": "Hat", "score": 9 }
+                ]
+              },
+              {
+                "answer": "0%",
+                "score": [
+                  { "result": "Shirt", "score": 0 },
+                  { "result": "Pants", "score": 1 },
+                  { "result": "Shorts", "score": 2 },
+                  { "result": "Shoes", "score": 3 },
+                  { "result": "Bra", "score": 4 },
+                  { "result": "Boxers", "score": 5 },
+                  { "result": "Dress", "score": 6 },
+                  { "result": "Sweatshirt", "score": 7 },
+                  { "result": "Jacket", "score": 8 },
+                  { "result": "Hat", "score": 9 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "When did you get up today?",
+            "answers": [
+              {
+                "answer": "5:00AM",
+                "score": [
+                  { "result": "Shirt", "score": 0 },
+                  { "result": "Pants", "score": 1 },
+                  { "result": "Shorts", "score": 2 },
+                  { "result": "Shoes", "score": 3 },
+                  { "result": "Bra", "score": 4 },
+                  { "result": "Boxers", "score": 5 },
+                  { "result": "Dress", "score": 6 },
+                  { "result": "Sweatshirt", "score": 7 },
+                  { "result": "Jacket", "score": 8 },
+                  { "result": "Hat", "score": 9 }
+                ]
+              },
+              {
+                "answer": "7:00AM",
+                "score": [
+                  { "result": "Shirt", "score": 0 },
+                  { "result": "Pants", "score": 1 },
+                  { "result": "Shorts", "score": 2 },
+                  { "result": "Shoes", "score": 3 },
+                  { "result": "Bra", "score": 4 },
+                  { "result": "Boxers", "score": 5 },
+                  { "result": "Dress", "score": 6 },
+                  { "result": "Sweatshirt", "score": 7 },
+                  { "result": "Jacket", "score": 8 },
+                  { "result": "Hat", "score": 9 }
+                ]
+              },
+              {
+                "answer": "9:00AM",
+                "score": [
+                  { "result": "Shirt", "score": 0 },
+                  { "result": "Pants", "score": 1 },
+                  { "result": "Shorts", "score": 2 },
+                  { "result": "Shoes", "score": 3 },
+                  { "result": "Bra", "score": 4 },
+                  { "result": "Boxers", "score": 5 },
+                  { "result": "Dress", "score": 6 },
+                  { "result": "Sweatshirt", "score": 7 },
+                  { "result": "Jacket", "score": 8 },
+                  { "result": "Hat", "score": 9 }
+                ]
+              },
+              {
+                "answer": "10:00AM",
+                "score": [
+                  { "result": "Shirt", "score": 0 },
+                  { "result": "Pants", "score": 1 },
+                  { "result": "Shorts", "score": 2 },
+                  { "result": "Shoes", "score": 3 },
+                  { "result": "Bra", "score": 4 },
+                  { "result": "Boxers", "score": 5 },
+                  { "result": "Dress", "score": 6 },
+                  { "result": "Sweatshirt", "score": 7 },
+                  { "result": "Jacket", "score": 8 },
+                  { "result": "Hat", "score": 9 }
+                ]
+              },
+              {
+                "answer": "12:00PM",
+                "score": [
+                  { "result": "Shirt", "score": 0 },
+                  { "result": "Pants", "score": 1 },
+                  { "result": "Shorts", "score": 2 },
+                  { "result": "Shoes", "score": 3 },
+                  { "result": "Bra", "score": 4 },
+                  { "result": "Boxers", "score": 5 },
+                  { "result": "Dress", "score": 6 },
+                  { "result": "Sweatshirt", "score": 7 },
+                  { "result": "Jacket", "score": 8 },
+                  { "result": "Hat", "score": 9 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "Positive or Negative?",
+            "answers": [
+              {
+                "answer": "Positive",
+                "score": [
+                  { "result": "Shirt", "score": 0 },
+                  { "result": "Pants", "score": 1 },
+                  { "result": "Shorts", "score": 2 },
+                  { "result": "Shoes", "score": 3 },
+                  { "result": "Bra", "score": 4 },
+                  { "result": "Boxers", "score": 5 },
+                  { "result": "Dress", "score": 6 },
+                  { "result": "Sweatshirt", "score": 7 },
+                  { "result": "Jacket", "score": 8 },
+                  { "result": "Hat", "score": 9 }
+                ]
+              },
+              {
+                "answer": "Negative",
+                "score": [
+                  { "result": "Shirt", "score": 0 },
+                  { "result": "Pants", "score": 1 },
+                  { "result": "Shorts", "score": 2 },
+                  { "result": "Shoes", "score": 3 },
+                  { "result": "Bra", "score": 4 },
+                  { "result": "Boxers", "score": 5 },
+                  { "result": "Dress", "score": 6 },
+                  { "result": "Sweatshirt", "score": 7 },
+                  { "result": "Jacket", "score": 8 },
+                  { "result": "Hat", "score": 9 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "Is your room clean right now?",
+            "answers": [
+              {
+                "answer": "Yes",
+                "score": [
+                  { "result": "Shirt", "score": 0 },
+                  { "result": "Pants", "score": 1 },
+                  { "result": "Shorts", "score": 2 },
+                  { "result": "Shoes", "score": 3 },
+                  { "result": "Bra", "score": 4 },
+                  { "result": "Boxers", "score": 5 },
+                  { "result": "Dress", "score": 6 },
+                  { "result": "Sweatshirt", "score": 7 },
+                  { "result": "Jacket", "score": 8 },
+                  { "result": "Hat", "score": 9 }
+                ]
+              },
+              {
+                "answer": "No",
+                "score": [
+                  { "result": "Shirt", "score": 0 },
+                  { "result": "Pants", "score": 1 },
+                  { "result": "Shorts", "score": 2 },
+                  { "result": "Shoes", "score": 3 },
+                  { "result": "Bra", "score": 4 },
+                  { "result": "Boxers", "score": 5 },
+                  { "result": "Dress", "score": 6 },
+                  { "result": "Sweatshirt", "score": 7 },
+                  { "result": "Jacket", "score": 8 },
+                  { "result": "Hat", "score": 9 }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "What shoe are you?",
+        "category": "General",
+        "questions": [
+          {
+            "question": "How are you feeling?",
+            "answers": [
+              {
+                "answer": "Good",
+                "score": [
+                  { "result": "Converse", "score": 0 },
+                  { "result": "Nike", "score": 1 },
+                  { "result": "adidas", "score": 2 },
+                  { "result": "Vans", "score": 3 },
+                  { "result": "Flip Flops", "score": 4 },
+                  { "result": "High Heels", "score": 5 },
+                  { "result": "Crocs", "score": 6 },
+                  { "result": "New Balance", "score": 7 },
+                  { "result": "Boots", "score": 8 },
+                  { "result": "Slippers", "score": 9 }
+                ]
+              },
+              {
+                "answer": "Bad",
+                "score": [
+                  { "result": "Converse", "score": 0 },
+                  { "result": "Nike", "score": 1 },
+                  { "result": "adidas", "score": 2 },
+                  { "result": "Vans", "score": 3 },
+                  { "result": "Flip Flops", "score": 4 },
+                  { "result": "High Heels", "score": 5 },
+                  { "result": "Crocs", "score": 6 },
+                  { "result": "New Balance", "score": 7 },
+                  { "result": "Boots", "score": 8 },
+                  { "result": "Slippers", "score": 9 }
+                ]
+              },
+              {
+                "answer": "Sad",
+                "score": [
+                  { "result": "Converse", "score": 0 },
+                  { "result": "Nike", "score": 1 },
+                  { "result": "adidas", "score": 2 },
+                  { "result": "Vans", "score": 3 },
+                  { "result": "Flip Flops", "score": 4 },
+                  { "result": "High Heels", "score": 5 },
+                  { "result": "Crocs", "score": 6 },
+                  { "result": "New Balance", "score": 7 },
+                  { "result": "Boots", "score": 8 },
+                  { "result": "Slippers", "score": 9 }
+                ]
+              },
+              {
+                "answer": "Mad",
+                "score": [
+                  { "result": "Converse", "score": 0 },
+                  { "result": "Nike", "score": 1 },
+                  { "result": "adidas", "score": 2 },
+                  { "result": "Vans", "score": 3 },
+                  { "result": "Flip Flops", "score": 4 },
+                  { "result": "High Heels", "score": 5 },
+                  { "result": "Crocs", "score": 6 },
+                  { "result": "New Balance", "score": 7 },
+                  { "result": "Boots", "score": 8 },
+                  { "result": "Slippers", "score": 9 }
+                ]
+              },
+              {
+                "answer": "Hungry",
+                "score": [
+                  { "result": "Converse", "score": 0 },
+                  { "result": "Nike", "score": 1 },
+                  { "result": "adidas", "score": 2 },
+                  { "result": "Vans", "score": 3 },
+                  { "result": "Flip Flops", "score": 4 },
+                  { "result": "High Heels", "score": 5 },
+                  { "result": "Crocs", "score": 6 },
+                  { "result": "New Balance", "score": 7 },
+                  { "result": "Boots", "score": 8 },
+                  { "result": "Slippers", "score": 9 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "How likely are you to help out a friend in need?",
+            "answers": [
+              {
+                "answer": "25%",
+                "score": [
+                  { "result": "Converse", "score": 0 },
+                  { "result": "Nike", "score": 1 },
+                  { "result": "adidas", "score": 2 },
+                  { "result": "Vans", "score": 3 },
+                  { "result": "Flip Flops", "score": 4 },
+                  { "result": "High Heels", "score": 5 },
+                  { "result": "Crocs", "score": 6 },
+                  { "result": "New Balance", "score": 7 },
+                  { "result": "Boots", "score": 8 },
+                  { "result": "Slippers", "score": 9 }
+                ]
+              },
+              {
+                "answer": "50%",
+                "score": [
+                  { "result": "Converse", "score": 0 },
+                  { "result": "Nike", "score": 1 },
+                  { "result": "adidas", "score": 2 },
+                  { "result": "Vans", "score": 3 },
+                  { "result": "Flip Flops", "score": 4 },
+                  { "result": "High Heels", "score": 5 },
+                  { "result": "Crocs", "score": 6 },
+                  { "result": "New Balance", "score": 7 },
+                  { "result": "Boots", "score": 8 },
+                  { "result": "Slippers", "score": 9 }
+                ]
+              },
+              {
+                "answer": "75%",
+                "score": [
+                  { "result": "Converse", "score": 0 },
+                  { "result": "Nike", "score": 1 },
+                  { "result": "adidas", "score": 2 },
+                  { "result": "Vans", "score": 3 },
+                  { "result": "Flip Flops", "score": 4 },
+                  { "result": "High Heels", "score": 5 },
+                  { "result": "Crocs", "score": 6 },
+                  { "result": "New Balance", "score": 7 },
+                  { "result": "Boots", "score": 8 },
+                  { "result": "Slippers", "score": 9 }
+                ]
+              },
+              {
+                "answer": "100%",
+                "score": [
+                  { "result": "Converse", "score": 0 },
+                  { "result": "Nike", "score": 1 },
+                  { "result": "adidas", "score": 2 },
+                  { "result": "Vans", "score": 3 },
+                  { "result": "Flip Flops", "score": 4 },
+                  { "result": "High Heels", "score": 5 },
+                  { "result": "Crocs", "score": 6 },
+                  { "result": "New Balance", "score": 7 },
+                  { "result": "Boots", "score": 8 },
+                  { "result": "Slippers", "score": 9 }
+                ]
+              },
+              {
+                "answer": "0%",
+                "score": [
+                  { "result": "Converse", "score": 0 },
+                  { "result": "Nike", "score": 1 },
+                  { "result": "adidas", "score": 2 },
+                  { "result": "Vans", "score": 3 },
+                  { "result": "Flip Flops", "score": 4 },
+                  { "result": "High Heels", "score": 5 },
+                  { "result": "Crocs", "score": 6 },
+                  { "result": "New Balance", "score": 7 },
+                  { "result": "Boots", "score": 8 },
+                  { "result": "Slippers", "score": 9 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "When did you get up today?",
+            "answers": [
+              {
+                "answer": "5:00AM",
+                "score": [
+                  { "result": "Converse", "score": 0 },
+                  { "result": "Nike", "score": 1 },
+                  { "result": "adidas", "score": 2 },
+                  { "result": "Vans", "score": 3 },
+                  { "result": "Flip Flops", "score": 4 },
+                  { "result": "High Heels", "score": 5 },
+                  { "result": "Crocs", "score": 6 },
+                  { "result": "New Balance", "score": 7 },
+                  { "result": "Boots", "score": 8 },
+                  { "result": "Slippers", "score": 9 }
+                ]
+              },
+              {
+                "answer": "7:00AM",
+                "score": [
+                  { "result": "Converse", "score": 0 },
+                  { "result": "Nike", "score": 1 },
+                  { "result": "adidas", "score": 2 },
+                  { "result": "Vans", "score": 3 },
+                  { "result": "Flip Flops", "score": 4 },
+                  { "result": "High Heels", "score": 5 },
+                  { "result": "Crocs", "score": 6 },
+                  { "result": "New Balance", "score": 7 },
+                  { "result": "Boots", "score": 8 },
+                  { "result": "Slippers", "score": 9 }
+                ]
+              },
+              {
+                "answer": "9:00AM",
+                "score": [
+                  { "result": "Converse", "score": 0 },
+                  { "result": "Nike", "score": 1 },
+                  { "result": "adidas", "score": 2 },
+                  { "result": "Vans", "score": 3 },
+                  { "result": "Flip Flops", "score": 4 },
+                  { "result": "High Heels", "score": 5 },
+                  { "result": "Crocs", "score": 6 },
+                  { "result": "New Balance", "score": 7 },
+                  { "result": "Boots", "score": 8 },
+                  { "result": "Slippers", "score": 9 }
+                ]
+              },
+              {
+                "answer": "10:00AM",
+                "score": [
+                  { "result": "Converse", "score": 0 },
+                  { "result": "Nike", "score": 1 },
+                  { "result": "adidas", "score": 2 },
+                  { "result": "Vans", "score": 3 },
+                  { "result": "Flip Flops", "score": 4 },
+                  { "result": "High Heels", "score": 5 },
+                  { "result": "Crocs", "score": 6 },
+                  { "result": "New Balance", "score": 7 },
+                  { "result": "Boots", "score": 8 },
+                  { "result": "Slippers", "score": 9 }
+                ]
+              },
+              {
+                "answer": "12:00PM",
+                "score": [
+                  { "result": "Converse", "score": 0 },
+                  { "result": "Nike", "score": 1 },
+                  { "result": "adidas", "score": 2 },
+                  { "result": "Vans", "score": 3 },
+                  { "result": "Flip Flops", "score": 4 },
+                  { "result": "High Heels", "score": 5 },
+                  { "result": "Crocs", "score": 6 },
+                  { "result": "New Balance", "score": 7 },
+                  { "result": "Boots", "score": 8 },
+                  { "result": "Slippers", "score": 9 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "Positive or Negative?",
+            "answers": [
+              {
+                "answer": "Positive",
+                "score": [
+                  { "result": "Converse", "score": 0 },
+                  { "result": "Nike", "score": 1 },
+                  { "result": "adidas", "score": 2 },
+                  { "result": "Vans", "score": 3 },
+                  { "result": "Flip Flops", "score": 4 },
+                  { "result": "High Heels", "score": 5 },
+                  { "result": "Crocs", "score": 6 },
+                  { "result": "New Balance", "score": 7 },
+                  { "result": "Boots", "score": 8 },
+                  { "result": "Slippers", "score": 9 }
+                ]
+              },
+              {
+                "answer": "Negative",
+                "score": [
+                  { "result": "Converse", "score": 0 },
+                  { "result": "Nike", "score": 1 },
+                  { "result": "adidas", "score": 2 },
+                  { "result": "Vans", "score": 3 },
+                  { "result": "Flip Flops", "score": 4 },
+                  { "result": "High Heels", "score": 5 },
+                  { "result": "Crocs", "score": 6 },
+                  { "result": "New Balance", "score": 7 },
+                  { "result": "Boots", "score": 8 },
+                  { "result": "Slippers", "score": 9 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "Is your room clean right now?",
+            "answers": [
+              {
+                "answer": "Yes",
+                "score": [
+                  { "result": "Converse", "score": 0 },
+                  { "result": "Nike", "score": 1 },
+                  { "result": "adidas", "score": 2 },
+                  { "result": "Vans", "score": 3 },
+                  { "result": "Flip Flops", "score": 4 },
+                  { "result": "High Heels", "score": 5 },
+                  { "result": "Crocs", "score": 6 },
+                  { "result": "New Balance", "score": 7 },
+                  { "result": "Boots", "score": 8 },
+                  { "result": "Slippers", "score": 9 }
+                ]
+              },
+              {
+                "answer": "No",
+                "score": [
+                  { "result": "Converse", "score": 0 },
+                  { "result": "Nike", "score": 1 },
+                  { "result": "adidas", "score": 2 },
+                  { "result": "Vans", "score": 3 },
+                  { "result": "Flip Flops", "score": 4 },
+                  { "result": "High Heels", "score": 5 },
+                  { "result": "Crocs", "score": 6 },
+                  { "result": "New Balance", "score": 7 },
+                  { "result": "Boots", "score": 8 },
+                  { "result": "Slippers", "score": 9 }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "What Squishmallow are you?",
+        "category": "General",
+        "questions": [
+          {
+            "question": "How are you feeling?",
+            "answers": [
+              {
+                "answer": "Good",
+                "score": [
+                  { "result": "Cam", "score": 0 },
+                  { "result": "Lola", "score": 1 },
+                  { "result": "Esmeralda", "score": 5 },
+                  { "result": "Fifi", "score": 6 },
+                  { "result": "Winston", "score": 7 },
+                  { "result": "Avery the Mallard", "score": 8 },
+                  { "result": "Leonard the Rainbow Mane Lion", "score": 9 },
+                  { "result": "Archie Axolotl", "score": 10 },
+                  { "result": "Gordon Shark", "score": 11 },
+                  { "result": "Maui the Pineapple", "score": 12 },
+                  { "result": "Benny the Bigfoot", "score": 13 },
+                  { "result": "Floyd", "score": 14 }
+                ]
+              },
+              {
+                "answer": "Bad",
+                "score": [
+                  { "result": "Cam", "score": 0 },
+                  { "result": "Lola", "score": 1 },
+                  { "result": "Esmeralda", "score": 5 },
+                  { "result": "Fifi", "score": 6 },
+                  { "result": "Winston", "score": 7 },
+                  { "result": "Avery the Mallard", "score": 8 },
+                  { "result": "Leonard the Rainbow Mane Lion", "score": 9 },
+                  { "result": "Archie Axolotl", "score": 10 },
+                  { "result": "Gordon Shark", "score": 11 },
+                  { "result": "Maui the Pineapple", "score": 12 },
+                  { "result": "Benny the Bigfoot", "score": 13 },
+                  { "result": "Floyd", "score": 14 }
+                ]
+              },
+              {
+                "answer": "Sad",
+                "score": [
+                  { "result": "Cam", "score": 0 },
+                  { "result": "Lola", "score": 1 },
+                  { "result": "Esmeralda", "score": 5 },
+                  { "result": "Fifi", "score": 6 },
+                  { "result": "Winston", "score": 7 },
+                  { "result": "Avery the Mallard", "score": 8 },
+                  { "result": "Leonard the Rainbow Mane Lion", "score": 9 },
+                  { "result": "Archie Axolotl", "score": 10 },
+                  { "result": "Gordon Shark", "score": 11 },
+                  { "result": "Maui the Pineapple", "score": 12 },
+                  { "result": "Benny the Bigfoot", "score": 13 },
+                  { "result": "Floyd", "score": 14 }
+                ]
+              },
+              {
+                "answer": "Mad",
+                "score": [
+                  { "result": "Cam", "score": 0 },
+                  { "result": "Lola", "score": 1 },
+                  { "result": "Esmeralda", "score": 5 },
+                  { "result": "Fifi", "score": 6 },
+                  { "result": "Winston", "score": 7 },
+                  { "result": "Avery the Mallard", "score": 8 },
+                  { "result": "Leonard the Rainbow Mane Lion", "score": 9 },
+                  { "result": "Archie Axolotl", "score": 10 },
+                  { "result": "Gordon Shark", "score": 11 },
+                  { "result": "Maui the Pineapple", "score": 12 },
+                  { "result": "Benny the Bigfoot", "score": 13 },
+                  { "result": "Floyd", "score": 14 }
+                ]
+              },
+              {
+                "answer": "Hungry",
+                "score": [
+                  { "result": "Cam", "score": 0 },
+                  { "result": "Lola", "score": 1 },
+                  { "result": "Esmeralda", "score": 5 },
+                  { "result": "Fifi", "score": 6 },
+                  { "result": "Winston", "score": 7 },
+                  { "result": "Avery the Mallard", "score": 8 },
+                  { "result": "Leonard the Rainbow Mane Lion", "score": 9 },
+                  { "result": "Archie Axolotl", "score": 10 },
+                  { "result": "Gordon Shark", "score": 11 },
+                  { "result": "Maui the Pineapple", "score": 12 },
+                  { "result": "Benny the Bigfoot", "score": 13 },
+                  { "result": "Floyd", "score": 14 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "How likely are you to help out a friend in need?",
+            "answers": [
+              {
+                "answer": "25%",
+                "score": [
+                  { "result": "Cam", "score": 0 },
+                  { "result": "Lola", "score": 1 },
+                  { "result": "Esmeralda", "score": 5 },
+                  { "result": "Fifi", "score": 6 },
+                  { "result": "Winston", "score": 7 },
+                  { "result": "Avery the Mallard", "score": 8 },
+                  { "result": "Leonard the Rainbow Mane Lion", "score": 9 },
+                  { "result": "Archie Axolotl", "score": 10 },
+                  { "result": "Gordon Shark", "score": 11 },
+                  { "result": "Maui the Pineapple", "score": 12 },
+                  { "result": "Benny the Bigfoot", "score": 13 },
+                  { "result": "Floyd", "score": 14 }
+                ]
+              },
+              {
+                "answer": "50%",
+                "score": [
+                  { "result": "Cam", "score": 0 },
+                  { "result": "Lola", "score": 1 },
+                  { "result": "Esmeralda", "score": 5 },
+                  { "result": "Fifi", "score": 6 },
+                  { "result": "Winston", "score": 7 },
+                  { "result": "Avery the Mallard", "score": 8 },
+                  { "result": "Leonard the Rainbow Mane Lion", "score": 9 },
+                  { "result": "Archie Axolotl", "score": 10 },
+                  { "result": "Gordon Shark", "score": 11 },
+                  { "result": "Maui the Pineapple", "score": 12 },
+                  { "result": "Benny the Bigfoot", "score": 13 },
+                  { "result": "Floyd", "score": 14 }
+                ]
+              },
+              {
+                "answer": "75%",
+                "score": [
+                  { "result": "Cam", "score": 0 },
+                  { "result": "Lola", "score": 1 },
+                  { "result": "Esmeralda", "score": 5 },
+                  { "result": "Fifi", "score": 6 },
+                  { "result": "Winston", "score": 7 },
+                  { "result": "Avery the Mallard", "score": 8 },
+                  { "result": "Leonard the Rainbow Mane Lion", "score": 9 },
+                  { "result": "Archie Axolotl", "score": 10 },
+                  { "result": "Gordon Shark", "score": 11 },
+                  { "result": "Maui the Pineapple", "score": 12 },
+                  { "result": "Benny the Bigfoot", "score": 13 },
+                  { "result": "Floyd", "score": 14 }
+                ]
+              },
+              {
+                "answer": "100%",
+                "score": [
+                  { "result": "Cam", "score": 0 },
+                  { "result": "Lola", "score": 1 },
+                  { "result": "Esmeralda", "score": 5 },
+                  { "result": "Fifi", "score": 6 },
+                  { "result": "Winston", "score": 7 },
+                  { "result": "Avery the Mallard", "score": 8 },
+                  { "result": "Leonard the Rainbow Mane Lion", "score": 9 },
+                  { "result": "Archie Axolotl", "score": 10 },
+                  { "result": "Gordon Shark", "score": 11 },
+                  { "result": "Maui the Pineapple", "score": 12 },
+                  { "result": "Benny the Bigfoot", "score": 13 },
+                  { "result": "Floyd", "score": 14 }
+                ]
+              },
+              {
+                "answer": "0%",
+                "score": [
+                  { "result": "Cam", "score": 0 },
+                  { "result": "Lola", "score": 1 },
+                  { "result": "Esmeralda", "score": 5 },
+                  { "result": "Fifi", "score": 6 },
+                  { "result": "Winston", "score": 7 },
+                  { "result": "Avery the Mallard", "score": 8 },
+                  { "result": "Leonard the Rainbow Mane Lion", "score": 9 },
+                  { "result": "Archie Axolotl", "score": 10 },
+                  { "result": "Gordon Shark", "score": 11 },
+                  { "result": "Maui the Pineapple", "score": 12 },
+                  { "result": "Benny the Bigfoot", "score": 13 },
+                  { "result": "Floyd", "score": 14 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "When did you get up today?",
+            "answers": [
+              {
+                "answer": "5:00AM",
+                "score": [
+                  { "result": "Cam", "score": 0 },
+                  { "result": "Lola", "score": 1 },
+                  { "result": "Esmeralda", "score": 5 },
+                  { "result": "Fifi", "score": 6 },
+                  { "result": "Winston", "score": 7 },
+                  { "result": "Avery the Mallard", "score": 8 },
+                  { "result": "Leonard the Rainbow Mane Lion", "score": 9 },
+                  { "result": "Archie Axolotl", "score": 10 },
+                  { "result": "Gordon Shark", "score": 11 },
+                  { "result": "Maui the Pineapple", "score": 12 },
+                  { "result": "Benny the Bigfoot", "score": 13 },
+                  { "result": "Floyd", "score": 14 }
+                ]
+              },
+              {
+                "answer": "7:00AM",
+                "score": [
+                  { "result": "Cam", "score": 0 },
+                  { "result": "Lola", "score": 1 },
+                  { "result": "Esmeralda", "score": 5 },
+                  { "result": "Fifi", "score": 6 },
+                  { "result": "Winston", "score": 7 },
+                  { "result": "Avery the Mallard", "score": 8 },
+                  { "result": "Leonard the Rainbow Mane Lion", "score": 9 },
+                  { "result": "Archie Axolotl", "score": 10 },
+                  { "result": "Gordon Shark", "score": 11 },
+                  { "result": "Maui the Pineapple", "score": 12 },
+                  { "result": "Benny the Bigfoot", "score": 13 },
+                  { "result": "Floyd", "score": 14 }
+                ]
+              },
+              {
+                "answer": "9:00AM",
+                "score": [
+                  { "result": "Cam", "score": 0 },
+                  { "result": "Lola", "score": 1 },
+                  { "result": "Esmeralda", "score": 5 },
+                  { "result": "Fifi", "score": 6 },
+                  { "result": "Winston", "score": 7 },
+                  { "result": "Avery the Mallard", "score": 8 },
+                  { "result": "Leonard the Rainbow Mane Lion", "score": 9 },
+                  { "result": "Archie Axolotl", "score": 10 },
+                  { "result": "Gordon Shark", "score": 11 },
+                  { "result": "Maui the Pineapple", "score": 12 },
+                  { "result": "Benny the Bigfoot", "score": 13 },
+                  { "result": "Floyd", "score": 14 }
+                ]
+              },
+              {
+                "answer": "10:00AM",
+                "score": [
+                  { "result": "Cam", "score": 0 },
+                  { "result": "Lola", "score": 1 },
+                  { "result": "Esmeralda", "score": 5 },
+                  { "result": "Fifi", "score": 6 },
+                  { "result": "Winston", "score": 7 },
+                  { "result": "Avery the Mallard", "score": 8 },
+                  { "result": "Leonard the Rainbow Mane Lion", "score": 9 },
+                  { "result": "Archie Axolotl", "score": 10 },
+                  { "result": "Gordon Shark", "score": 11 },
+                  { "result": "Maui the Pineapple", "score": 12 },
+                  { "result": "Benny the Bigfoot", "score": 13 },
+                  { "result": "Floyd", "score": 14 }
+                ]
+              },
+              {
+                "answer": "12:00PM",
+                "score": [
+                  { "result": "Cam", "score": 0 },
+                  { "result": "Lola", "score": 1 },
+                  { "result": "Esmeralda", "score": 5 },
+                  { "result": "Fifi", "score": 6 },
+                  { "result": "Winston", "score": 7 },
+                  { "result": "Avery the Mallard", "score": 8 },
+                  { "result": "Leonard the Rainbow Mane Lion", "score": 9 },
+                  { "result": "Archie Axolotl", "score": 10 },
+                  { "result": "Gordon Shark", "score": 11 },
+                  { "result": "Maui the Pineapple", "score": 12 },
+                  { "result": "Benny the Bigfoot", "score": 13 },
+                  { "result": "Floyd", "score": 14 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "Positive or Negative?",
+            "answers": [
+              {
+                "answer": "Positive",
+                "score": [
+                  { "result": "Cam", "score": 0 },
+                  { "result": "Lola", "score": 1 },
+                  { "result": "Esmeralda", "score": 5 },
+                  { "result": "Fifi", "score": 6 },
+                  { "result": "Winston", "score": 7 },
+                  { "result": "Avery the Mallard", "score": 8 },
+                  { "result": "Leonard the Rainbow Mane Lion", "score": 9 },
+                  { "result": "Archie Axolotl", "score": 10 },
+                  { "result": "Gordon Shark", "score": 11 },
+                  { "result": "Maui the Pineapple", "score": 12 },
+                  { "result": "Benny the Bigfoot", "score": 13 },
+                  { "result": "Floyd", "score": 14 }
+                ]
+              },
+              {
+                "answer": "Negative",
+                "score": [
+                  { "result": "Cam", "score": 0 },
+                  { "result": "Lola", "score": 1 },
+                  { "result": "Esmeralda", "score": 5 },
+                  { "result": "Fifi", "score": 6 },
+                  { "result": "Winston", "score": 7 },
+                  { "result": "Avery the Mallard", "score": 8 },
+                  { "result": "Leonard the Rainbow Mane Lion", "score": 9 },
+                  { "result": "Archie Axolotl", "score": 10 },
+                  { "result": "Gordon Shark", "score": 11 },
+                  { "result": "Maui the Pineapple", "score": 12 },
+                  { "result": "Benny the Bigfoot", "score": 13 },
+                  { "result": "Floyd", "score": 14 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "Is your room clean right now?",
+            "answers": [
+              {
+                "answer": "Yes",
+                "score": [
+                  { "result": "Cam", "score": 0 },
+                  { "result": "Lola", "score": 1 },
+                  { "result": "Esmeralda", "score": 5 },
+                  { "result": "Fifi", "score": 6 },
+                  { "result": "Winston", "score": 7 },
+                  { "result": "Avery the Mallard", "score": 8 },
+                  { "result": "Leonard the Rainbow Mane Lion", "score": 9 },
+                  { "result": "Archie Axolotl", "score": 10 },
+                  { "result": "Gordon Shark", "score": 11 },
+                  { "result": "Maui the Pineapple", "score": 12 },
+                  { "result": "Benny the Bigfoot", "score": 13 },
+                  { "result": "Floyd", "score": 14 }
+                ]
+              },
+              {
+                "answer": "No",
+                "score": [
+                  { "result": "Cam", "score": 0 },
+                  { "result": "Lola", "score": 1 },
+                  { "result": "Esmeralda", "score": 5 },
+                  { "result": "Fifi", "score": 6 },
+                  { "result": "Winston", "score": 7 },
+                  { "result": "Avery the Mallard", "score": 8 },
+                  { "result": "Leonard the Rainbow Mane Lion", "score": 9 },
+                  { "result": "Archie Axolotl", "score": 10 },
+                  { "result": "Gordon Shark", "score": 11 },
+                  { "result": "Maui the Pineapple", "score": 12 },
+                  { "result": "Benny the Bigfoot", "score": 13 },
+                  { "result": "Floyd", "score": 14 }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Which Disney Princess are you?",
+        "category": "Disney",
+        "questions": [
+          {
+            "question": "How are you feeling?",
+            "answers": [
+              {
+                "answer": "Good",
+                "score": [
+                  { "result": "Ariel", "score": 1 },
+                  { "result": "Tiana", "score": 2 },
+                  { "result": "Jasmine", "score": 3 },
+                  { "result": "Sleeping Beauty", "score": 4 },
+                  { "result": "Rapunzel", "score": 5 },
+                  { "result": "Belle", "score": 6 },
+                  { "result": "Merida", "score": 7 },
+                  { "result": "Mulan", "score": 8 },
+                  { "result": "Cinderella", "score": 9 },
+                  { "result": "Pocahontas", "score": 10 },
+                  { "result": "Snow White", "score": 11 },
+                  { "result": "Raya", "score": 12 },
+                  { "result": "Moana", "score": 13 }
+                ]
+              },
+              {
+                "answer": "Bad",
+                "score": [
+                  { "result": "Ariel", "score": 1 },
+                  { "result": "Tiana", "score": 2 },
+                  { "result": "Jasmine", "score": 3 },
+                  { "result": "Sleeping Beauty", "score": 4 },
+                  { "result": "Rapunzel", "score": 5 },
+                  { "result": "Belle", "score": 6 },
+                  { "result": "Merida", "score": 7 },
+                  { "result": "Mulan", "score": 8 },
+                  { "result": "Cinderella", "score": 9 },
+                  { "result": "Pocahontas", "score": 10 },
+                  { "result": "Snow White", "score": 11 },
+                  { "result": "Raya", "score": 12 },
+                  { "result": "Moana", "score": 13 }
+                ]
+              },
+              {
+                "answer": "Sad",
+                "score": [
+                  { "result": "Ariel", "score": 1 },
+                  { "result": "Tiana", "score": 2 },
+                  { "result": "Jasmine", "score": 3 },
+                  { "result": "Sleeping Beauty", "score": 4 },
+                  { "result": "Rapunzel", "score": 5 },
+                  { "result": "Belle", "score": 6 },
+                  { "result": "Merida", "score": 7 },
+                  { "result": "Mulan", "score": 8 },
+                  { "result": "Cinderella", "score": 9 },
+                  { "result": "Pocahontas", "score": 10 },
+                  { "result": "Snow White", "score": 11 },
+                  { "result": "Raya", "score": 12 },
+                  { "result": "Moana", "score": 13 }
+                ]
+              },
+              {
+                "answer": "Mad",
+                "score": [
+                  { "result": "Ariel", "score": 1 },
+                  { "result": "Tiana", "score": 2 },
+                  { "result": "Jasmine", "score": 3 },
+                  { "result": "Sleeping Beauty", "score": 4 },
+                  { "result": "Rapunzel", "score": 5 },
+                  { "result": "Belle", "score": 6 },
+                  { "result": "Merida", "score": 7 },
+                  { "result": "Mulan", "score": 8 },
+                  { "result": "Cinderella", "score": 9 },
+                  { "result": "Pocahontas", "score": 10 },
+                  { "result": "Snow White", "score": 11 },
+                  { "result": "Raya", "score": 12 },
+                  { "result": "Moana", "score": 13 }
+                ]
+              },
+              {
+                "answer": "Hungry",
+                "score": [
+                  { "result": "Ariel", "score": 1 },
+                  { "result": "Tiana", "score": 2 },
+                  { "result": "Jasmine", "score": 3 },
+                  { "result": "Sleeping Beauty", "score": 4 },
+                  { "result": "Rapunzel", "score": 5 },
+                  { "result": "Belle", "score": 6 },
+                  { "result": "Merida", "score": 7 },
+                  { "result": "Mulan", "score": 8 },
+                  { "result": "Cinderella", "score": 9 },
+                  { "result": "Pocahontas", "score": 10 },
+                  { "result": "Snow White", "score": 11 },
+                  { "result": "Raya", "score": 12 },
+                  { "result": "Moana", "score": 13 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "How likely are you to help out a friend in need?",
+            "answers": [
+              {
+                "answer": "25%",
+                "score": [
+                  { "result": "Ariel", "score": 1 },
+                  { "result": "Tiana", "score": 2 },
+                  { "result": "Jasmine", "score": 3 },
+                  { "result": "Sleeping Beauty", "score": 4 },
+                  { "result": "Rapunzel", "score": 5 },
+                  { "result": "Belle", "score": 6 },
+                  { "result": "Merida", "score": 7 },
+                  { "result": "Mulan", "score": 8 },
+                  { "result": "Cinderella", "score": 9 },
+                  { "result": "Pocahontas", "score": 10 },
+                  { "result": "Snow White", "score": 11 },
+                  { "result": "Raya", "score": 12 },
+                  { "result": "Moana", "score": 13 }
+                ]
+              },
+              {
+                "answer": "50%",
+                "score": [
+                  { "result": "Ariel", "score": 1 },
+                  { "result": "Tiana", "score": 2 },
+                  { "result": "Jasmine", "score": 3 },
+                  { "result": "Sleeping Beauty", "score": 4 },
+                  { "result": "Rapunzel", "score": 5 },
+                  { "result": "Belle", "score": 6 },
+                  { "result": "Merida", "score": 7 },
+                  { "result": "Mulan", "score": 8 },
+                  { "result": "Cinderella", "score": 9 },
+                  { "result": "Pocahontas", "score": 10 },
+                  { "result": "Snow White", "score": 11 },
+                  { "result": "Raya", "score": 12 },
+                  { "result": "Moana", "score": 13 }
+                ]
+              },
+              {
+                "answer": "75%",
+                "score": [
+                  { "result": "Ariel", "score": 1 },
+                  { "result": "Tiana", "score": 2 },
+                  { "result": "Jasmine", "score": 3 },
+                  { "result": "Sleeping Beauty", "score": 4 },
+                  { "result": "Rapunzel", "score": 5 },
+                  { "result": "Belle", "score": 6 },
+                  { "result": "Merida", "score": 7 },
+                  { "result": "Mulan", "score": 8 },
+                  { "result": "Cinderella", "score": 9 },
+                  { "result": "Pocahontas", "score": 10 },
+                  { "result": "Snow White", "score": 11 },
+                  { "result": "Raya", "score": 12 },
+                  { "result": "Moana", "score": 13 }
+                ]
+              },
+              {
+                "answer": "100%",
+                "score": [
+                  { "result": "Ariel", "score": 1 },
+                  { "result": "Tiana", "score": 2 },
+                  { "result": "Jasmine", "score": 3 },
+                  { "result": "Sleeping Beauty", "score": 4 },
+                  { "result": "Rapunzel", "score": 5 },
+                  { "result": "Belle", "score": 6 },
+                  { "result": "Merida", "score": 7 },
+                  { "result": "Mulan", "score": 8 },
+                  { "result": "Cinderella", "score": 9 },
+                  { "result": "Pocahontas", "score": 10 },
+                  { "result": "Snow White", "score": 11 },
+                  { "result": "Raya", "score": 12 },
+                  { "result": "Moana", "score": 13 }
+                ]
+              },
+              {
+                "answer": "0%",
+                "score": [
+                  { "result": "Ariel", "score": 1 },
+                  { "result": "Tiana", "score": 2 },
+                  { "result": "Jasmine", "score": 3 },
+                  { "result": "Sleeping Beauty", "score": 4 },
+                  { "result": "Rapunzel", "score": 5 },
+                  { "result": "Belle", "score": 6 },
+                  { "result": "Merida", "score": 7 },
+                  { "result": "Mulan", "score": 8 },
+                  { "result": "Cinderella", "score": 9 },
+                  { "result": "Pocahontas", "score": 10 },
+                  { "result": "Snow White", "score": 11 },
+                  { "result": "Raya", "score": 12 },
+                  { "result": "Moana", "score": 13 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "When did you get up today?",
+            "answers": [
+              {
+                "answer": "5:00AM",
+                "score": [
+                  { "result": "Ariel", "score": 1 },
+                  { "result": "Tiana", "score": 2 },
+                  { "result": "Jasmine", "score": 3 },
+                  { "result": "Sleeping Beauty", "score": 4 },
+                  { "result": "Rapunzel", "score": 5 },
+                  { "result": "Belle", "score": 6 },
+                  { "result": "Merida", "score": 7 },
+                  { "result": "Mulan", "score": 8 },
+                  { "result": "Cinderella", "score": 9 },
+                  { "result": "Pocahontas", "score": 10 },
+                  { "result": "Snow White", "score": 11 },
+                  { "result": "Raya", "score": 12 },
+                  { "result": "Moana", "score": 13 }
+                ]
+              },
+              {
+                "answer": "7:00AM",
+                "score": [
+                  { "result": "Ariel", "score": 1 },
+                  { "result": "Tiana", "score": 2 },
+                  { "result": "Jasmine", "score": 3 },
+                  { "result": "Sleeping Beauty", "score": 4 },
+                  { "result": "Rapunzel", "score": 5 },
+                  { "result": "Belle", "score": 6 },
+                  { "result": "Merida", "score": 7 },
+                  { "result": "Mulan", "score": 8 },
+                  { "result": "Cinderella", "score": 9 },
+                  { "result": "Pocahontas", "score": 10 },
+                  { "result": "Snow White", "score": 11 },
+                  { "result": "Raya", "score": 12 },
+                  { "result": "Moana", "score": 13 }
+                ]
+              },
+              {
+                "answer": "9:00AM",
+                "score": [
+                  { "result": "Ariel", "score": 1 },
+                  { "result": "Tiana", "score": 2 },
+                  { "result": "Jasmine", "score": 3 },
+                  { "result": "Sleeping Beauty", "score": 4 },
+                  { "result": "Rapunzel", "score": 5 },
+                  { "result": "Belle", "score": 6 },
+                  { "result": "Merida", "score": 7 },
+                  { "result": "Mulan", "score": 8 },
+                  { "result": "Cinderella", "score": 9 },
+                  { "result": "Pocahontas", "score": 10 },
+                  { "result": "Snow White", "score": 11 },
+                  { "result": "Raya", "score": 12 },
+                  { "result": "Moana", "score": 13 }
+                ]
+              },
+              {
+                "answer": "10:00AM",
+                "score": [
+                  { "result": "Ariel", "score": 1 },
+                  { "result": "Tiana", "score": 2 },
+                  { "result": "Jasmine", "score": 3 },
+                  { "result": "Sleeping Beauty", "score": 4 },
+                  { "result": "Rapunzel", "score": 5 },
+                  { "result": "Belle", "score": 6 },
+                  { "result": "Merida", "score": 7 },
+                  { "result": "Mulan", "score": 8 },
+                  { "result": "Cinderella", "score": 9 },
+                  { "result": "Pocahontas", "score": 10 },
+                  { "result": "Snow White", "score": 11 },
+                  { "result": "Raya", "score": 12 },
+                  { "result": "Moana", "score": 13 }
+                ]
+              },
+              {
+                "answer": "12:00PM",
+                "score": [
+                  { "result": "Ariel", "score": 1 },
+                  { "result": "Tiana", "score": 2 },
+                  { "result": "Jasmine", "score": 3 },
+                  { "result": "Sleeping Beauty", "score": 4 },
+                  { "result": "Rapunzel", "score": 5 },
+                  { "result": "Belle", "score": 6 },
+                  { "result": "Merida", "score": 7 },
+                  { "result": "Mulan", "score": 8 },
+                  { "result": "Cinderella", "score": 9 },
+                  { "result": "Pocahontas", "score": 10 },
+                  { "result": "Snow White", "score": 11 },
+                  { "result": "Raya", "score": 12 },
+                  { "result": "Moana", "score": 13 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "Positive or Negative?",
+            "answers": [
+              {
+                "answer": "Positive",
+                "score": [
+                  { "result": "Ariel", "score": 1 },
+                  { "result": "Tiana", "score": 2 },
+                  { "result": "Jasmine", "score": 3 },
+                  { "result": "Sleeping Beauty", "score": 4 },
+                  { "result": "Rapunzel", "score": 5 },
+                  { "result": "Belle", "score": 6 },
+                  { "result": "Merida", "score": 7 },
+                  { "result": "Mulan", "score": 8 },
+                  { "result": "Cinderella", "score": 9 },
+                  { "result": "Pocahontas", "score": 10 },
+                  { "result": "Snow White", "score": 11 },
+                  { "result": "Raya", "score": 12 },
+                  { "result": "Moana", "score": 13 }
+                ]
+              },
+              {
+                "answer": "Negative",
+                "score": [
+                  { "result": "Ariel", "score": 1 },
+                  { "result": "Tiana", "score": 2 },
+                  { "result": "Jasmine", "score": 3 },
+                  { "result": "Sleeping Beauty", "score": 4 },
+                  { "result": "Rapunzel", "score": 5 },
+                  { "result": "Belle", "score": 6 },
+                  { "result": "Merida", "score": 7 },
+                  { "result": "Mulan", "score": 8 },
+                  { "result": "Cinderella", "score": 9 },
+                  { "result": "Pocahontas", "score": 10 },
+                  { "result": "Snow White", "score": 11 },
+                  { "result": "Raya", "score": 12 },
+                  { "result": "Moana", "score": 13 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "Is your room clean right now?",
+            "answers": [
+              {
+                "answer": "Yes",
+                "score": [
+                  { "result": "Ariel", "score": 1 },
+                  { "result": "Tiana", "score": 2 },
+                  { "result": "Jasmine", "score": 3 },
+                  { "result": "Sleeping Beauty", "score": 4 },
+                  { "result": "Rapunzel", "score": 5 },
+                  { "result": "Belle", "score": 6 },
+                  { "result": "Merida", "score": 7 },
+                  { "result": "Mulan", "score": 8 },
+                  { "result": "Cinderella", "score": 9 },
+                  { "result": "Pocahontas", "score": 10 },
+                  { "result": "Snow White", "score": 11 },
+                  { "result": "Raya", "score": 12 },
+                  { "result": "Moana", "score": 13 }
+                ]
+              },
+              {
+                "answer": "No",
+                "score": [
+                  { "result": "Ariel", "score": 1 },
+                  { "result": "Tiana", "score": 2 },
+                  { "result": "Jasmine", "score": 3 },
+                  { "result": "Sleeping Beauty", "score": 4 },
+                  { "result": "Rapunzel", "score": 5 },
+                  { "result": "Belle", "score": 6 },
+                  { "result": "Merida", "score": 7 },
+                  { "result": "Mulan", "score": 8 },
+                  { "result": "Cinderella", "score": 9 },
+                  { "result": "Pocahontas", "score": 10 },
+                  { "result": "Snow White", "score": 11 },
+                  { "result": "Raya", "score": 12 },
+                  { "result": "Moana", "score": 13 }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Which Disney character are you?",
+        "category": "Disney",
+        "questions": [
+          {
+            "question": "How are you feeling?",
+            "answers": [
+              {
+                "answer": "Good",
+                "score": [
+                  { "result": "Tigger", "score": 1 },
+                  { "result": "Baymax", "score": 2 },
+                  { "result": "Olaf", "score": 3 },
+                  { "result": "Stitch", "score": 4 },
+                  { "result": "Tinker Bell", "score": 5 },
+                  { "result": "Cheshire Cat", "score": 6 },
+                  { "result": "Chip", "score": 7 },
+                  { "result": "Minnie Mouse", "score": 8 },
+                  { "result": "Micky Mouse", "score": 9 },
+                  { "result": "Genie", "score": 10 }
+                ]
+              },
+              {
+                "answer": "Bad",
+                "score": [
+                  { "result": "Tigger", "score": 1 },
+                  { "result": "Baymax", "score": 2 },
+                  { "result": "Olaf", "score": 3 },
+                  { "result": "Stitch", "score": 4 },
+                  { "result": "Tinker Bell", "score": 5 },
+                  { "result": "Cheshire Cat", "score": 6 },
+                  { "result": "Chip", "score": 7 },
+                  { "result": "Minnie Mouse", "score": 8 },
+                  { "result": "Micky Mouse", "score": 9 },
+                  { "result": "Genie", "score": 10 }
+                ]
+              },
+              {
+                "answer": "Sad",
+                "score": [
+                  { "result": "Tigger", "score": 1 },
+                  { "result": "Baymax", "score": 2 },
+                  { "result": "Olaf", "score": 3 },
+                  { "result": "Stitch", "score": 4 },
+                  { "result": "Tinker Bell", "score": 5 },
+                  { "result": "Cheshire Cat", "score": 6 },
+                  { "result": "Chip", "score": 7 },
+                  { "result": "Minnie Mouse", "score": 8 },
+                  { "result": "Micky Mouse", "score": 9 },
+                  { "result": "Genie", "score": 10 }
+                ]
+              },
+              {
+                "answer": "Mad",
+                "score": [
+                  { "result": "Tigger", "score": 1 },
+                  { "result": "Baymax", "score": 2 },
+                  { "result": "Olaf", "score": 3 },
+                  { "result": "Stitch", "score": 4 },
+                  { "result": "Tinker Bell", "score": 5 },
+                  { "result": "Cheshire Cat", "score": 6 },
+                  { "result": "Chip", "score": 7 },
+                  { "result": "Minnie Mouse", "score": 8 },
+                  { "result": "Micky Mouse", "score": 9 },
+                  { "result": "Genie", "score": 10 }
+                ]
+              },
+              {
+                "answer": "Hungry",
+                "score": [
+                  { "result": "Tigger", "score": 1 },
+                  { "result": "Baymax", "score": 2 },
+                  { "result": "Olaf", "score": 3 },
+                  { "result": "Stitch", "score": 4 },
+                  { "result": "Tinker Bell", "score": 5 },
+                  { "result": "Cheshire Cat", "score": 6 },
+                  { "result": "Chip", "score": 7 },
+                  { "result": "Minnie Mouse", "score": 8 },
+                  { "result": "Micky Mouse", "score": 9 },
+                  { "result": "Genie", "score": 10 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "How likely are you to help out a friend in need?",
+            "answers": [
+              {
+                "answer": "25%",
+                "score": [
+                  { "result": "Tigger", "score": 1 },
+                  { "result": "Baymax", "score": 2 },
+                  { "result": "Olaf", "score": 3 },
+                  { "result": "Stitch", "score": 4 },
+                  { "result": "Tinker Bell", "score": 5 },
+                  { "result": "Cheshire Cat", "score": 6 },
+                  { "result": "Chip", "score": 7 },
+                  { "result": "Minnie Mouse", "score": 8 },
+                  { "result": "Micky Mouse", "score": 9 },
+                  { "result": "Genie", "score": 10 }
+                ]
+              },
+              {
+                "answer": "50%",
+                "score": [
+                  { "result": "Tigger", "score": 1 },
+                  { "result": "Baymax", "score": 2 },
+                  { "result": "Olaf", "score": 3 },
+                  { "result": "Stitch", "score": 4 },
+                  { "result": "Tinker Bell", "score": 5 },
+                  { "result": "Cheshire Cat", "score": 6 },
+                  { "result": "Chip", "score": 7 },
+                  { "result": "Minnie Mouse", "score": 8 },
+                  { "result": "Micky Mouse", "score": 9 },
+                  { "result": "Genie", "score": 10 }
+                ]
+              },
+              {
+                "answer": "75%",
+                "score": [
+                  { "result": "Tigger", "score": 1 },
+                  { "result": "Baymax", "score": 2 },
+                  { "result": "Olaf", "score": 3 },
+                  { "result": "Stitch", "score": 4 },
+                  { "result": "Tinker Bell", "score": 5 },
+                  { "result": "Cheshire Cat", "score": 6 },
+                  { "result": "Chip", "score": 7 },
+                  { "result": "Minnie Mouse", "score": 8 },
+                  { "result": "Micky Mouse", "score": 9 },
+                  { "result": "Genie", "score": 10 }
+                ]
+              },
+              {
+                "answer": "100%",
+                "score": [
+                  { "result": "Tigger", "score": 1 },
+                  { "result": "Baymax", "score": 2 },
+                  { "result": "Olaf", "score": 3 },
+                  { "result": "Stitch", "score": 4 },
+                  { "result": "Tinker Bell", "score": 5 },
+                  { "result": "Cheshire Cat", "score": 6 },
+                  { "result": "Chip", "score": 7 },
+                  { "result": "Minnie Mouse", "score": 8 },
+                  { "result": "Micky Mouse", "score": 9 },
+                  { "result": "Genie", "score": 10 }
+                ]
+              },
+              {
+                "answer": "0%",
+                "score": [
+                  { "result": "Tigger", "score": 1 },
+                  { "result": "Baymax", "score": 2 },
+                  { "result": "Olaf", "score": 3 },
+                  { "result": "Stitch", "score": 4 },
+                  { "result": "Tinker Bell", "score": 5 },
+                  { "result": "Cheshire Cat", "score": 6 },
+                  { "result": "Chip", "score": 7 },
+                  { "result": "Minnie Mouse", "score": 8 },
+                  { "result": "Micky Mouse", "score": 9 },
+                  { "result": "Genie", "score": 10 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "When did you get up today?",
+            "answers": [
+              {
+                "answer": "5:00AM",
+                "score": [
+                  { "result": "Tigger", "score": 1 },
+                  { "result": "Baymax", "score": 2 },
+                  { "result": "Olaf", "score": 3 },
+                  { "result": "Stitch", "score": 4 },
+                  { "result": "Tinker Bell", "score": 5 },
+                  { "result": "Cheshire Cat", "score": 6 },
+                  { "result": "Chip", "score": 7 },
+                  { "result": "Minnie Mouse", "score": 8 },
+                  { "result": "Micky Mouse", "score": 9 },
+                  { "result": "Genie", "score": 10 }
+                ]
+              },
+              {
+                "answer": "7:00AM",
+                "score": [
+                  { "result": "Tigger", "score": 1 },
+                  { "result": "Baymax", "score": 2 },
+                  { "result": "Olaf", "score": 3 },
+                  { "result": "Stitch", "score": 4 },
+                  { "result": "Tinker Bell", "score": 5 },
+                  { "result": "Cheshire Cat", "score": 6 },
+                  { "result": "Chip", "score": 7 },
+                  { "result": "Minnie Mouse", "score": 8 },
+                  { "result": "Micky Mouse", "score": 9 },
+                  { "result": "Genie", "score": 10 }
+                ]
+              },
+              {
+                "answer": "9:00AM",
+                "score": [
+                  { "result": "Tigger", "score": 1 },
+                  { "result": "Baymax", "score": 2 },
+                  { "result": "Olaf", "score": 3 },
+                  { "result": "Stitch", "score": 4 },
+                  { "result": "Tinker Bell", "score": 5 },
+                  { "result": "Cheshire Cat", "score": 6 },
+                  { "result": "Chip", "score": 7 },
+                  { "result": "Minnie Mouse", "score": 8 },
+                  { "result": "Micky Mouse", "score": 9 },
+                  { "result": "Genie", "score": 10 }
+                ]
+              },
+              {
+                "answer": "10:00AM",
+                "score": [
+                  { "result": "Tigger", "score": 1 },
+                  { "result": "Baymax", "score": 2 },
+                  { "result": "Olaf", "score": 3 },
+                  { "result": "Stitch", "score": 4 },
+                  { "result": "Tinker Bell", "score": 5 },
+                  { "result": "Cheshire Cat", "score": 6 },
+                  { "result": "Chip", "score": 7 },
+                  { "result": "Minnie Mouse", "score": 8 },
+                  { "result": "Micky Mouse", "score": 9 },
+                  { "result": "Genie", "score": 10 }
+                ]
+              },
+              {
+                "answer": "12:00PM",
+                "score": [
+                  { "result": "Tigger", "score": 1 },
+                  { "result": "Baymax", "score": 2 },
+                  { "result": "Olaf", "score": 3 },
+                  { "result": "Stitch", "score": 4 },
+                  { "result": "Tinker Bell", "score": 5 },
+                  { "result": "Cheshire Cat", "score": 6 },
+                  { "result": "Chip", "score": 7 },
+                  { "result": "Minnie Mouse", "score": 8 },
+                  { "result": "Micky Mouse", "score": 9 },
+                  { "result": "Genie", "score": 10 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "Positive or Negative?",
+            "answers": [
+              {
+                "answer": "Positive",
+                "score": [
+                  { "result": "Tigger", "score": 1 },
+                  { "result": "Baymax", "score": 2 },
+                  { "result": "Olaf", "score": 3 },
+                  { "result": "Stitch", "score": 4 },
+                  { "result": "Tinker Bell", "score": 5 },
+                  { "result": "Cheshire Cat", "score": 6 },
+                  { "result": "Chip", "score": 7 },
+                  { "result": "Minnie Mouse", "score": 8 },
+                  { "result": "Micky Mouse", "score": 9 },
+                  { "result": "Genie", "score": 10 }
+                ]
+              },
+              {
+                "answer": "Negative",
+                "score": [
+                  { "result": "Tigger", "score": 1 },
+                  { "result": "Baymax", "score": 2 },
+                  { "result": "Olaf", "score": 3 },
+                  { "result": "Stitch", "score": 4 },
+                  { "result": "Tinker Bell", "score": 5 },
+                  { "result": "Cheshire Cat", "score": 6 },
+                  { "result": "Chip", "score": 7 },
+                  { "result": "Minnie Mouse", "score": 8 },
+                  { "result": "Micky Mouse", "score": 9 },
+                  { "result": "Genie", "score": 10 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "Is your room clean right now?",
+            "answers": [
+              {
+                "answer": "Yes",
+                "score": [
+                  { "result": "Tigger", "score": 1 },
+                  { "result": "Baymax", "score": 2 },
+                  { "result": "Olaf", "score": 3 },
+                  { "result": "Stitch", "score": 4 },
+                  { "result": "Tinker Bell", "score": 5 },
+                  { "result": "Cheshire Cat", "score": 6 },
+                  { "result": "Chip", "score": 7 },
+                  { "result": "Minnie Mouse", "score": 8 },
+                  { "result": "Micky Mouse", "score": 9 },
+                  { "result": "Genie", "score": 10 }
+                ]
+              },
+              {
+                "answer": "No",
+                "score": [
+                  { "result": "Tigger", "score": 1 },
+                  { "result": "Baymax", "score": 2 },
+                  { "result": "Olaf", "score": 3 },
+                  { "result": "Stitch", "score": 4 },
+                  { "result": "Tinker Bell", "score": 5 },
+                  { "result": "Cheshire Cat", "score": 6 },
+                  { "result": "Chip", "score": 7 },
+                  { "result": "Minnie Mouse", "score": 8 },
+                  { "result": "Micky Mouse", "score": 9 },
+                  { "result": "Genie", "score": 10 }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Which Big Bang Theory character are you?",
+        "category": "TV",
+        "questions": [
+          {
+            "question": "How are you feeling?",
+            "answers": [
+              {
+                "answer": "Good",
+                "score": [
+                  { "result": "Sheldon Cooper", "score": 1 },
+                  { "result": "Penny", "score": 2 },
+                  { "result": "Leonard Hofstadter", "score": 3 },
+                  { "result": "Howard Wolowitz", "score": 4 },
+                  { "result": "AMy Farrah Fowler", "score": 5 },
+                  { "result": "Raj Koothrappali", "score": 6 },
+                  { "result": "Bernadette Rostenkowski", "score": 7 },
+                  { "result": "Stuart Bloom", "score": 8 },
+                  { "result": "Barry Kripke", "score": 9 },
+                  { "result": "Leslie Winkle", "score": 10 }
+                ]
+              },
+              {
+                "answer": "Bad",
+                "score": [
+                  { "result": "Sheldon Cooper", "score": 1 },
+                  { "result": "Penny", "score": 2 },
+                  { "result": "Leonard Hofstadter", "score": 3 },
+                  { "result": "Howard Wolowitz", "score": 4 },
+                  { "result": "AMy Farrah Fowler", "score": 5 },
+                  { "result": "Raj Koothrappali", "score": 6 },
+                  { "result": "Bernadette Rostenkowski", "score": 7 },
+                  { "result": "Stuart Bloom", "score": 8 },
+                  { "result": "Barry Kripke", "score": 9 },
+                  { "result": "Leslie Winkle", "score": 10 }
+                ]
+              },
+              {
+                "answer": "Sad",
+                "score": [
+                  { "result": "Sheldon Cooper", "score": 1 },
+                  { "result": "Penny", "score": 2 },
+                  { "result": "Leonard Hofstadter", "score": 3 },
+                  { "result": "Howard Wolowitz", "score": 4 },
+                  { "result": "AMy Farrah Fowler", "score": 5 },
+                  { "result": "Raj Koothrappali", "score": 6 },
+                  { "result": "Bernadette Rostenkowski", "score": 7 },
+                  { "result": "Stuart Bloom", "score": 8 },
+                  { "result": "Barry Kripke", "score": 9 },
+                  { "result": "Leslie Winkle", "score": 10 }
+                ]
+              },
+              {
+                "answer": "Mad",
+                "score": [
+                  { "result": "Sheldon Cooper", "score": 1 },
+                  { "result": "Penny", "score": 2 },
+                  { "result": "Leonard Hofstadter", "score": 3 },
+                  { "result": "Howard Wolowitz", "score": 4 },
+                  { "result": "AMy Farrah Fowler", "score": 5 },
+                  { "result": "Raj Koothrappali", "score": 6 },
+                  { "result": "Bernadette Rostenkowski", "score": 7 },
+                  { "result": "Stuart Bloom", "score": 8 },
+                  { "result": "Barry Kripke", "score": 9 },
+                  { "result": "Leslie Winkle", "score": 10 }
+                ]
+              },
+              {
+                "answer": "Hungry",
+                "score": [
+                  { "result": "Sheldon Cooper", "score": 1 },
+                  { "result": "Penny", "score": 2 },
+                  { "result": "Leonard Hofstadter", "score": 3 },
+                  { "result": "Howard Wolowitz", "score": 4 },
+                  { "result": "AMy Farrah Fowler", "score": 5 },
+                  { "result": "Raj Koothrappali", "score": 6 },
+                  { "result": "Bernadette Rostenkowski", "score": 7 },
+                  { "result": "Stuart Bloom", "score": 8 },
+                  { "result": "Barry Kripke", "score": 9 },
+                  { "result": "Leslie Winkle", "score": 10 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "How likely are you to help out a friend in need?",
+            "answers": [
+              {
+                "answer": "25%",
+                "score": [
+                  { "result": "Sheldon Cooper", "score": 1 },
+                  { "result": "Penny", "score": 2 },
+                  { "result": "Leonard Hofstadter", "score": 3 },
+                  { "result": "Howard Wolowitz", "score": 4 },
+                  { "result": "AMy Farrah Fowler", "score": 5 },
+                  { "result": "Raj Koothrappali", "score": 6 },
+                  { "result": "Bernadette Rostenkowski", "score": 7 },
+                  { "result": "Stuart Bloom", "score": 8 },
+                  { "result": "Barry Kripke", "score": 9 },
+                  { "result": "Leslie Winkle", "score": 10 }
+                ]
+              },
+              {
+                "answer": "50%",
+                "score": [
+                  { "result": "Sheldon Cooper", "score": 1 },
+                  { "result": "Penny", "score": 2 },
+                  { "result": "Leonard Hofstadter", "score": 3 },
+                  { "result": "Howard Wolowitz", "score": 4 },
+                  { "result": "AMy Farrah Fowler", "score": 5 },
+                  { "result": "Raj Koothrappali", "score": 6 },
+                  { "result": "Bernadette Rostenkowski", "score": 7 },
+                  { "result": "Stuart Bloom", "score": 8 },
+                  { "result": "Barry Kripke", "score": 9 },
+                  { "result": "Leslie Winkle", "score": 10 }
+                ]
+              },
+              {
+                "answer": "75%",
+                "score": [
+                  { "result": "Sheldon Cooper", "score": 1 },
+                  { "result": "Penny", "score": 2 },
+                  { "result": "Leonard Hofstadter", "score": 3 },
+                  { "result": "Howard Wolowitz", "score": 4 },
+                  { "result": "AMy Farrah Fowler", "score": 5 },
+                  { "result": "Raj Koothrappali", "score": 6 },
+                  { "result": "Bernadette Rostenkowski", "score": 7 },
+                  { "result": "Stuart Bloom", "score": 8 },
+                  { "result": "Barry Kripke", "score": 9 },
+                  { "result": "Leslie Winkle", "score": 10 }
+                ]
+              },
+              {
+                "answer": "100%",
+                "score": [
+                  { "result": "Sheldon Cooper", "score": 1 },
+                  { "result": "Penny", "score": 2 },
+                  { "result": "Leonard Hofstadter", "score": 3 },
+                  { "result": "Howard Wolowitz", "score": 4 },
+                  { "result": "AMy Farrah Fowler", "score": 5 },
+                  { "result": "Raj Koothrappali", "score": 6 },
+                  { "result": "Bernadette Rostenkowski", "score": 7 },
+                  { "result": "Stuart Bloom", "score": 8 },
+                  { "result": "Barry Kripke", "score": 9 },
+                  { "result": "Leslie Winkle", "score": 10 }
+                ]
+              },
+              {
+                "answer": "0%",
+                "score": [
+                  { "result": "Sheldon Cooper", "score": 1 },
+                  { "result": "Penny", "score": 2 },
+                  { "result": "Leonard Hofstadter", "score": 3 },
+                  { "result": "Howard Wolowitz", "score": 4 },
+                  { "result": "AMy Farrah Fowler", "score": 5 },
+                  { "result": "Raj Koothrappali", "score": 6 },
+                  { "result": "Bernadette Rostenkowski", "score": 7 },
+                  { "result": "Stuart Bloom", "score": 8 },
+                  { "result": "Barry Kripke", "score": 9 },
+                  { "result": "Leslie Winkle", "score": 10 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "When did you get up today?",
+            "answers": [
+              {
+                "answer": "5:00AM",
+                "score": [
+                  { "result": "Sheldon Cooper", "score": 1 },
+                  { "result": "Penny", "score": 2 },
+                  { "result": "Leonard Hofstadter", "score": 3 },
+                  { "result": "Howard Wolowitz", "score": 4 },
+                  { "result": "AMy Farrah Fowler", "score": 5 },
+                  { "result": "Raj Koothrappali", "score": 6 },
+                  { "result": "Bernadette Rostenkowski", "score": 7 },
+                  { "result": "Stuart Bloom", "score": 8 },
+                  { "result": "Barry Kripke", "score": 9 },
+                  { "result": "Leslie Winkle", "score": 10 }
+                ]
+              },
+              {
+                "answer": "7:00AM",
+                "score": [
+                  { "result": "Sheldon Cooper", "score": 1 },
+                  { "result": "Penny", "score": 2 },
+                  { "result": "Leonard Hofstadter", "score": 3 },
+                  { "result": "Howard Wolowitz", "score": 4 },
+                  { "result": "AMy Farrah Fowler", "score": 5 },
+                  { "result": "Raj Koothrappali", "score": 6 },
+                  { "result": "Bernadette Rostenkowski", "score": 7 },
+                  { "result": "Stuart Bloom", "score": 8 },
+                  { "result": "Barry Kripke", "score": 9 },
+                  { "result": "Leslie Winkle", "score": 10 }
+                ]
+              },
+              {
+                "answer": "9:00AM",
+                "score": [
+                  { "result": "Sheldon Cooper", "score": 1 },
+                  { "result": "Penny", "score": 2 },
+                  { "result": "Leonard Hofstadter", "score": 3 },
+                  { "result": "Howard Wolowitz", "score": 4 },
+                  { "result": "AMy Farrah Fowler", "score": 5 },
+                  { "result": "Raj Koothrappali", "score": 6 },
+                  { "result": "Bernadette Rostenkowski", "score": 7 },
+                  { "result": "Stuart Bloom", "score": 8 },
+                  { "result": "Barry Kripke", "score": 9 },
+                  { "result": "Leslie Winkle", "score": 10 }
+                ]
+              },
+              {
+                "answer": "10:00AM",
+                "score": [
+                  { "result": "Sheldon Cooper", "score": 1 },
+                  { "result": "Penny", "score": 2 },
+                  { "result": "Leonard Hofstadter", "score": 3 },
+                  { "result": "Howard Wolowitz", "score": 4 },
+                  { "result": "AMy Farrah Fowler", "score": 5 },
+                  { "result": "Raj Koothrappali", "score": 6 },
+                  { "result": "Bernadette Rostenkowski", "score": 7 },
+                  { "result": "Stuart Bloom", "score": 8 },
+                  { "result": "Barry Kripke", "score": 9 },
+                  { "result": "Leslie Winkle", "score": 10 }
+                ]
+              },
+              {
+                "answer": "12:00PM",
+                "score": [
+                  { "result": "Sheldon Cooper", "score": 1 },
+                  { "result": "Penny", "score": 2 },
+                  { "result": "Leonard Hofstadter", "score": 3 },
+                  { "result": "Howard Wolowitz", "score": 4 },
+                  { "result": "AMy Farrah Fowler", "score": 5 },
+                  { "result": "Raj Koothrappali", "score": 6 },
+                  { "result": "Bernadette Rostenkowski", "score": 7 },
+                  { "result": "Stuart Bloom", "score": 8 },
+                  { "result": "Barry Kripke", "score": 9 },
+                  { "result": "Leslie Winkle", "score": 10 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "Positive or Negative?",
+            "answers": [
+              {
+                "answer": "Positive",
+                "score": [
+                  { "result": "Sheldon Cooper", "score": 1 },
+                  { "result": "Penny", "score": 2 },
+                  { "result": "Leonard Hofstadter", "score": 3 },
+                  { "result": "Howard Wolowitz", "score": 4 },
+                  { "result": "AMy Farrah Fowler", "score": 5 },
+                  { "result": "Raj Koothrappali", "score": 6 },
+                  { "result": "Bernadette Rostenkowski", "score": 7 },
+                  { "result": "Stuart Bloom", "score": 8 },
+                  { "result": "Barry Kripke", "score": 9 },
+                  { "result": "Leslie Winkle", "score": 10 }
+                ]
+              },
+              {
+                "answer": "Negative",
+                "score": [
+                  { "result": "Sheldon Cooper", "score": 1 },
+                  { "result": "Penny", "score": 2 },
+                  { "result": "Leonard Hofstadter", "score": 3 },
+                  { "result": "Howard Wolowitz", "score": 4 },
+                  { "result": "AMy Farrah Fowler", "score": 5 },
+                  { "result": "Raj Koothrappali", "score": 6 },
+                  { "result": "Bernadette Rostenkowski", "score": 7 },
+                  { "result": "Stuart Bloom", "score": 8 },
+                  { "result": "Barry Kripke", "score": 9 },
+                  { "result": "Leslie Winkle", "score": 10 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "Is your room clean right now?",
+            "answers": [
+              {
+                "answer": "Yes",
+                "score": [
+                  { "result": "Sheldon Cooper", "score": 1 },
+                  { "result": "Penny", "score": 2 },
+                  { "result": "Leonard Hofstadter", "score": 3 },
+                  { "result": "Howard Wolowitz", "score": 4 },
+                  { "result": "AMy Farrah Fowler", "score": 5 },
+                  { "result": "Raj Koothrappali", "score": 6 },
+                  { "result": "Bernadette Rostenkowski", "score": 7 },
+                  { "result": "Stuart Bloom", "score": 8 },
+                  { "result": "Barry Kripke", "score": 9 },
+                  { "result": "Leslie Winkle", "score": 10 }
+                ]
+              },
+              {
+                "answer": "No",
+                "score": [
+                  { "result": "Sheldon Cooper", "score": 1 },
+                  { "result": "Penny", "score": 2 },
+                  { "result": "Leonard Hofstadter", "score": 3 },
+                  { "result": "Howard Wolowitz", "score": 4 },
+                  { "result": "AMy Farrah Fowler", "score": 5 },
+                  { "result": "Raj Koothrappali", "score": 6 },
+                  { "result": "Bernadette Rostenkowski", "score": 7 },
+                  { "result": "Stuart Bloom", "score": 8 },
+                  { "result": "Barry Kripke", "score": 9 },
+                  { "result": "Leslie Winkle", "score": 10 }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Which genre are you?",
+        "category": "General",
+        "questions": [
+          {
+            "question": "How are you feeling?",
+            "answers": [
+              {
+                "answer": "Good",
+                "score": [
+                  { "result": "Action", "score": 1 },
+                  { "result": "Comedy", "score": 2 },
+                  { "result": "Horror", "score": 3 },
+                  { "result": "Fantasy", "score": 4 },
+                  { "result": "Historical", "score": 5 },
+                  { "result": "Romance", "score": 6 },
+                  { "result": "Science Fiction", "score": 7 },
+                  { "result": "Thriller", "score": 8 },
+                  { "result": "Satire", "score": 9 },
+                  { "result": "True Crime", "score": 10 },
+                  { "result": "Adventure", "score": 11 }
+                ]
+              },
+              {
+                "answer": "Bad",
+                "score": [
+                  { "result": "Action", "score": 1 },
+                  { "result": "Comedy", "score": 2 },
+                  { "result": "Horror", "score": 3 },
+                  { "result": "Fantasy", "score": 4 },
+                  { "result": "Historical", "score": 5 },
+                  { "result": "Romance", "score": 6 },
+                  { "result": "Science Fiction", "score": 7 },
+                  { "result": "Thriller", "score": 8 },
+                  { "result": "Satire", "score": 9 },
+                  { "result": "True Crime", "score": 10 },
+                  { "result": "Adventure", "score": 11 }
+                ]
+              },
+              {
+                "answer": "Sad",
+                "score": [
+                  { "result": "Action", "score": 1 },
+                  { "result": "Comedy", "score": 2 },
+                  { "result": "Horror", "score": 3 },
+                  { "result": "Fantasy", "score": 4 },
+                  { "result": "Historical", "score": 5 },
+                  { "result": "Romance", "score": 6 },
+                  { "result": "Science Fiction", "score": 7 },
+                  { "result": "Thriller", "score": 8 },
+                  { "result": "Satire", "score": 9 },
+                  { "result": "True Crime", "score": 10 },
+                  { "result": "Adventure", "score": 11 }
+                ]
+              },
+              {
+                "answer": "Mad",
+                "score": [
+                  { "result": "Action", "score": 1 },
+                  { "result": "Comedy", "score": 2 },
+                  { "result": "Horror", "score": 3 },
+                  { "result": "Fantasy", "score": 4 },
+                  { "result": "Historical", "score": 5 },
+                  { "result": "Romance", "score": 6 },
+                  { "result": "Science Fiction", "score": 7 },
+                  { "result": "Thriller", "score": 8 },
+                  { "result": "Satire", "score": 9 },
+                  { "result": "True Crime", "score": 10 },
+                  { "result": "Adventure", "score": 11 }
+                ]
+              },
+              {
+                "answer": "Hungry",
+                "score": [
+                  { "result": "Action", "score": 1 },
+                  { "result": "Comedy", "score": 2 },
+                  { "result": "Horror", "score": 3 },
+                  { "result": "Fantasy", "score": 4 },
+                  { "result": "Historical", "score": 5 },
+                  { "result": "Romance", "score": 6 },
+                  { "result": "Science Fiction", "score": 7 },
+                  { "result": "Thriller", "score": 8 },
+                  { "result": "Satire", "score": 9 },
+                  { "result": "True Crime", "score": 10 },
+                  { "result": "Adventure", "score": 11 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "How likely are you to help out a friend in need?",
+            "answers": [
+              {
+                "answer": "25%",
+                "score": [
+                  { "result": "Action", "score": 1 },
+                  { "result": "Comedy", "score": 2 },
+                  { "result": "Horror", "score": 3 },
+                  { "result": "Fantasy", "score": 4 },
+                  { "result": "Historical", "score": 5 },
+                  { "result": "Romance", "score": 6 },
+                  { "result": "Science Fiction", "score": 7 },
+                  { "result": "Thriller", "score": 8 },
+                  { "result": "Satire", "score": 9 },
+                  { "result": "True Crime", "score": 10 },
+                  { "result": "Adventure", "score": 11 }
+                ]
+              },
+              {
+                "answer": "50%",
+                "score": [
+                  { "result": "Action", "score": 1 },
+                  { "result": "Comedy", "score": 2 },
+                  { "result": "Horror", "score": 3 },
+                  { "result": "Fantasy", "score": 4 },
+                  { "result": "Historical", "score": 5 },
+                  { "result": "Romance", "score": 6 },
+                  { "result": "Science Fiction", "score": 7 },
+                  { "result": "Thriller", "score": 8 },
+                  { "result": "Satire", "score": 9 },
+                  { "result": "True Crime", "score": 10 },
+                  { "result": "Adventure", "score": 11 }
+                ]
+              },
+              {
+                "answer": "75%",
+                "score": [
+                  { "result": "Action", "score": 1 },
+                  { "result": "Comedy", "score": 2 },
+                  { "result": "Horror", "score": 3 },
+                  { "result": "Fantasy", "score": 4 },
+                  { "result": "Historical", "score": 5 },
+                  { "result": "Romance", "score": 6 },
+                  { "result": "Science Fiction", "score": 7 },
+                  { "result": "Thriller", "score": 8 },
+                  { "result": "Satire", "score": 9 },
+                  { "result": "True Crime", "score": 10 },
+                  { "result": "Adventure", "score": 11 }
+                ]
+              },
+              {
+                "answer": "100%",
+                "score": [
+                  { "result": "Action", "score": 1 },
+                  { "result": "Comedy", "score": 2 },
+                  { "result": "Horror", "score": 3 },
+                  { "result": "Fantasy", "score": 4 },
+                  { "result": "Historical", "score": 5 },
+                  { "result": "Romance", "score": 6 },
+                  { "result": "Science Fiction", "score": 7 },
+                  { "result": "Thriller", "score": 8 },
+                  { "result": "Satire", "score": 9 },
+                  { "result": "True Crime", "score": 10 },
+                  { "result": "Adventure", "score": 11 }
+                ]
+              },
+              {
+                "answer": "0%",
+                "score": [
+                  { "result": "Action", "score": 1 },
+                  { "result": "Comedy", "score": 2 },
+                  { "result": "Horror", "score": 3 },
+                  { "result": "Fantasy", "score": 4 },
+                  { "result": "Historical", "score": 5 },
+                  { "result": "Romance", "score": 6 },
+                  { "result": "Science Fiction", "score": 7 },
+                  { "result": "Thriller", "score": 8 },
+                  { "result": "Satire", "score": 9 },
+                  { "result": "True Crime", "score": 10 },
+                  { "result": "Adventure", "score": 11 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "When did you get up today?",
+            "answers": [
+              {
+                "answer": "5:00AM",
+                "score": [
+                  { "result": "Action", "score": 1 },
+                  { "result": "Comedy", "score": 2 },
+                  { "result": "Horror", "score": 3 },
+                  { "result": "Fantasy", "score": 4 },
+                  { "result": "Historical", "score": 5 },
+                  { "result": "Romance", "score": 6 },
+                  { "result": "Science Fiction", "score": 7 },
+                  { "result": "Thriller", "score": 8 },
+                  { "result": "Satire", "score": 9 },
+                  { "result": "True Crime", "score": 10 },
+                  { "result": "Adventure", "score": 11 }
+                ]
+              },
+              {
+                "answer": "7:00AM",
+                "score": [
+                  { "result": "Action", "score": 1 },
+                  { "result": "Comedy", "score": 2 },
+                  { "result": "Horror", "score": 3 },
+                  { "result": "Fantasy", "score": 4 },
+                  { "result": "Historical", "score": 5 },
+                  { "result": "Romance", "score": 6 },
+                  { "result": "Science Fiction", "score": 7 },
+                  { "result": "Thriller", "score": 8 },
+                  { "result": "Satire", "score": 9 },
+                  { "result": "True Crime", "score": 10 },
+                  { "result": "Adventure", "score": 11 }
+                ]
+              },
+              {
+                "answer": "9:00AM",
+                "score": [
+                  { "result": "Action", "score": 1 },
+                  { "result": "Comedy", "score": 2 },
+                  { "result": "Horror", "score": 3 },
+                  { "result": "Fantasy", "score": 4 },
+                  { "result": "Historical", "score": 5 },
+                  { "result": "Romance", "score": 6 },
+                  { "result": "Science Fiction", "score": 7 },
+                  { "result": "Thriller", "score": 8 },
+                  { "result": "Satire", "score": 9 },
+                  { "result": "True Crime", "score": 10 },
+                  { "result": "Adventure", "score": 11 }
+                ]
+              },
+              {
+                "answer": "10:00AM",
+                "score": [
+                  { "result": "Action", "score": 1 },
+                  { "result": "Comedy", "score": 2 },
+                  { "result": "Horror", "score": 3 },
+                  { "result": "Fantasy", "score": 4 },
+                  { "result": "Historical", "score": 5 },
+                  { "result": "Romance", "score": 6 },
+                  { "result": "Science Fiction", "score": 7 },
+                  { "result": "Thriller", "score": 8 },
+                  { "result": "Satire", "score": 9 },
+                  { "result": "True Crime", "score": 10 },
+                  { "result": "Adventure", "score": 11 }
+                ]
+              },
+              {
+                "answer": "12:00PM",
+                "score": [
+                  { "result": "Action", "score": 1 },
+                  { "result": "Comedy", "score": 2 },
+                  { "result": "Horror", "score": 3 },
+                  { "result": "Fantasy", "score": 4 },
+                  { "result": "Historical", "score": 5 },
+                  { "result": "Romance", "score": 6 },
+                  { "result": "Science Fiction", "score": 7 },
+                  { "result": "Thriller", "score": 8 },
+                  { "result": "Satire", "score": 9 },
+                  { "result": "True Crime", "score": 10 },
+                  { "result": "Adventure", "score": 11 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "Positive or Negative?",
+            "answers": [
+              {
+                "answer": "Positive",
+                "score": [
+                  { "result": "Action", "score": 1 },
+                  { "result": "Comedy", "score": 2 },
+                  { "result": "Horror", "score": 3 },
+                  { "result": "Fantasy", "score": 4 },
+                  { "result": "Historical", "score": 5 },
+                  { "result": "Romance", "score": 6 },
+                  { "result": "Science Fiction", "score": 7 },
+                  { "result": "Thriller", "score": 8 },
+                  { "result": "Satire", "score": 9 },
+                  { "result": "True Crime", "score": 10 },
+                  { "result": "Adventure", "score": 11 }
+                ]
+              },
+              {
+                "answer": "Negative",
+                "score": [
+                  { "result": "Action", "score": 1 },
+                  { "result": "Comedy", "score": 2 },
+                  { "result": "Horror", "score": 3 },
+                  { "result": "Fantasy", "score": 4 },
+                  { "result": "Historical", "score": 5 },
+                  { "result": "Romance", "score": 6 },
+                  { "result": "Science Fiction", "score": 7 },
+                  { "result": "Thriller", "score": 8 },
+                  { "result": "Satire", "score": 9 },
+                  { "result": "True Crime", "score": 10 },
+                  { "result": "Adventure", "score": 11 }
+                ]
+              }
+            ]
+          },
+          {
+            "question": "Is your room clean right now?",
+            "answers": [
+              {
+                "answer": "Yes",
+                "score": [
+                  { "result": "Action", "score": 1 },
+                  { "result": "Comedy", "score": 2 },
+                  { "result": "Horror", "score": 3 },
+                  { "result": "Fantasy", "score": 4 },
+                  { "result": "Historical", "score": 5 },
+                  { "result": "Romance", "score": 6 },
+                  { "result": "Science Fiction", "score": 7 },
+                  { "result": "Thriller", "score": 8 },
+                  { "result": "Satire", "score": 9 },
+                  { "result": "True Crime", "score": 10 },
+                  { "result": "Adventure", "score": 11 }
+                ]
+              },
+              {
+                "answer": "No",
+                "score": [
+                  { "result": "Action", "score": 1 },
+                  { "result": "Comedy", "score": 2 },
+                  { "result": "Horror", "score": 3 },
+                  { "result": "Fantasy", "score": 4 },
+                  { "result": "Historical", "score": 5 },
+                  { "result": "Romance", "score": 6 },
+                  { "result": "Science Fiction", "score": 7 },
+                  { "result": "Thriller", "score": 8 },
+                  { "result": "Satire", "score": 9 },
+                  { "result": "True Crime", "score": 10 },
+                  { "result": "Adventure", "score": 11 }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

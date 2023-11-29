@@ -8,7 +8,7 @@
 }
 
 .home-Container {
-  height: 1024px;
+  height: 4000px;
 }
 
 @media only screen and (min-width: 1400px) {
@@ -44,15 +44,16 @@ html, body {
 
 .btn2 {
   position: fixed;
-  top: 60%;
-  left: 50%;
+  top: 50%;
+  left: 45%;
   transform: translate(-50%, -50%);
+  display: block;
 }
 
 @media only screen and (min-width: 1400px) {
   .btn2 {
     position: fixed;
-    top: 60%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
@@ -60,12 +61,13 @@ html, body {
 
 .butt {
   color: white;
-  width: 45%;
+  width: 40%;
   background-color: rgb(178, 9, 167);
   border: 2px solid white;
   border-radius: 10px;
   font-weight: bold;
   transition: 0.3s;
+  margin: 55vh;
 }
 
 .butt:hover {
