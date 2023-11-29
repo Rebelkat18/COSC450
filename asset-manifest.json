@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/COSC450/static/css/main.03fa58da.css",
-    "main.js": "/COSC450/static/js/main.fc2571b0.js",
+    "main.css": "/COSC450/static/css/main.5e419fcf.css",
+    "main.js": "/COSC450/static/js/main.2c0543f6.js",
     "static/media/Kat.png": "/COSC450/static/media/Kat.e5b6a7457b7cebb299b9.png",
     "static/media/Robin.jpg": "/COSC450/static/media/Robin.45914499fc564e7cbfdb.jpg",
     "static/media/204.jpg": "/COSC450/static/media/204.c9a3ef0beba902d7282f.jpg",
     "static/media/brickwall.jpg": "/COSC450/static/media/brickwall.44fc921c321615f4a5f1.jpg",
     "index.html": "/COSC450/index.html",
-    "main.03fa58da.css.map": "/COSC450/static/css/main.03fa58da.css.map",
-    "main.fc2571b0.js.map": "/COSC450/static/js/main.fc2571b0.js.map"
+    "main.5e419fcf.css.map": "/COSC450/static/css/main.5e419fcf.css.map",
+    "main.2c0543f6.js.map": "/COSC450/static/js/main.2c0543f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.03fa58da.css",
-    "static/js/main.fc2571b0.js"
+    "static/css/main.5e419fcf.css",
+    "static/js/main.2c0543f6.js"
   ]
 }
