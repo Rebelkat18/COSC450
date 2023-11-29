@@ -33,7 +33,8 @@ function Home(props) {
         </nav>
       </header>
 
-      <ButtonGroup className="btn2">
+      <ButtonGroup className="btn-group">
+      <div class="btn-group-vertical">
         <button className="butt" onClick={() => set(0)}>
           {" "}
           Which color are you? {" "}
@@ -42,14 +43,19 @@ function Home(props) {
           {" "}
           Which day of the week are you? {" "}
         </button>
-        <button className="butt" onClick={() => set(9)}>
+        <button className="butt" onClick={() => set(4)}>
           {" "}
           Which Friend are you? {" "}
         </button>
-        <button className="butt" onClick={() => set(15)}>
+        <button className="butt" onClick={() => set(5)}>
+          {" "}
+          Which programming language are you? {" "}
+        </button>
+        <button className="butt" onClick={() => set(8)}>
           {" "}
           Which video game are you? {" "}
         </button>
+        </div>
       </ButtonGroup>
 
       <div>
