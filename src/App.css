@@ -24,12 +24,12 @@ header {
   position: fixed;
   top: 0;
   left: 0;
-  width: 100%;
+  width: 100vw;
   padding: 25px 100px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  z-index: 99;
+  z-index: 1;
 }
 
 /* The button appearance when hovered over. */
@@ -63,3 +63,18 @@ header > h1:hover {
     text-shadow: 0 0 10px #f98aff, 0 0 20px #f98aff, 0 0 40px #f98aff,
       0 0 80px #f98aff, 0 0 120px #f98aff;
   }  
+
+/* For Mobile Devices. */
+
+@media only screen and (max-width: 610px) {
+  header {
+    flex-direction: column;
+    padding: 40px 0px; 
+  }
+}
+
+/* Small screens and laptops. */
+
+@media only screen and (max-width: 1024px) and (max-height: 1180px) {
+ 
+}

@@ -39,7 +39,7 @@ function Results() {
 
 
   return (
-    <div className="container">
+    <div className="results-Con">
       <header>
         <h1>Quiz City</h1>
         <nav className="Navpage">

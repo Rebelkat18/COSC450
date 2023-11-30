@@ -3,6 +3,11 @@
     position: relative;
     top: 300px;
   }
+
+  .results-Con{
+    height: 100vh;
+  }
+
   button {
     background: purple;
     width: 10%;
