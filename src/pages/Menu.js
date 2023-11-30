@@ -22,7 +22,7 @@ const Menu = (props) => {
   }
 
   return (
-    <div className="container">
+    <div className="Menu-container">
       <header>
         <h1>Quiz City</h1>
         <nav className="Navpage">
@@ -48,3 +48,4 @@ const Menu = (props) => {
 };
 
 export default Menu;
+export var value;

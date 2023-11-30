@@ -2,11 +2,11 @@
   position: relative;
   
 }
-.container {
+.Menu-container {
   min-height: 1024px;
 }
 
-.container > header{
+.Menu-container > header{
   position: absolute;
 }  
 
