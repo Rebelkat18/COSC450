@@ -10,9 +10,10 @@ function Quizzes(props) {
   // console.log(data);
 
   return (
-    <div className="container">
+    <div className="quiz-Con">
       <header>
         <h1 className="Logo">Quiz City</h1>
+        <p> (for a school project) </p>
         <nav className="Navpage">
         <Link to="/COSC450/" onClick={() => reset(props)}>Home</Link>
           <Link to="/COSC450/about" onClick={() => reset(props)}>About</Link>

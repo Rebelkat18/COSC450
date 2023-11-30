@@ -23,9 +23,10 @@ const Menu = (props) => {
   }
 
   return (
-    <div className="container">
+    <div className="menu-Con">
       <header>
         <h1>Quiz City</h1>
+        <p> (for a school project) </p>
         <nav className="Navpage">
           <Link to="/COSC450/">Home</Link>
           <Link to="/COSC450/about">About</Link>
