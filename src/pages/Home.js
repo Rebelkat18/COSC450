@@ -22,11 +22,11 @@ function Home(props) {
   }
 
   return (
-    <div className="home-Container">
+    <div className="home-Con">
       <header>
         <h1>Quiz City</h1>
         <p> (for a school project) </p>
-        <nav className="Navpage">
+        <nav>
           <Link to="/COSC450/" onClick={() => reset(props)}>Home</Link>
           <Link to="/COSC450/about" onClick={() => reset(props)}>About</Link>
           <Link to="/COSC450/menu" onClick={() => reset(props)}>Quizzes</Link>
