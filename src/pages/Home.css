@@ -7,16 +7,6 @@
   font-family: "Poppins";
 }
 
-.home-Container {
-  height: 1024px;
-}
-
-@media only screen and (min-width: 1400px) {
-  .home-Container {
-    height: 1900px;
-  }
-}
-
 /* To fix image background */
 html, body {
   background-color: #fff;
@@ -44,28 +34,31 @@ html, body {
 
 .btn2 {
   position: fixed;
-  top: 60%;
-  left: 50%;
+  top: 400vh;
+  left: 45%;
   transform: translate(-50%, -50%);
+  display: block;
+  margin-bottom: 90vh;
 }
 
 @media only screen and (min-width: 1400px) {
   .btn2 {
     position: fixed;
-    top: 60%;
-    left: 50%;
+    left: 42.5%;
     transform: translate(-50%, -50%);
+    margin-bottom: 100vh;
   }
 }
 
 .butt {
   color: white;
-  width: 45%;
+  width: 40%;
   background-color: rgb(178, 9, 167);
   border: 2px solid white;
   border-radius: 10px;
   font-weight: bold;
   transition: 0.3s;
+  margin: 55vh;
 }
 
 .butt:hover {

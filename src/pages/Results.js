@@ -41,6 +41,11 @@ function Results() {
           {" "}
           Home{" "}
         </button>
+        <button className="submit" onClick={() => alert("Email Your Results")}>
+          {" "}
+          Email Your Results{" "}
+        </button>
+        {/* gonna use emailjs to send results to email */}
       </div>
     </div>
   );
