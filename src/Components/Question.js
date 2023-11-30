@@ -21,7 +21,7 @@ function Question(props) {
   return (
     <div>
       <h2> {props.question} </h2>
-      <ButtonGroup className="btn">
+      <ButtonGroup className="btn3">
         {choice.map((answer, index) => (
           <ToggleButton
             key={index}

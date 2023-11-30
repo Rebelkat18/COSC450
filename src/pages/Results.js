@@ -17,25 +17,28 @@ function Results() {
   var change = document.querySelector('body');
   let pics = ["Ross.jpg"];
 
-    //sort total for highest score
+  //sort total for highest score
   let sorted = total.sort((a, b) => (a.score < b.score ? 1 : -1));
   let result = sorted[0].result;
   console.log(total);
   colors = [sorted[0].result];
   names = [sorted[0].result]
-  
-  switch(value){
+
+  switch (value) {
     case data.Quizzes[9]:
-      setInterval(() =>
-      {change.style.background = colors[active];
-      active++;});
+      setInterval(() => {
+        change.style.background = colors[active];
+        active++;
+      });
       break;
     case data.Quizzes[0]:
-      if(names === "Ross Gellar"){
-      document.body.style.backgroundImage = "url('" + pics[0] + "')"; 
+      if (names === "Ross Gellar") {
+        document.body.style.backgroundImage = "url('" + pics[0] + "')";
       }
       break;
-}  
+    default:
+      break;
+  }
 
 
   return (
@@ -51,14 +54,16 @@ function Results() {
       <div className="Main">
         <h1> Your Results... </h1>
         <p> {result} </p>
-        <button className="submit" onClick={() =>{nav("/COSC450/"); document.querySelector('body').style.background = "";}}>
+        <button className="submit2" onClick={() => { nav("/COSC450/"); document.querySelector('body').style.background = ""; }}>
           {" "}
           Home{" "}
         </button>
-        <button className="submit" onClick={() => alert("Email Your Results")}>
+        <div>
+        <button className="submit2" onClick={() => alert("Email Your Results")}>
           {" "}
           Email Your Results{" "}
         </button>
+        </div>
         {/* gonna use emailjs to send results to email */}
       </div>
     </div>

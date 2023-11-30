@@ -1,4 +1,4 @@
-.btn {
+.btn3 {
   --bs-btn-bg: rgb(178, 9, 167);
   --bs-btn-border-color: none;
   --bs-btn-hover-bg: rgb(178, 9, 167);
@@ -7,6 +7,14 @@
   margin: 1%;
   width: 55%;
 }
-.btn :hover {
+.btn3 :hover {
   --bs-btn-bg: rgb(95, 2, 95);
+}
+
+/* For Mobile Devices. */
+@media only screen and (max-width: 610px) {
+  .btn3 {
+    display: block;
+    width: 100%;
+  }
 }

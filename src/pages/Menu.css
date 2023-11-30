@@ -1,9 +1,8 @@
 .Main {
   position: relative;
-  
 }
 .Menu-container {
-  min-height: 1024px;
+  min-height: 100vh;
 }
 
 .Menu-container > header{
@@ -11,11 +10,11 @@
 }  
 
 .btn-group-vertical{
-  top: 250px;
+  top: 150px;
   position: relative;
   justify-content: center;
   align-items: center;
-  gap: 10px;
+  gap: 15px;
 }
 
 .btn-group-vertical .btn.btn-primary:hover{
