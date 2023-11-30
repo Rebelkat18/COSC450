@@ -2,7 +2,6 @@ import "./Menu.css";
 import { Link } from "react-router-dom";
 import data from "../data.json";
 import "bootstrap/dist/css/bootstrap.min.css";
-import ButtonGroup from "react-bootstrap/ButtonGroup";
 import ToggleButton from "react-bootstrap/ToggleButton";
 import reset from "../Components/Reset";
 import { useNavigate } from "react-router-dom";
@@ -23,7 +22,7 @@ const Menu = (props) => {
   }
 
   return (
-    <div className="menu-Con">
+    <div className="Menu-container">
       <header>
         <h1>Quiz City</h1>
         <p> (for a school project) </p>
@@ -34,7 +33,6 @@ const Menu = (props) => {
         </nav>
       </header>
       <div className="Main">
-      <ButtonGroup className="btn">
         <div class="btn-group-vertical">
         {choice.map((answer, index) => (
           <ToggleButton
@@ -45,10 +43,10 @@ const Menu = (props) => {
           </ToggleButton>
         ))}
         </div>
-      </ButtonGroup>
       </div>
     </div>
   );
 };
 
 export default Menu;
+export var value;

@@ -1,43 +1,93 @@
 .Main {
-    text-align: center;
-    position: relative;
-    top: 300px;
+  text-align: center;
+  position: relative;
+  top: 300px;
+}
+
+.results-Con {
+  height: 100vh;
+}
+
+button {
+  background: purple;
+  width: 10%;
+  height: 50px;
+  margin: 1%;
+  transition: 0.3s;
+}
+
+.submit2 {
+  color: white;
+  border: none;
+  background: rgb(178, 9, 167);
+  width: 15%;
+  margin-top: 1%;
+}
+
+.Main p {
+  margin: auto;
+  color: black;
+  font-weight: bold;
+  background-color: rgb(234, 175, 238);
+  width: 15%;
+  padding: 20px;
+  border: 5px solid black;
+  text-align: center;
+  animation: fadein 3s ease;
+}
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 100%;
+  }
+}
+
+.Main h1 {
+  -webkit-text-fill-color: aliceblue;
+  -webkit-text-stroke: 0.8px black;
+}
+
+/* Large screens and laptops. */
+@media only screen and (min-width: 1400px) {
+  .Main p {
+    width: 30%;
+    font-size: 1.5em;
+    margin-top: 1%;
   }
 
-  .results-Con{
-    height: 100vh;
+  .submit2 {
+    width: 30%;
+    margin-top: 1%;
+  }
+}
+
+/* Small screens and laptops. */
+@media only screen and (max-width: 1024px) and (max-height: 1180px) {
+  .Main p {
+    width: 50%;
+    font-size: 1.2em;
+    margin-top: 3%;
   }
 
-  button {
-    background: purple;
-    width: 10%;
-    height: 50px;
-    margin: 1%;
-    transition: .3s;
+  .submit2 {
+    width: 50%;
+    margin-top: 3%;
+  }
+}
+
+/* For Mobile Devices. */
+@media only screen and (max-width: 610px) {
+  .Main p {
+    width: 50%;
+    font-size: 1.2em;
+    margin-top: 5%;
   }
 
- .Main p{
-    margin: auto;
-    color: black;
-    font-weight: bold;
-    background-color: rgb(234, 175, 238);
-    width: 15%;
-    padding: 20px;
-    border: 5px solid black;
-    text-align: center;
-    animation: fadein 3s ease;
+  .submit2 {
+    width: 50%;
+    margin-top: 5%;
   }
-
-  @keyframes fadein {
-    from{
-      opacity: 0;
-    }
-    to{
-      opacity: 100%;
-    }
-  }
-
-  .Main h1 {
-    -webkit-text-fill-color: aliceblue;
-    -webkit-text-stroke: .8px black;
-  }
+}

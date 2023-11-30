@@ -24,3 +24,17 @@
   margin-bottom: 5%;
   text-decoration: underline;
 }
+
+/* For Mobile Devices. */
+@media only screen and (max-width: 610px) {
+  .submit{
+    width: 30%;
+    position: fixed;
+    top: 110%;
+    left: 35%;
+  }
+
+  .qq-container{
+    padding: 5%;
+   }
+}

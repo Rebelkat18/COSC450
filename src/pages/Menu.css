@@ -1,9 +1,22 @@
 .Main {
-    text-align: center;
-    position: relative;
-    top: 300px;
-    
-  }
-  .menu-Con {
-    height: 100vh;
-  }
+  position: relative;
+}
+.Menu-container {
+  min-height: 100vh;
+}
+
+.Menu-container > header{
+  position: absolute;
+}  
+
+.btn-group-vertical{
+  top: 150px;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.btn-group-vertical .btn.btn-primary:hover{
+  background-color: rgb(191, 87, 170);
+}
