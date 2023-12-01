@@ -38,7 +38,7 @@ const Menu = (props) => {
         </nav>
       </header>
       <div className="Main">
-        <div class="btn-group-vertical">
+        <div className="btn-group-vertical">
         {choice.map((answer, index) => (
           <ToggleButton
             key={index}
