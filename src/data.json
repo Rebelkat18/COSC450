@@ -580,316 +580,7 @@
       "category": "General",
       "questions": [
         {
-          "question": "How are you feeling?",
-          "answers": [
-            {
-              "answer": "Good",
-              "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
-              ]
-            },
-            {
-              "answer": "Bad",
-              "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
-              ]
-            },
-            {
-              "answer": "Sad",
-              "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
-              ]
-            },
-            {
-              "answer": "Mad",
-              "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
-              ]
-            },
-            {
-              "answer": "Hungry",
-              "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
-              ]
-            }
-          ]
-        },
-        {
-          "question": "How likely are you to help out a friend in need?",
-          "answers": [
-            {
-              "answer": "0%",
-              "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
-              ]
-            },
-            {
-              "answer": "25%",
-              "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
-              ]
-            },
-            {
-              "answer": "50%",
-              "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
-              ]
-            },
-            {
-              "answer": "75%",
-              "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
-              ]
-            },
-            {
-              "answer": "100%",
-              "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
-              ]
-            }
-          ]
-        },
-        {
-          "question": "When did you get up today?",
-          "answers": [
-            {
-              "answer": "5:00AM",
-              "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
-              ]
-            },
-            {
-              "answer": "7:00AM",
-              "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
-              ]
-            },
-            {
-              "answer": "9:00AM",
-              "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
-              ]
-            },
-            {
-              "answer": "10:00AM",
-              "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
-              ]
-            },
-            {
-              "answer": "12:00PM",
-              "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
-              ]
-            }
-          ]
-        },
-        {
-          "question": "Positive or Negative?",
-          "answers": [
-            {
-              "answer": "Positive",
-              "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
-              ]
-            },
-            {
-              "answer": "Negative",
-              "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
-              ]
-            }
-          ]
-        },
-        {
-          "question": "Is your room clean right now?",
+          "question": "Are you often cold?",
           "answers": [
             {
               "answer": "Yes",
@@ -910,6 +601,281 @@
             },
             {
               "answer": "No",
+              "score": [
+                { "result": "January", "score": 0 },
+                { "result": "Feburary", "score": 1 },
+                { "result": "March", "score": 2 },
+                { "result": "April", "score": 3 },
+                { "result": "May", "score": 4 },
+                { "result": "June", "score": 5 },
+                { "result": "July", "score": 6 },
+                { "result": "August", "score": 7 },
+                { "result": "September", "score": 8 },
+                { "result": "October", "score": 9 },
+                { "result": "November", "score": 10 },
+                { "result": "December", "score": 11 }
+              ]
+            },
+            {
+              "answer": "Sometimes",
+              "score": [
+                { "result": "January", "score": 0 },
+                { "result": "Feburary", "score": 1 },
+                { "result": "March", "score": 2 },
+                { "result": "April", "score": 3 },
+                { "result": "May", "score": 4 },
+                { "result": "June", "score": 5 },
+                { "result": "July", "score": 6 },
+                { "result": "August", "score": 7 },
+                { "result": "September", "score": 8 },
+                { "result": "October", "score": 9 },
+                { "result": "November", "score": 10 },
+                { "result": "December", "score": 11 }
+              ]
+            }
+          ]
+        },
+        {
+          "question": "Would you say you are a creative person?",
+          "answers": [
+            {
+              "answer": "Yes, I create things all the time!",
+              "score": [
+                { "result": "January", "score": 0 },
+                { "result": "Feburary", "score": 1 },
+                { "result": "March", "score": 2 },
+                { "result": "April", "score": 3 },
+                { "result": "May", "score": 4 },
+                { "result": "June", "score": 5 },
+                { "result": "July", "score": 6 },
+                { "result": "August", "score": 7 },
+                { "result": "September", "score": 8 },
+                { "result": "October", "score": 9 },
+                { "result": "November", "score": 10 },
+                { "result": "December", "score": 11 }
+              ]
+            },
+            {
+              "answer": "No, I am not creative at all.",
+              "score": [
+                { "result": "January", "score": 0 },
+                { "result": "Feburary", "score": 1 },
+                { "result": "March", "score": 2 },
+                { "result": "April", "score": 3 },
+                { "result": "May", "score": 4 },
+                { "result": "June", "score": 5 },
+                { "result": "July", "score": 6 },
+                { "result": "August", "score": 7 },
+                { "result": "September", "score": 8 },
+                { "result": "October", "score": 9 },
+                { "result": "November", "score": 10 },
+                { "result": "December", "score": 11 }
+              ]
+            },
+            {
+              "answer": "Sometimes.",
+              "score": [
+                { "result": "January", "score": 0 },
+                { "result": "Feburary", "score": 1 },
+                { "result": "March", "score": 2 },
+                { "result": "April", "score": 3 },
+                { "result": "May", "score": 4 },
+                { "result": "June", "score": 5 },
+                { "result": "July", "score": 6 },
+                { "result": "August", "score": 7 },
+                { "result": "September", "score": 8 },
+                { "result": "October", "score": 9 },
+                { "result": "November", "score": 10 },
+                { "result": "December", "score": 11 }
+              ]
+            }
+          ]
+        },
+        {
+          "question": "Do you like to garden?",
+          "answers": [
+            {
+              "answer": "Yes, I have a green thumb!",
+              "score": [
+                { "result": "January", "score": 0 },
+                { "result": "Feburary", "score": 1 },
+                { "result": "March", "score": 2 },
+                { "result": "April", "score": 3 },
+                { "result": "May", "score": 4 },
+                { "result": "June", "score": 5 },
+                { "result": "July", "score": 6 },
+                { "result": "August", "score": 7 },
+                { "result": "September", "score": 8 },
+                { "result": "October", "score": 9 },
+                { "result": "November", "score": 10 },
+                { "result": "December", "score": 11 }
+              ]
+            },
+            {
+              "answer": "No, I can't keep a plant alive to save my life.",
+              "score": [
+                { "result": "January", "score": 0 },
+                { "result": "Feburary", "score": 1 },
+                { "result": "March", "score": 2 },
+                { "result": "April", "score": 3 },
+                { "result": "May", "score": 4 },
+                { "result": "June", "score": 5 },
+                { "result": "July", "score": 6 },
+                { "result": "August", "score": 7 },
+                { "result": "September", "score": 8 },
+                { "result": "October", "score": 9 },
+                { "result": "November", "score": 10 },
+                { "result": "December", "score": 11 }
+              ]
+            },
+            {
+              "answer": "Sometimes",
+              "score": [
+                { "result": "January", "score": 0 },
+                { "result": "Feburary", "score": 1 },
+                { "result": "March", "score": 2 },
+                { "result": "April", "score": 3 },
+                { "result": "May", "score": 4 },
+                { "result": "June", "score": 5 },
+                { "result": "July", "score": 6 },
+                { "result": "August", "score": 7 },
+                { "result": "September", "score": 8 },
+                { "result": "October", "score": 9 },
+                { "result": "November", "score": 10 },
+                { "result": "December", "score": 11 }
+              ]
+            }
+          ]
+        },
+        {
+          "question": "Which one is equal to \"you are\" ?",
+          "answers": [
+            {
+              "answer": "your",
+              "score": [
+                { "result": "January", "score": 0 },
+                { "result": "Feburary", "score": 1 },
+                { "result": "March", "score": 2 },
+                { "result": "April", "score": 3 },
+                { "result": "May", "score": 4 },
+                { "result": "June", "score": 5 },
+                { "result": "July", "score": 6 },
+                { "result": "August", "score": 7 },
+                { "result": "September", "score": 8 },
+                { "result": "October", "score": 9 },
+                { "result": "November", "score": 10 },
+                { "result": "December", "score": 11 }
+              ]
+            },
+            {
+              "answer": "youre",
+              "score": [
+                { "result": "January", "score": 0 },
+                { "result": "Feburary", "score": 1 },
+                { "result": "March", "score": 2 },
+                { "result": "April", "score": 3 },
+                { "result": "May", "score": 4 },
+                { "result": "June", "score": 5 },
+                { "result": "July", "score": 6 },
+                { "result": "August", "score": 7 },
+                { "result": "September", "score": 8 },
+                { "result": "October", "score": 9 },
+                { "result": "November", "score": 10 },
+                { "result": "December", "score": 11 }
+              ]
+            },
+            {
+              "answer": "you're",
+              "score": [
+                { "result": "January", "score": 0 },
+                { "result": "Feburary", "score": 1 },
+                { "result": "March", "score": 2 },
+                { "result": "April", "score": 3 },
+                { "result": "May", "score": 4 },
+                { "result": "June", "score": 5 },
+                { "result": "July", "score": 6 },
+                { "result": "August", "score": 7 },
+                { "result": "September", "score": 8 },
+                { "result": "October", "score": 9 },
+                { "result": "November", "score": 10 },
+                { "result": "December", "score": 11 }
+              ]
+            },
+            {
+              "answer": "you",
+              "score": [
+                { "result": "January", "score": 0 },
+                { "result": "Feburary", "score": 1 },
+                { "result": "March", "score": 2 },
+                { "result": "April", "score": 3 },
+                { "result": "May", "score": 4 },
+                { "result": "June", "score": 5 },
+                { "result": "July", "score": 6 },
+                { "result": "August", "score": 7 },
+                { "result": "September", "score": 8 },
+                { "result": "October", "score": 9 },
+                { "result": "November", "score": 10 },
+                { "result": "December", "score": 11 }
+              ]
+            },
+            {
+              "answer": "york",
+              "score": [
+                { "result": "January", "score": 0 },
+                { "result": "Feburary", "score": 1 },
+                { "result": "March", "score": 2 },
+                { "result": "April", "score": 3 },
+                { "result": "May", "score": 4 },
+                { "result": "June", "score": 5 },
+                { "result": "July", "score": 6 },
+                { "result": "August", "score": 7 },
+                { "result": "September", "score": 8 },
+                { "result": "October", "score": 9 },
+                { "result": "November", "score": 10 },
+                { "result": "December", "score": 11 }
+              ]
+            }
+          ]
+        },
+        {
+          "question": "If you have somewhere to be, do you...",
+          "answers": [
+            {
+              "answer": "Arrive early",
+              "score": [
+                { "result": "January", "score": 0 },
+                { "result": "Feburary", "score": 1 },
+                { "result": "March", "score": 2 },
+                { "result": "April", "score": 3 },
+                { "result": "May", "score": 4 },
+                { "result": "June", "score": 5 },
+                { "result": "July", "score": 6 },
+                { "result": "August", "score": 7 },
+                { "result": "September", "score": 8 },
+                { "result": "October", "score": 9 },
+                { "result": "November", "score": 10 },
+                { "result": "December", "score": 11 }
+              ]
+            },
+            {
+              "answer": "Arrive on time",
+              "score": [
+                { "result": "January", "score": 0 },
+                { "result": "Feburary", "score": 1 },
+                { "result": "March", "score": 2 },
+                { "result": "April", "score": 3 },
+                { "result": "May", "score": 4 },
+                { "result": "June", "score": 5 },
+                { "result": "July", "score": 6 },
+                { "result": "August", "score": 7 },
+                { "result": "September", "score": 8 },
+                { "result": "October", "score": 9 },
+                { "result": "November", "score": 10 },
+                { "result": "December", "score": 11 }
+              ]
+            },
+            {
+              "answer": "Arrive late",
               "score": [
                 { "result": "January", "score": 0 },
                 { "result": "Feburary", "score": 1 },
@@ -934,310 +900,202 @@
       "category": "General",
       "questions": [
         {
-          "question": "How are you feeling?",
-          "answers": [
-            {
-              "answer": "Good",
-              "score": [
-                { "result": "Mewtwo", "score": 0 },
-                { "result": "Pikachu", "score": 1 },
-                { "result": "Lucario", "score": 2 },
-                { "result": "Eevee", "score": 3 },
-                { "result": "Squirtle", "score": 4 },
-                { "result": "Jigglypuff", "score": 5 },
-                { "result": "Snorlax", "score": 6 },
-                { "result": "Charizard", "score": 7 },
-                { "result": "Gangar", "score": 8 },
-                { "result": "Dragonite", "score": 9 }
-              ]
-            },
-            {
-              "answer": "Bad",
-              "score": [
-                { "result": "Mewtwo", "score": 0 },
-                { "result": "Pikachu", "score": 1 },
-                { "result": "Lucario", "score": 2 },
-                { "result": "Eevee", "score": 3 },
-                { "result": "Squirtle", "score": 4 },
-                { "result": "Jigglypuff", "score": 5 },
-                { "result": "Snorlax", "score": 6 },
-                { "result": "Charizard", "score": 7 },
-                { "result": "Gangar", "score": 8 },
-                { "result": "Dragonite", "score": 9 }
-              ]
-            },
-            {
-              "answer": "Sad",
-              "score": [
-                { "result": "Mewtwo", "score": 0 },
-                { "result": "Pikachu", "score": 1 },
-                { "result": "Lucario", "score": 2 },
-                { "result": "Eevee", "score": 3 },
-                { "result": "Squirtle", "score": 4 },
-                { "result": "Jigglypuff", "score": 5 },
-                { "result": "Snorlax", "score": 6 },
-                { "result": "Charizard", "score": 7 },
-                { "result": "Gangar", "score": 8 },
-                { "result": "Dragonite", "score": 9 }
-              ]
-            },
-            {
-              "answer": "Mad",
-              "score": [
-                { "result": "Mewtwo", "score": 0 },
-                { "result": "Pikachu", "score": 1 },
-                { "result": "Lucario", "score": 2 },
-                { "result": "Eevee", "score": 3 },
-                { "result": "Squirtle", "score": 4 },
-                { "result": "Jigglypuff", "score": 5 },
-                { "result": "Snorlax", "score": 6 },
-                { "result": "Charizard", "score": 7 },
-                { "result": "Gangar", "score": 8 },
-                { "result": "Dragonite", "score": 9 }
-              ]
-            },
-            {
-              "answer": "Hungry",
-              "score": [
-                { "result": "Mewtwo", "score": 0 },
-                { "result": "Pikachu", "score": 1 },
-                { "result": "Lucario", "score": 2 },
-                { "result": "Eevee", "score": 3 },
-                { "result": "Squirtle", "score": 4 },
-                { "result": "Jigglypuff", "score": 5 },
-                { "result": "Snorlax", "score": 6 },
-                { "result": "Charizard", "score": 7 },
-                { "result": "Gangar", "score": 8 },
-                { "result": "Dragonite", "score": 9 }
-              ]
-            }
-          ]
-        },
-        {
-          "question": "How likely are you to help out a friend in need?",
-          "answers": [
-            {
-              "answer": "25%",
-              "score": [
-                { "result": "Mewtwo", "score": 0 },
-                { "result": "Pikachu", "score": 1 },
-                { "result": "Lucario", "score": 2 },
-                { "result": "Eevee", "score": 3 },
-                { "result": "Squirtle", "score": 4 },
-                { "result": "Jigglypuff", "score": 5 },
-                { "result": "Snorlax", "score": 6 },
-                { "result": "Charizard", "score": 7 },
-                { "result": "Gangar", "score": 8 },
-                { "result": "Dragonite", "score": 9 }
-              ]
-            },
-            {
-              "answer": "50%",
-              "score": [
-                { "result": "Mewtwo", "score": 0 },
-                { "result": "Pikachu", "score": 1 },
-                { "result": "Lucario", "score": 2 },
-                { "result": "Eevee", "score": 3 },
-                { "result": "Squirtle", "score": 4 },
-                { "result": "Jigglypuff", "score": 5 },
-                { "result": "Snorlax", "score": 6 },
-                { "result": "Charizard", "score": 7 },
-                { "result": "Gangar", "score": 8 },
-                { "result": "Dragonite", "score": 9 }
-              ]
-            },
-            {
-              "answer": "75%",
-              "score": [
-                { "result": "Mewtwo", "score": 0 },
-                { "result": "Pikachu", "score": 1 },
-                { "result": "Lucario", "score": 2 },
-                { "result": "Eevee", "score": 3 },
-                { "result": "Squirtle", "score": 4 },
-                { "result": "Jigglypuff", "score": 5 },
-                { "result": "Snorlax", "score": 6 },
-                { "result": "Charizard", "score": 7 },
-                { "result": "Gangar", "score": 8 },
-                { "result": "Dragonite", "score": 9 }
-              ]
-            },
-            {
-              "answer": "100%",
-              "score": [
-                { "result": "Mewtwo", "score": 0 },
-                { "result": "Pikachu", "score": 1 },
-                { "result": "Lucario", "score": 2 },
-                { "result": "Eevee", "score": 3 },
-                { "result": "Squirtle", "score": 4 },
-                { "result": "Jigglypuff", "score": 5 },
-                { "result": "Snorlax", "score": 6 },
-                { "result": "Charizard", "score": 7 },
-                { "result": "Gangar", "score": 8 },
-                { "result": "Dragonite", "score": 9 }
-              ]
-            },
-            {
-              "answer": "0%",
-              "score": [
-                { "result": "Mewtwo", "score": 0 },
-                { "result": "Pikachu", "score": 1 },
-                { "result": "Lucario", "score": 2 },
-                { "result": "Eevee", "score": 3 },
-                { "result": "Squirtle", "score": 4 },
-                { "result": "Jigglypuff", "score": 5 },
-                { "result": "Snorlax", "score": 6 },
-                { "result": "Charizard", "score": 7 },
-                { "result": "Gangar", "score": 8 },
-                { "result": "Dragonite", "score": 9 }
-              ]
-            }
-          ]
-        },
-        {
-          "question": "When did you get up today?",
-          "answers": [
-            {
-              "answer": "5:00AM",
-              "score": [
-                { "result": "Mewtwo", "score": 0 },
-                { "result": "Pikachu", "score": 1 },
-                { "result": "Lucario", "score": 2 },
-                { "result": "Eevee", "score": 3 },
-                { "result": "Squirtle", "score": 4 },
-                { "result": "Jigglypuff", "score": 5 },
-                { "result": "Snorlax", "score": 6 },
-                { "result": "Charizard", "score": 7 },
-                { "result": "Gangar", "score": 8 },
-                { "result": "Dragonite", "score": 9 }
-              ]
-            },
-            {
-              "answer": "7:00AM",
-              "score": [
-                { "result": "Mewtwo", "score": 0 },
-                { "result": "Pikachu", "score": 1 },
-                { "result": "Lucario", "score": 2 },
-                { "result": "Eevee", "score": 3 },
-                { "result": "Squirtle", "score": 4 },
-                { "result": "Jigglypuff", "score": 5 },
-                { "result": "Snorlax", "score": 6 },
-                { "result": "Charizard", "score": 7 },
-                { "result": "Gangar", "score": 8 },
-                { "result": "Dragonite", "score": 9 }
-              ]
-            },
-            {
-              "answer": "9:00AM",
-              "score": [
-                { "result": "Mewtwo", "score": 0 },
-                { "result": "Pikachu", "score": 1 },
-                { "result": "Lucario", "score": 2 },
-                { "result": "Eevee", "score": 3 },
-                { "result": "Squirtle", "score": 4 },
-                { "result": "Jigglypuff", "score": 5 },
-                { "result": "Snorlax", "score": 6 },
-                { "result": "Charizard", "score": 7 },
-                { "result": "Gangar", "score": 8 },
-                { "result": "Dragonite", "score": 9 }
-              ]
-            },
-            {
-              "answer": "10:00AM",
-              "score": [
-                { "result": "Mewtwo", "score": 0 },
-                { "result": "Pikachu", "score": 1 },
-                { "result": "Lucario", "score": 2 },
-                { "result": "Eevee", "score": 3 },
-                { "result": "Squirtle", "score": 4 },
-                { "result": "Jigglypuff", "score": 5 },
-                { "result": "Snorlax", "score": 6 },
-                { "result": "Charizard", "score": 7 },
-                { "result": "Gangar", "score": 8 },
-                { "result": "Dragonite", "score": 9 }
-              ]
-            },
-            {
-              "answer": "12:00PM",
-              "score": [
-                { "result": "Mewtwo", "score": 0 },
-                { "result": "Pikachu", "score": 1 },
-                { "result": "Lucario", "score": 2 },
-                { "result": "Eevee", "score": 3 },
-                { "result": "Squirtle", "score": 4 },
-                { "result": "Jigglypuff", "score": 5 },
-                { "result": "Snorlax", "score": 6 },
-                { "result": "Charizard", "score": 7 },
-                { "result": "Gangar", "score": 8 },
-                { "result": "Dragonite", "score": 9 }
-              ]
-            }
-          ]
-        },
-        {
-          "question": "Positive or Negative?",
-          "answers": [
-            {
-              "answer": "Positive",
-              "score": [
-                { "result": "Mewtwo", "score": 0 },
-                { "result": "Pikachu", "score": 1 },
-                { "result": "Lucario", "score": 2 },
-                { "result": "Eevee", "score": 3 },
-                { "result": "Squirtle", "score": 4 },
-                { "result": "Jigglypuff", "score": 5 },
-                { "result": "Snorlax", "score": 6 },
-                { "result": "Charizard", "score": 7 },
-                { "result": "Gangar", "score": 8 },
-                { "result": "Dragonite", "score": 9 }
-              ]
-            },
-            {
-              "answer": "Negative",
-              "score": [
-                { "result": "Mewtwo", "score": 0 },
-                { "result": "Pikachu", "score": 1 },
-                { "result": "Lucario", "score": 2 },
-                { "result": "Eevee", "score": 3 },
-                { "result": "Squirtle", "score": 4 },
-                { "result": "Jigglypuff", "score": 5 },
-                { "result": "Snorlax", "score": 6 },
-                { "result": "Charizard", "score": 7 },
-                { "result": "Gangar", "score": 8 },
-                { "result": "Dragonite", "score": 9 }
-              ]
-            }
-          ]
-        },
-        {
-          "question": "Is your room clean right now?",
+          "question": "Do you like to swim?",
           "answers": [
             {
               "answer": "Yes",
               "score": [
-                { "result": "Mewtwo", "score": 0 },
-                { "result": "Pikachu", "score": 1 },
-                { "result": "Lucario", "score": 2 },
-                { "result": "Eevee", "score": 3 },
-                { "result": "Squirtle", "score": 4 },
-                { "result": "Jigglypuff", "score": 5 },
+                { "result": "Mewtwo", "score": 4 },
+                { "result": "Pikachu", "score": 3 },
+                { "result": "Bulbasaur", "score": 8 },
+                { "result": "Eevee", "score": 7 },
+                { "result": "Squirtle", "score": 9 },
                 { "result": "Snorlax", "score": 6 },
-                { "result": "Charizard", "score": 7 },
-                { "result": "Gangar", "score": 8 },
-                { "result": "Dragonite", "score": 9 }
+                { "result": "Charizard", "score": 1 },
+                { "result": "Gangar", "score": 5 },
+                { "result": "Dragonite", "score": 2 }
               ]
             },
             {
               "answer": "No",
               "score": [
-                { "result": "Mewtwo", "score": 0 },
-                { "result": "Pikachu", "score": 1 },
-                { "result": "Lucario", "score": 2 },
+                { "result": "Mewtwo", "score": 6 },
+                { "result": "Pikachu", "score": 7 },
+                { "result": "Bulbasaur", "score": 2 },
                 { "result": "Eevee", "score": 3 },
-                { "result": "Squirtle", "score": 4 },
-                { "result": "Jigglypuff", "score": 5 },
-                { "result": "Snorlax", "score": 6 },
+                { "result": "Squirtle", "score": 1 },
+                { "result": "Snorlax", "score": 4 },
+                { "result": "Charizard", "score": 9 },
+                { "result": "Gangar", "score": 5 },
+                { "result": "Dragonite", "score": 8 }
+              ]
+            },
+            {
+              "answer": "Sometimes",
+              "score": [
+                { "result": "Mewtwo", "score": 7 },
+                { "result": "Pikachu", "score": 2 },
+                { "result": "Bulbasaur", "score": 4 },
+                { "result": "Eevee", "score": 6 },
+                { "result": "Squirtle", "score": 5 },
+                { "result": "Snorlax", "score": 8 },
+                { "result": "Charizard", "score": 1 },
+                { "result": "Gangar", "score": 9 },
+                { "result": "Dragonite", "score": 3 }
+              ]
+            }
+          ]
+        },
+        {
+          "question": "Do you have a lot of energy?",
+          "answers": [
+            {
+              "answer": "TONS!",
+              "score": [
+                { "result": "Mewtwo", "score": 4 },
+                { "result": "Pikachu", "score": 9 },
+                { "result": "Bulbasaur", "score": 3 },
+                { "result": "Eevee", "score": 5 },
+                { "result": "Squirtle", "score": 2 },
+                { "result": "Snorlax", "score": 1 },
+                { "result": "Charizard", "score": 8 },
+                { "result": "Gangar", "score": 6 },
+                { "result": "Dragonite", "score": 7 }
+              ]
+            },
+            {
+              "answer": "A little",
+              "score": [
+                { "result": "Mewtwo", "score": 7 },
+                { "result": "Pikachu", "score": 2 },
+                { "result": "Bulbasaur", "score": 4 },
+                { "result": "Eevee", "score": 9 },
+                { "result": "Squirtle", "score": 8 },
+                { "result": "Snorlax", "score": 1 },
+                { "result": "Charizard", "score": 5 },
+                { "result": "Gangar", "score": 6 },
+                { "result": "Dragonite", "score": 3 }
+              ]
+            },
+            {
+              "answer": "zzz",
+              "score": [
+                { "result": "Mewtwo", "score": 6 },
+                { "result": "Pikachu", "score": 1 },
+                { "result": "Bulbasaur", "score": 7 },
+                { "result": "Eevee", "score": 5 },
+                { "result": "Squirtle", "score": 8 },
+                { "result": "Snorlax", "score": 9 },
+                { "result": "Charizard", "score": 2 },
+                { "result": "Gangar", "score": 4 },
+                { "result": "Dragonite", "score": 3 }
+              ]
+            }
+          ]
+        },
+        {
+          "question": "Are you strong?",
+          "answers": [
+            {
+              "answer": "Yes",
+              "score": [
+                { "result": "Mewtwo", "score": 9 },
+                { "result": "Pikachu", "score": 6 },
+                { "result": "Bulbasaur", "score": 2 },
+                { "result": "Eevee", "score": 3 },
+                { "result": "Squirtle", "score": 1 },
+                { "result": "Snorlax", "score": 5 },
                 { "result": "Charizard", "score": 7 },
+                { "result": "Gangar", "score": 4 },
+                { "result": "Dragonite", "score": 8 }
+              ]
+            },
+            {
+              "answer": "Not really",
+              "score": [
+                { "result": "Mewtwo", "score": 1 },
+                { "result": "Pikachu", "score": 4 },
+                { "result": "Bulbasaur", "score": 8 },
+                { "result": "Eevee", "score": 7 },
+                { "result": "Squirtle", "score": 9 },
+                { "result": "Snorlax", "score": 5 },
+                { "result": "Charizard", "score": 3 },
+                { "result": "Gangar", "score": 6 },
+                { "result": "Dragonite", "score": 2 }
+              ]
+            }
+          ]
+        },
+        {
+          "question": "Which size shirt do you wear?",
+          "answers": [
+            {
+              "answer": "Extra Small",
+              "score": [
+                { "result": "Mewtwo", "score": 8 },
+                { "result": "Pikachu", "score": 2 },
+                { "result": "Bulbasaur", "score": 3 },
+                { "result": "Eevee", "score": 1 },
+                { "result": "Squirtle", "score": 6 },
+                { "result": "Snorlax", "score": 7 },
+                { "result": "Charizard", "score": 5 },
+                { "result": "Gangar", "score": 4 },
+                { "result": "Dragonite", "score": 9 }
+              ]
+            },
+            {
+              "answer": "Small",
+              "score": [
+                { "result": "Mewtwo", "score": 2 },
+                { "result": "Pikachu", "score": 7 },
+                { "result": "Bulbasaur", "score": 9 },
+                { "result": "Eevee", "score": 6 },
+                { "result": "Squirtle", "score": 4 },
+                { "result": "Snorlax", "score": 3 },
+                { "result": "Charizard", "score": 5 },
                 { "result": "Gangar", "score": 8 },
+                { "result": "Dragonite", "score": 1 }
+              ]
+            },
+            {
+              "answer": "Medium",
+              "score": [
+                { "result": "Mewtwo", "score": 2 },
+                { "result": "Pikachu", "score": 5 },
+                { "result": "Bulbasaur", "score": 7 },
+                { "result": "Eevee", "score": 3 },
+                { "result": "Squirtle", "score": 6 },
+                { "result": "Snorlax", "score": 4 },
+                { "result": "Charizard", "score": 8 },
+                { "result": "Gangar", "score": 9 },
+                { "result": "Dragonite", "score": 1 }
+              ]
+            },
+            {
+              "answer": "Large",
+              "score": [
+                { "result": "Mewtwo", "score": 5 },
+                { "result": "Pikachu", "score": 1 },
+                { "result": "Bulbasaur", "score": 3 },
+                { "result": "Eevee", "score": 2 },
+                { "result": "Squirtle", "score": 7 },
+                { "result": "Snorlax", "score": 9 },
+                { "result": "Charizard", "score": 8 },
+                { "result": "Gangar", "score": 4 },
+                { "result": "Dragonite", "score": 6 }
+              ]
+            },
+            {
+              "answer": "Extra Large",
+              "score": [
+                { "result": "Mewtwo", "score": 8 },
+                { "result": "Pikachu", "score": 2 },
+                { "result": "Bulbasaur", "score": 3 },
+                { "result": "Eevee", "score": 1 },
+                { "result": "Squirtle", "score": 6 },
+                { "result": "Snorlax", "score": 7 },
+                { "result": "Charizard", "score": 5 },
+                { "result": "Gangar", "score": 4 },
                 { "result": "Dragonite", "score": 9 }
               ]
             }
@@ -1681,10 +1539,10 @@
       "category": "Computer Science",
       "questions": [
         {
-          "question": "How are you feeling?",
+          "question": "Do you know how to get places without directions?",
           "answers": [
             {
-              "answer": "Good",
+              "answer": "Yes, I can find my way.",
               "score": [
                 { "result": "Array", "score": 1 },
                 { "result": "Stack", "score": 2 },
@@ -1693,13 +1551,11 @@
                 { "result": "Tree", "score": 5 },
                 { "result": "Graph", "score": 6 },
                 { "result": "Hash Map", "score": 7 },
-                { "result": "Matrix", "score": 8 },
-                { "result": "Tuple", "score": 9 },
-                { "result": "Dictionary", "score": 10 }
+                { "result": "Heap", "score": 8 }
               ]
             },
             {
-              "answer": "Bad",
+              "answer": "No, I'll get lost immediately.",
               "score": [
                 { "result": "Array", "score": 1 },
                 { "result": "Stack", "score": 2 },
@@ -1708,13 +1564,11 @@
                 { "result": "Tree", "score": 5 },
                 { "result": "Graph", "score": 6 },
                 { "result": "Hash Map", "score": 7 },
-                { "result": "Matrix", "score": 8 },
-                { "result": "Tuple", "score": 9 },
-                { "result": "Dictionary", "score": 10 }
+                { "result": "Heap", "score": 8 }
               ]
             },
             {
-              "answer": "Sad",
+              "answer": "Depends on the place.",
               "score": [
                 { "result": "Array", "score": 1 },
                 { "result": "Stack", "score": 2 },
@@ -1723,48 +1577,16 @@
                 { "result": "Tree", "score": 5 },
                 { "result": "Graph", "score": 6 },
                 { "result": "Hash Map", "score": 7 },
-                { "result": "Matrix", "score": 8 },
-                { "result": "Tuple", "score": 9 },
-                { "result": "Dictionary", "score": 10 }
-              ]
-            },
-            {
-              "answer": "Mad",
-              "score": [
-                { "result": "Array", "score": 1 },
-                { "result": "Stack", "score": 2 },
-                { "result": "Linked-List", "score": 3 },
-                { "result": "Queue", "score": 4 },
-                { "result": "Tree", "score": 5 },
-                { "result": "Graph", "score": 6 },
-                { "result": "Hash Map", "score": 7 },
-                { "result": "Matrix", "score": 8 },
-                { "result": "Tuple", "score": 9 },
-                { "result": "Dictionary", "score": 10 }
-              ]
-            },
-            {
-              "answer": "Hungry",
-              "score": [
-                { "result": "Array", "score": 1 },
-                { "result": "Stack", "score": 2 },
-                { "result": "Linked-List", "score": 3 },
-                { "result": "Queue", "score": 4 },
-                { "result": "Tree", "score": 5 },
-                { "result": "Graph", "score": 6 },
-                { "result": "Hash Map", "score": 7 },
-                { "result": "Matrix", "score": 8 },
-                { "result": "Tuple", "score": 9 },
-                { "result": "Dictionary", "score": 10 }
+                { "result": "Heap", "score": 8 }
               ]
             }
           ]
         },
         {
-          "question": "How likely are you to help out a friend in need?",
+          "question": "Are you good at trivia?",
           "answers": [
             {
-              "answer": "25%",
+              "answer": "Yes, I know everything.",
               "score": [
                 { "result": "Array", "score": 1 },
                 { "result": "Stack", "score": 2 },
@@ -1773,13 +1595,11 @@
                 { "result": "Tree", "score": 5 },
                 { "result": "Graph", "score": 6 },
                 { "result": "Hash Map", "score": 7 },
-                { "result": "Matrix", "score": 8 },
-                { "result": "Tuple", "score": 9 },
-                { "result": "Dictionary", "score": 10 }
+                { "result": "Heap", "score": 8 }
               ]
             },
             {
-              "answer": "50%",
+              "answer": "Depends on the topic.",
               "score": [
                 { "result": "Array", "score": 1 },
                 { "result": "Stack", "score": 2 },
@@ -1788,13 +1608,11 @@
                 { "result": "Tree", "score": 5 },
                 { "result": "Graph", "score": 6 },
                 { "result": "Hash Map", "score": 7 },
-                { "result": "Matrix", "score": 8 },
-                { "result": "Tuple", "score": 9 },
-                { "result": "Dictionary", "score": 10 }
+                { "result": "Heap", "score": 8 }
               ]
             },
             {
-              "answer": "75%",
+              "answer": "Not really.",
               "score": [
                 { "result": "Array", "score": 1 },
                 { "result": "Stack", "score": 2 },
@@ -1803,48 +1621,16 @@
                 { "result": "Tree", "score": 5 },
                 { "result": "Graph", "score": 6 },
                 { "result": "Hash Map", "score": 7 },
-                { "result": "Matrix", "score": 8 },
-                { "result": "Tuple", "score": 9 },
-                { "result": "Dictionary", "score": 10 }
-              ]
-            },
-            {
-              "answer": "100%",
-              "score": [
-                { "result": "Array", "score": 1 },
-                { "result": "Stack", "score": 2 },
-                { "result": "Linked-List", "score": 3 },
-                { "result": "Queue", "score": 4 },
-                { "result": "Tree", "score": 5 },
-                { "result": "Graph", "score": 6 },
-                { "result": "Hash Map", "score": 7 },
-                { "result": "Matrix", "score": 8 },
-                { "result": "Tuple", "score": 9 },
-                { "result": "Dictionary", "score": 10 }
-              ]
-            },
-            {
-              "answer": "0%",
-              "score": [
-                { "result": "Array", "score": 1 },
-                { "result": "Stack", "score": 2 },
-                { "result": "Linked-List", "score": 3 },
-                { "result": "Queue", "score": 4 },
-                { "result": "Tree", "score": 5 },
-                { "result": "Graph", "score": 6 },
-                { "result": "Hash Map", "score": 7 },
-                { "result": "Matrix", "score": 8 },
-                { "result": "Tuple", "score": 9 },
-                { "result": "Dictionary", "score": 10 }
+                { "result": "Heap", "score": 8 }
               ]
             }
           ]
         },
         {
-          "question": "When did you get up today?",
+          "question": "Are you fast?",
           "answers": [
             {
-              "answer": "5:00AM",
+              "answer": "Super fast. Zoom!",
               "score": [
                 { "result": "Array", "score": 1 },
                 { "result": "Stack", "score": 2 },
@@ -1853,13 +1639,11 @@
                 { "result": "Tree", "score": 5 },
                 { "result": "Graph", "score": 6 },
                 { "result": "Hash Map", "score": 7 },
-                { "result": "Matrix", "score": 8 },
-                { "result": "Tuple", "score": 9 },
-                { "result": "Dictionary", "score": 10 }
+                { "result": "Heap", "score": 8 }
               ]
             },
             {
-              "answer": "7:00AM",
+              "answer": "I'm pretty average speed-wise.",
               "score": [
                 { "result": "Array", "score": 1 },
                 { "result": "Stack", "score": 2 },
@@ -1868,13 +1652,11 @@
                 { "result": "Tree", "score": 5 },
                 { "result": "Graph", "score": 6 },
                 { "result": "Hash Map", "score": 7 },
-                { "result": "Matrix", "score": 8 },
-                { "result": "Tuple", "score": 9 },
-                { "result": "Dictionary", "score": 10 }
+                { "result": "Heap", "score": 8 }
               ]
             },
             {
-              "answer": "9:00AM",
+              "answer": "Slow and steady wins the race.",
               "score": [
                 { "result": "Array", "score": 1 },
                 { "result": "Stack", "score": 2 },
@@ -1883,48 +1665,16 @@
                 { "result": "Tree", "score": 5 },
                 { "result": "Graph", "score": 6 },
                 { "result": "Hash Map", "score": 7 },
-                { "result": "Matrix", "score": 8 },
-                { "result": "Tuple", "score": 9 },
-                { "result": "Dictionary", "score": 10 }
-              ]
-            },
-            {
-              "answer": "10:00AM",
-              "score": [
-                { "result": "Array", "score": 1 },
-                { "result": "Stack", "score": 2 },
-                { "result": "Linked-List", "score": 3 },
-                { "result": "Queue", "score": 4 },
-                { "result": "Tree", "score": 5 },
-                { "result": "Graph", "score": 6 },
-                { "result": "Hash Map", "score": 7 },
-                { "result": "Matrix", "score": 8 },
-                { "result": "Tuple", "score": 9 },
-                { "result": "Dictionary", "score": 10 }
-              ]
-            },
-            {
-              "answer": "12:00PM",
-              "score": [
-                { "result": "Array", "score": 1 },
-                { "result": "Stack", "score": 2 },
-                { "result": "Linked-List", "score": 3 },
-                { "result": "Queue", "score": 4 },
-                { "result": "Tree", "score": 5 },
-                { "result": "Graph", "score": 6 },
-                { "result": "Hash Map", "score": 7 },
-                { "result": "Matrix", "score": 8 },
-                { "result": "Tuple", "score": 9 },
-                { "result": "Dictionary", "score": 10 }
+                { "result": "Heap", "score": 8 }
               ]
             }
           ]
         },
         {
-          "question": "Positive or Negative?",
+          "question": "Can you alphabetize things without singing the alphabet over and over?",
           "answers": [
             {
-              "answer": "Positive",
+              "answer": "Yes, I can alphabetize things easily.",
               "score": [
                 { "result": "Array", "score": 1 },
                 { "result": "Stack", "score": 2 },
@@ -1933,13 +1683,11 @@
                 { "result": "Tree", "score": 5 },
                 { "result": "Graph", "score": 6 },
                 { "result": "Hash Map", "score": 7 },
-                { "result": "Matrix", "score": 8 },
-                { "result": "Tuple", "score": 9 },
-                { "result": "Dictionary", "score": 10 }
+                { "result": "Heap", "score": 8 }
               ]
             },
             {
-              "answer": "Negative",
+              "answer": "A, B, C, D, E, F, G...",
               "score": [
                 { "result": "Array", "score": 1 },
                 { "result": "Stack", "score": 2 },
@@ -1948,9 +1696,7 @@
                 { "result": "Tree", "score": 5 },
                 { "result": "Graph", "score": 6 },
                 { "result": "Hash Map", "score": 7 },
-                { "result": "Matrix", "score": 8 },
-                { "result": "Tuple", "score": 9 },
-                { "result": "Dictionary", "score": 10 }
+                { "result": "Heap", "score": 8 }
               ]
             }
           ]
@@ -1968,9 +1714,7 @@
                 { "result": "Tree", "score": 5 },
                 { "result": "Graph", "score": 6 },
                 { "result": "Hash Map", "score": 7 },
-                { "result": "Matrix", "score": 8 },
-                { "result": "Tuple", "score": 9 },
-                { "result": "Dictionary", "score": 10 }
+                { "result": "Heap", "score": 8 }
               ]
             },
             {
@@ -1983,9 +1727,7 @@
                 { "result": "Tree", "score": 5 },
                 { "result": "Graph", "score": 6 },
                 { "result": "Hash Map", "score": 7 },
-                { "result": "Matrix", "score": 8 },
-                { "result": "Tuple", "score": 9 },
-                { "result": "Dictionary", "score": 10 }
+                { "result": "Heap", "score": 8 }
               ]
             }
           ]
