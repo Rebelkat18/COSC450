@@ -585,52 +585,52 @@
             {
               "answer": "Yes",
               "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
+                { "result": "January", "score": 12 },
+                { "result": "Feburary", "score": 11 },
+                { "result": "March", "score": 9 },
+                { "result": "April", "score": 7 },
+                { "result": "May", "score": 5 },
+                { "result": "June", "score": 3 },
+                { "result": "July", "score": 1 },
+                { "result": "August", "score": 2 },
+                { "result": "September", "score": 4 },
+                { "result": "October", "score": 6 },
+                { "result": "November", "score": 8 },
+                { "result": "December", "score": 10 }
               ]
             },
             {
               "answer": "No",
               "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
+                { "result": "January", "score": 1 },
+                { "result": "Feburary", "score": 2 },
+                { "result": "March", "score": 4 },
+                { "result": "April", "score": 6 },
+                { "result": "May", "score": 8 },
+                { "result": "June", "score": 10 },
+                { "result": "July", "score": 12 },
+                { "result": "August", "score": 11 },
+                { "result": "September", "score": 9 },
+                { "result": "October", "score": 7 },
+                { "result": "November", "score": 5 },
+                { "result": "December", "score": 3 }
               ]
             },
             {
               "answer": "Sometimes",
               "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
+                { "result": "January", "score": 1 },
+                { "result": "Feburary", "score": 2 },
+                { "result": "March", "score": 4 },
+                { "result": "April", "score": 12 },
+                { "result": "May", "score": 9 },
+                { "result": "June", "score": 7 },
+                { "result": "July", "score": 5 },
+                { "result": "August", "score": 6 },
                 { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
+                { "result": "October", "score": 11 },
                 { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
+                { "result": "December", "score": 3 }
               ]
             }
           ]
@@ -641,52 +641,52 @@
             {
               "answer": "Yes, I create things all the time!",
               "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
+                { "result": "January", "score": 8 },
+                { "result": "Feburary", "score": 12 },
+                { "result": "March", "score": 11 },
+                { "result": "April", "score": 1 },
+                { "result": "May", "score": 10 },
+                { "result": "June", "score": 9 },
+                { "result": "July", "score": 4 },
+                { "result": "August", "score": 3 },
+                { "result": "September", "score": 2 },
+                { "result": "October", "score": 7 },
+                { "result": "November", "score": 6 },
+                { "result": "December", "score": 5 }
               ]
             },
             {
               "answer": "No, I am not creative at all.",
               "score": [
-                { "result": "January", "score": 0 },
+                { "result": "January", "score": 5 },
                 { "result": "Feburary", "score": 1 },
                 { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
+                { "result": "April", "score": 12 },
+                { "result": "May", "score": 3 },
+                { "result": "June", "score": 4 },
+                { "result": "July", "score": 9 },
+                { "result": "August", "score": 10 },
+                { "result": "September", "score": 11 },
+                { "result": "October", "score": 6 },
+                { "result": "November", "score": 7 },
+                { "result": "December", "score": 8 }
               ]
             },
             {
               "answer": "Sometimes.",
               "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
+                { "result": "January", "score": 10 },
+                { "result": "Feburary", "score": 2 },
+                { "result": "March", "score": 4 },
+                { "result": "April", "score": 1 },
+                { "result": "May", "score": 6 },
+                { "result": "June", "score": 8 },
+                { "result": "July", "score": 7 },
+                { "result": "August", "score": 5 },
+                { "result": "September", "score": 3 },
+                { "result": "October", "score": 12 },
+                { "result": "November", "score": 11 },
+                { "result": "December", "score": 9 }
               ]
             }
           ]
@@ -697,52 +697,52 @@
             {
               "answer": "Yes, I have a green thumb!",
               "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
+                { "result": "January", "score": 2 },
+                { "result": "Feburary", "score": 9 },
+                { "result": "March", "score": 10 },
+                { "result": "April", "score": 8 },
+                { "result": "May", "score": 7 },
+                { "result": "June", "score": 12 },
+                { "result": "July", "score": 11 },
+                { "result": "August", "score": 6 },
+                { "result": "September", "score": 3 },
+                { "result": "October", "score": 5 },
+                { "result": "November", "score": 4 },
+                { "result": "December", "score": 1 }
               ]
             },
             {
               "answer": "No, I can't keep a plant alive to save my life.",
               "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
+                { "result": "January", "score": 11 },
+                { "result": "Feburary", "score": 4 },
+                { "result": "March", "score": 3 },
+                { "result": "April", "score": 5 },
+                { "result": "May", "score": 6 },
+                { "result": "June", "score": 1 },
+                { "result": "July", "score": 2 },
                 { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
+                { "result": "September", "score": 10 },
+                { "result": "October", "score": 8 },
+                { "result": "November", "score": 9 },
+                { "result": "December", "score": 12 }
               ]
             },
             {
               "answer": "Sometimes",
               "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
+                { "result": "January", "score": 3 },
+                { "result": "Feburary", "score": 8 },
+                { "result": "March", "score": 6 },
+                { "result": "April", "score": 10 },
+                { "result": "May", "score": 12 },
+                { "result": "June", "score": 2 },
+                { "result": "July", "score": 4 },
+                { "result": "August", "score": 11 },
+                { "result": "September", "score": 5 },
                 { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
+                { "result": "November", "score": 7 },
+                { "result": "December", "score": 1 }
               ]
             }
           ]
@@ -753,86 +753,86 @@
             {
               "answer": "your",
               "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
+                { "result": "January", "score": 4 },
+                { "result": "Feburary", "score": 3 },
+                { "result": "March", "score": 7 },
+                { "result": "April", "score": 12 },
+                { "result": "May", "score": 10 },
+                { "result": "June", "score": 9 },
+                { "result": "July", "score": 8 },
+                { "result": "August", "score": 2 },
+                { "result": "September", "score": 1 },
+                { "result": "October", "score": 11 },
+                { "result": "November", "score": 5 },
+                { "result": "December", "score": 6 }
               ]
             },
             {
               "answer": "youre",
               "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
+                { "result": "January", "score": 12 },
+                { "result": "Feburary", "score": 11 },
                 { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
+                { "result": "April", "score": 5 },
+                { "result": "May", "score": 6 },
+                { "result": "June", "score": 3 },
+                { "result": "July", "score": 9 },
+                { "result": "August", "score": 8 },
+                { "result": "September", "score": 7 },
+                { "result": "October", "score": 4 },
                 { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
+                { "result": "December", "score": 1 }
               ]
             },
             {
               "answer": "you're",
               "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
+                { "result": "January", "score": 9 },
+                { "result": "Feburary", "score": 10 },
                 { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
+                { "result": "April", "score": 5 },
+                { "result": "May", "score": 6 },
+                { "result": "June", "score": 3 },
+                { "result": "July", "score": 7 },
+                { "result": "August", "score": 12 },
+                { "result": "September", "score": 11 },
+                { "result": "October", "score": 4 },
+                { "result": "November", "score": 8 },
+                { "result": "December", "score": 1 }
               ]
             },
             {
               "answer": "you",
               "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
+                { "result": "January", "score": 8 },
+                { "result": "Feburary", "score": 6 },
+                { "result": "March", "score": 3 },
+                { "result": "April", "score": 9 },
+                { "result": "May", "score": 11 },
                 { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
+                { "result": "July", "score": 12 },
+                { "result": "August", "score": 4 },
+                { "result": "September", "score": 2 },
+                { "result": "October", "score": 7 },
                 { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
+                { "result": "December", "score": 1 }
               ]
             },
             {
               "answer": "york",
               "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
+                { "result": "January", "score": 4 },
+                { "result": "Feburary", "score": 3 },
+                { "result": "March", "score": 11 },
+                { "result": "April", "score": 8 },
+                { "result": "May", "score": 7 },
+                { "result": "June", "score": 10 },
                 { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
+                { "result": "August", "score": 2 },
+                { "result": "September", "score": 1 },
                 { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
+                { "result": "November", "score": 5 },
+                { "result": "December", "score": 12 }
               ]
             }
           ]
@@ -843,52 +843,52 @@
             {
               "answer": "Arrive early",
               "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
+                { "result": "January", "score": 12 },
+                { "result": "Feburary", "score": 3 },
+                { "result": "March", "score": 1 },
+                { "result": "April", "score": 7 },
+                { "result": "May", "score": 8 },
                 { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
+                { "result": "July", "score": 4 },
+                { "result": "August", "score": 9 },
+                { "result": "September", "score": 10 },
+                { "result": "October", "score": 6 },
+                { "result": "November", "score": 2 },
                 { "result": "December", "score": 11 }
               ]
             },
             {
               "answer": "Arrive on time",
               "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
+                { "result": "January", "score": 10 },
+                { "result": "Feburary", "score": 3 },
+                { "result": "March", "score": 1 },
+                { "result": "April", "score": 12 },
+                { "result": "May", "score": 6 },
                 { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
+                { "result": "July", "score": 4 },
                 { "result": "August", "score": 7 },
                 { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
+                { "result": "October", "score": 11 },
+                { "result": "November", "score": 2 },
+                { "result": "December", "score": 9 }
               ]
             },
             {
               "answer": "Arrive late",
               "score": [
-                { "result": "January", "score": 0 },
-                { "result": "Feburary", "score": 1 },
-                { "result": "March", "score": 2 },
-                { "result": "April", "score": 3 },
-                { "result": "May", "score": 4 },
-                { "result": "June", "score": 5 },
-                { "result": "July", "score": 6 },
-                { "result": "August", "score": 7 },
-                { "result": "September", "score": 8 },
-                { "result": "October", "score": 9 },
-                { "result": "November", "score": 10 },
-                { "result": "December", "score": 11 }
+                { "result": "January", "score": 1 },
+                { "result": "Feburary", "score": 10 },
+                { "result": "March", "score": 12 },
+                { "result": "April", "score": 6 },
+                { "result": "May", "score": 5 },
+                { "result": "June", "score": 8 },
+                { "result": "July", "score": 9 },
+                { "result": "August", "score": 4 },
+                { "result": "September", "score": 3 },
+                { "result": "October", "score": 7 },
+                { "result": "November", "score": 11 },
+                { "result": "December", "score": 2 }
               ]
             }
           ]
@@ -1544,27 +1544,27 @@
             {
               "answer": "Yes, I can find my way.",
               "score": [
-                { "result": "Array", "score": 1 },
-                { "result": "Stack", "score": 2 },
-                { "result": "Linked-List", "score": 3 },
-                { "result": "Queue", "score": 4 },
+                { "result": "Array", "score": 2 },
+                { "result": "Stack", "score": 1 },
+                { "result": "Linked-List", "score": 4 },
+                { "result": "Queue", "score": 3 },
                 { "result": "Tree", "score": 5 },
-                { "result": "Graph", "score": 6 },
-                { "result": "Hash Map", "score": 7 },
-                { "result": "Heap", "score": 8 }
+                { "result": "Graph", "score": 7 },
+                { "result": "Hash Map", "score": 8 },
+                { "result": "Heap", "score": 6 }
               ]
             },
             {
               "answer": "No, I'll get lost immediately.",
               "score": [
-                { "result": "Array", "score": 1 },
-                { "result": "Stack", "score": 2 },
-                { "result": "Linked-List", "score": 3 },
-                { "result": "Queue", "score": 4 },
-                { "result": "Tree", "score": 5 },
-                { "result": "Graph", "score": 6 },
-                { "result": "Hash Map", "score": 7 },
-                { "result": "Heap", "score": 8 }
+                { "result": "Array", "score": 7 },
+                { "result": "Stack", "score": 8 },
+                { "result": "Linked-List", "score": 5 },
+                { "result": "Queue", "score": 6 },
+                { "result": "Tree", "score": 4 },
+                { "result": "Graph", "score": 2 },
+                { "result": "Hash Map", "score": 1 },
+                { "result": "Heap", "score": 3 }
               ]
             },
             {
@@ -1572,12 +1572,12 @@
               "score": [
                 { "result": "Array", "score": 1 },
                 { "result": "Stack", "score": 2 },
-                { "result": "Linked-List", "score": 3 },
+                { "result": "Linked-List", "score": 7 },
                 { "result": "Queue", "score": 4 },
                 { "result": "Tree", "score": 5 },
-                { "result": "Graph", "score": 6 },
-                { "result": "Hash Map", "score": 7 },
-                { "result": "Heap", "score": 8 }
+                { "result": "Graph", "score": 3 },
+                { "result": "Hash Map", "score": 6 },
+                { "result": "Heap", "score": 4 }
               ]
             }
           ]
@@ -1588,40 +1588,40 @@
             {
               "answer": "Yes, I know everything.",
               "score": [
-                { "result": "Array", "score": 1 },
-                { "result": "Stack", "score": 2 },
-                { "result": "Linked-List", "score": 3 },
-                { "result": "Queue", "score": 4 },
-                { "result": "Tree", "score": 5 },
+                { "result": "Array", "score": 5 },
+                { "result": "Stack", "score": 1 },
+                { "result": "Linked-List", "score": 7 },
+                { "result": "Queue", "score": 2 },
+                { "result": "Tree", "score": 3 },
                 { "result": "Graph", "score": 6 },
-                { "result": "Hash Map", "score": 7 },
-                { "result": "Heap", "score": 8 }
+                { "result": "Hash Map", "score": 8 },
+                { "result": "Heap", "score": 4 }
               ]
             },
             {
               "answer": "Depends on the topic.",
               "score": [
-                { "result": "Array", "score": 1 },
-                { "result": "Stack", "score": 2 },
-                { "result": "Linked-List", "score": 3 },
-                { "result": "Queue", "score": 4 },
-                { "result": "Tree", "score": 5 },
-                { "result": "Graph", "score": 6 },
-                { "result": "Hash Map", "score": 7 },
-                { "result": "Heap", "score": 8 }
+                { "result": "Array", "score": 8 },
+                { "result": "Stack", "score": 3 },
+                { "result": "Linked-List", "score": 5 },
+                { "result": "Queue", "score": 1 },
+                { "result": "Tree", "score": 6 },
+                { "result": "Graph", "score": 7 },
+                { "result": "Hash Map", "score": 4 },
+                { "result": "Heap", "score": 2 }
               ]
             },
             {
               "answer": "Not really.",
               "score": [
-                { "result": "Array", "score": 1 },
-                { "result": "Stack", "score": 2 },
-                { "result": "Linked-List", "score": 3 },
-                { "result": "Queue", "score": 4 },
-                { "result": "Tree", "score": 5 },
-                { "result": "Graph", "score": 6 },
-                { "result": "Hash Map", "score": 7 },
-                { "result": "Heap", "score": 8 }
+                { "result": "Array", "score": 4 },
+                { "result": "Stack", "score": 8 },
+                { "result": "Linked-List", "score": 2 },
+                { "result": "Queue", "score": 7 },
+                { "result": "Tree", "score": 6 },
+                { "result": "Graph", "score": 3 },
+                { "result": "Hash Map", "score": 1 },
+                { "result": "Heap", "score": 5 }
               ]
             }
           ]
@@ -1632,39 +1632,39 @@
             {
               "answer": "Super fast. Zoom!",
               "score": [
-                { "result": "Array", "score": 1 },
-                { "result": "Stack", "score": 2 },
-                { "result": "Linked-List", "score": 3 },
-                { "result": "Queue", "score": 4 },
-                { "result": "Tree", "score": 5 },
-                { "result": "Graph", "score": 6 },
-                { "result": "Hash Map", "score": 7 },
-                { "result": "Heap", "score": 8 }
+                { "result": "Array", "score": 7 },
+                { "result": "Stack", "score": 4 },
+                { "result": "Linked-List", "score": 6 },
+                { "result": "Queue", "score": 5 },
+                { "result": "Tree", "score": 3 },
+                { "result": "Graph", "score": 2 },
+                { "result": "Hash Map", "score": 8 },
+                { "result": "Heap", "score": 1 }
               ]
             },
             {
               "answer": "I'm pretty average speed-wise.",
               "score": [
-                { "result": "Array", "score": 1 },
-                { "result": "Stack", "score": 2 },
-                { "result": "Linked-List", "score": 3 },
-                { "result": "Queue", "score": 4 },
-                { "result": "Tree", "score": 5 },
-                { "result": "Graph", "score": 6 },
-                { "result": "Hash Map", "score": 7 },
-                { "result": "Heap", "score": 8 }
+                { "result": "Array", "score": 3 },
+                { "result": "Stack", "score": 8 },
+                { "result": "Linked-List", "score": 5 },
+                { "result": "Queue", "score": 7 },
+                { "result": "Tree", "score": 6 },
+                { "result": "Graph", "score": 4 },
+                { "result": "Hash Map", "score": 1 },
+                { "result": "Heap", "score": 2 }
               ]
             },
             {
               "answer": "Slow and steady wins the race.",
               "score": [
-                { "result": "Array", "score": 1 },
-                { "result": "Stack", "score": 2 },
+                { "result": "Array", "score": 2 },
+                { "result": "Stack", "score": 5 },
                 { "result": "Linked-List", "score": 3 },
                 { "result": "Queue", "score": 4 },
-                { "result": "Tree", "score": 5 },
-                { "result": "Graph", "score": 6 },
-                { "result": "Hash Map", "score": 7 },
+                { "result": "Tree", "score": 6 },
+                { "result": "Graph", "score": 7 },
+                { "result": "Hash Map", "score": 1 },
                 { "result": "Heap", "score": 8 }
               ]
             }
@@ -1676,57 +1676,57 @@
             {
               "answer": "Yes, I can alphabetize things easily.",
               "score": [
-                { "result": "Array", "score": 1 },
-                { "result": "Stack", "score": 2 },
-                { "result": "Linked-List", "score": 3 },
-                { "result": "Queue", "score": 4 },
-                { "result": "Tree", "score": 5 },
-                { "result": "Graph", "score": 6 },
+                { "result": "Array", "score": 8 },
+                { "result": "Stack", "score": 1 },
+                { "result": "Linked-List", "score": 5 },
+                { "result": "Queue", "score": 3 },
+                { "result": "Tree", "score": 4 },
+                { "result": "Graph", "score": 2 },
                 { "result": "Hash Map", "score": 7 },
-                { "result": "Heap", "score": 8 }
+                { "result": "Heap", "score": 6 }
               ]
             },
             {
               "answer": "A, B, C, D, E, F, G...",
               "score": [
                 { "result": "Array", "score": 1 },
-                { "result": "Stack", "score": 2 },
-                { "result": "Linked-List", "score": 3 },
-                { "result": "Queue", "score": 4 },
+                { "result": "Stack", "score": 8 },
+                { "result": "Linked-List", "score": 4 },
+                { "result": "Queue", "score": 6 },
                 { "result": "Tree", "score": 5 },
-                { "result": "Graph", "score": 6 },
-                { "result": "Hash Map", "score": 7 },
-                { "result": "Heap", "score": 8 }
+                { "result": "Graph", "score": 7 },
+                { "result": "Hash Map", "score": 2 },
+                { "result": "Heap", "score": 3 }
               ]
             }
           ]
         },
         {
-          "question": "Is your room clean right now?",
+          "question": "Are you easy going?",
           "answers": [
             {
               "answer": "Yes",
               "score": [
-                { "result": "Array", "score": 1 },
-                { "result": "Stack", "score": 2 },
-                { "result": "Linked-List", "score": 3 },
-                { "result": "Queue", "score": 4 },
-                { "result": "Tree", "score": 5 },
-                { "result": "Graph", "score": 6 },
+                { "result": "Array", "score": 8 },
+                { "result": "Stack", "score": 5 },
+                { "result": "Linked-List", "score": 4 },
+                { "result": "Queue", "score": 6 },
+                { "result": "Tree", "score": 3 },
+                { "result": "Graph", "score": 2 },
                 { "result": "Hash Map", "score": 7 },
-                { "result": "Heap", "score": 8 }
+                { "result": "Heap", "score": 1 }
               ]
             },
             {
               "answer": "No",
               "score": [
                 { "result": "Array", "score": 1 },
-                { "result": "Stack", "score": 2 },
-                { "result": "Linked-List", "score": 3 },
-                { "result": "Queue", "score": 4 },
-                { "result": "Tree", "score": 5 },
-                { "result": "Graph", "score": 6 },
-                { "result": "Hash Map", "score": 7 },
+                { "result": "Stack", "score": 4 },
+                { "result": "Linked-List", "score": 5 },
+                { "result": "Queue", "score": 6 },
+                { "result": "Tree", "score": 6 },
+                { "result": "Graph", "score": 7 },
+                { "result": "Hash Map", "score": 2 },
                 { "result": "Heap", "score": 8 }
               ]
             }
