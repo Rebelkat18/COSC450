@@ -82,11 +82,12 @@ p {
 }
 
 /* Small screens and laptops. */
-
 @media only screen and (max-width: 1024px) and (max-height: 1180px) {
   #city {
-    top: 18pc;
+    top: 17pc;
     height: 225%;
+    width:175%;
+    left: -40%;
   }
   .btn2 {
     left: 22%;
@@ -101,7 +102,9 @@ p {
 @media only screen and (max-width: 610px) {
   #city {
     height: 200%;
-    top: 20pc;
+    width:400%;
+    top: 22pc;
+    left: -150%;
   }
 
   .btn2 {
