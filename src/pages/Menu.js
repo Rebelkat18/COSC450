@@ -5,6 +5,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import ToggleButton from "react-bootstrap/ToggleButton";
 import reset from "../Components/Reset";
 import { useNavigate } from "react-router-dom";
+import { useEffect } from "react";
 
 const Menu = (props) => {
   //Making list of answers to display
@@ -20,6 +21,10 @@ const Menu = (props) => {
     props.setQuiz(value);
     nav("/COSC450/quizzes");
   }
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []); 
 
   return (
     <div className="Menu-container">

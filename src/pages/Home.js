@@ -4,6 +4,7 @@ import { Link, useNavigate } from "react-router-dom";
 import ButtonGroup from "react-bootstrap/ButtonGroup";
 import reset from "../Components/Reset";
 import city from "../Components/204.jpg";
+import { useEffect } from "react";
 
 function Home(props) {
   const nav = useNavigate();
@@ -21,6 +22,10 @@ function Home(props) {
     nav("/COSC450/quizzes");
   }
 
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   return (
     <div className="home-Con">
       <header>
@@ -32,6 +37,10 @@ function Home(props) {
           <Link to="/COSC450/menu" onClick={() => reset(props)}>Quizzes</Link>
         </nav>
       </header>
+
+      <div>
+        <img src={city} id="city" alt="Background of cities."></img>
+      </div>
 
       <ButtonGroup className="btn2">
       <div class="btn-group-vertical">
@@ -73,11 +82,6 @@ function Home(props) {
         </button>
         </div>
       </ButtonGroup>
-
-      <div>
-        <img src={city} id="city" alt="Background of cities."></img>
-      </div>
-
     </div >
   );
 }

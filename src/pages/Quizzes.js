@@ -4,10 +4,14 @@ import data from "../data.json";
 import Quiz from "../Components/Quiz";
 import { Link } from "react-router-dom";
 import reset from "../Components/Reset";
+import { useEffect } from "react";
 
 function Quizzes(props) {
   //to see everything...
   // console.log(data);
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
 
   return (
     <div className="quiz-Con">

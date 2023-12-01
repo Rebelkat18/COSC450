@@ -19,6 +19,18 @@ body {
   background-attachment: fixed;
 }
 
+/* For Mobile Devices. */
+@media only screen and (max-width: 610px) {
+  body {
+  background: linear-gradient(
+    180deg,
+    rgb(128.36, 11.15, 120.26) 0%,
+    rgb(158.5, 7.2, 181) 50%,
+    rgb(195.64, 2.84, 227.02) 100%
+  );
+  }
+}
+
 /* Global header alignment and style. */
 header {
   position: fixed;
