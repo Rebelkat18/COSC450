@@ -51,6 +51,7 @@ p {
   transform: translate(-50%, -50%);
   display: block;
   margin-bottom: 125vh;
+  z-index: 1;
 }
 
 .butt {
@@ -110,5 +111,14 @@ p {
   .btn2 {
     left: 87%;
     width: 350%;
+  }
+
+  body {
+    background: linear-gradient(
+      180deg,
+      rgb(128.36, 11.15, 120.26) 0%,
+      rgb(158.5, 7.2, 181) 63.91%,
+      rgb(195.64, 2.84, 227.02) 100%
+    );
   }
 }
