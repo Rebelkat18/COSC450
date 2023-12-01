@@ -43,6 +43,14 @@ function Home(props) {
           {" "}
           Which day of the week are you? {" "}
         </button>
+        <button className="butt" onClick={() => set(2)}>
+          {" "}
+          Which month are you? {" "}
+        </button>
+        <button className="butt" onClick={() => set(3)}>
+          {" "}
+          Which Pokemon are you? {" "}
+        </button>
         <button className="butt" onClick={() => set(4)}>
           {" "}
           Which Friend are you? {" "}
@@ -50,6 +58,10 @@ function Home(props) {
         <button className="butt" onClick={() => set(5)}>
           {" "}
           Which programming language are you? {" "}
+        </button>
+        <button className="butt" onClick={() => set(6)}>
+          {" "}
+          Which data structure are you? {" "}
         </button>
         <button className="butt" onClick={() => set(7)}>
           {" "}
